@@ -1,0 +1,11 @@
+ 
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore data files
+/data/raw_logs/*
+/data/processed/*
+
+# Ignore trained models
+/models/*

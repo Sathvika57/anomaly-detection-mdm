@@ -1,0 +1,6 @@
+timestamp,device_id,user,event_type,action,result,status_code,os,os_version,app_id,ip,message
+2025-08-31T09:01:02Z,D001,emp11,Auth,Login,Fail,401,iOS,17.6,,10.1.2.3,"Failed login"
+2025-08-31T09:02:30Z,D001,emp11,Command,ProfileInstall,Fail,500,iOS,17.6,,10.1.2.3,"profile install fail"
+2025-08-31T09:04:11Z,D002,emp22,MDM,Heartbeat,OK,,Android,14,,10.1.2.8,"ok"
+2025-08-31T09:05:00Z,D003,emp33,Security,Integrity,Warn,300,iOS,18,,10.1.2.9,"Jailbreak suspected"
+2025-08-31T09:06:10Z,D001,emp11,App,Install,Blocked,,iOS,17.6,com.bad.app,10.1.2.3,"blocked app"

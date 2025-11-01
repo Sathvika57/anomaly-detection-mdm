@@ -1,0 +1,6 @@
+file,anomaly_count
+anomalies_processed_logs.csv,0
+anomalies_processed_logs2.csv,1
+anomalies_processed_mdm_100_anomalies.csv,100
+anomalies_processed_mdm_anomaly_sample.csv,10
+anomalies_processed_sample_log.csv,0

@@ -1,0 +1,16 @@
+[2025-09-16 00:23:40] Input: data\data_raw\Device Battery Log.csv -> Output: data\data_clean\clean_20250916_002340.csv
+[2025-09-16 00:31:06] Input: data\data_raw\Device Battery Log.csv -> Output: data\data_clean\clean_20250916_003106.csv
+[2025-09-16 00:42:35] Input: data\data_raw\Device Battery Log.csv -> Output: data\data_clean\clean_20250916_004235.csv
+[2025-09-16 00:42:53] Input: data\data_features\features_anomaly.csv -> Output: data/reports\report_summary.csv
+[2025-09-16 00:49:39] Input: data\data_raw\Device Battery Log.csv -> Output: data\data_clean\clean_20250916_004938.csv
+[2025-09-16 00:49:58] Input: data\data_features\features_anomaly.csv -> Output: data/reports\report_summary.csv
+[2025-09-16 00:58:15] Input: data/data_raw\Device Battery Log.csv -> Output: data/data_clean\clean_20250916_005815.csv
+[2025-09-16 20:25:43] Input: data/data_raw\Device Battery Log.csv -> Output: data/data_clean\clean_20250916_202543.csv
+[2025-09-16 20:38:07] Input: data/data_raw\Device Battery Log.csv -> Output: data/data_clean\clean_20250916_203807.csv
+[2025-09-16 20:43:08] Input: data/data_raw\Device Battery Log.csv -> Output: data/data_clean\clean_20250916_204308.csv
+[2025-09-16 20:44:35] Input: data/data_raw\Device Battery Log.csv -> Output: data/data_clean\clean_20250916_204435.csv
+[2025-09-17 21:16:17] Input: data/data_raw\Device Battery Log.csv -> Output: data/data_clean\clean_20250917_211617.csv
+[2025-09-30 19:13:12] Input: data/data_raw\synthetic_mdm.csv -> Output: data/data_clean\clean_20250930_191312.csv
+[2025-09-30 19:16:09] Input: data/data_raw\synthetic_mdm_with_anomalies.csv -> Output: data/data_clean\clean_20250930_191609.csv
+[2025-09-30 19:34:37] Input: data/data_raw\synthetic_mdm.csv -> Output: data/data_clean\clean_20250930_193437.csv
+[2025-09-30 20:00:12] Input: data/data_raw\synthetic_mdm.csv -> Output: data/data_clean\clean_20250930_200012.csv

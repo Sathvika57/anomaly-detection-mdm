@@ -1,6 +1,14 @@
- 
-numpy
 pandas
-matplotlib
+numpy
 scikit-learn
-jupyter
+matplotlib
+plotly
+streamlit
+python-dotenv
+fpdf
+python-docx
+schedule
+openpyxl
+tensorflow>=2.12.0; extra == "autoencoder"
+faker
+

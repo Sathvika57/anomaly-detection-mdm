@@ -1,0 +1,1001 @@
+timestamp,device_id,user_id_hash,event_type,action,result,status,os,os_version,app_id,ip,geo_lat,geo_lon,compliance_state,message
+2025-08-25 15:49:26+00:00,D041,-4962474135160653546,login,login,fail,401,iOS,15.2,com.company.vpn,14.229.247.219,-32.854651,-105.100407,compliant,configuration updated
+2025-08-16 02:54:15+00:00,D048,-4786538137337303512,config_change,config_change,fail,403,iOS,14.8,com.company.mail,21.44.197.99,13.64142,-24.084905,compliant,login failed
+2025-08-24 16:16:12+00:00,D033,1583440146911701819,config_change,config_change,fail,400,Android,15.2,com.company.mdm,150.66.131.73,-58.7906295,106.230046,noncompliant,login success
+2025-09-10 04:25:44+00:00,D049,-7700969487965667866,logout,logout,success,401,Android,15.2,com.company.vpn,35.26.170.37,28.6153575,87.117449,noncompliant,login success
+2025-08-18 19:22:53+00:00,D006,1517404763552275029,update,update,fail,401,Android,14.8,com.company.mdm,147.70.254.97,1.583577,-62.693069,compliant,app blocked by policy
+2025-08-17 02:59:01+00:00,D006,5781286459064148381,config_change,config_change,success,500,Android,12.0,com.company.vpn,89.230.2.136,48.445322,-159.516582,compliant,login success
+2025-08-16 03:07:24+00:00,D043,1324672877378328338,logout,logout,success,200,iOS,14.8,com.company.mdm,140.120.124.56,-4.5103565,17.04898,noncompliant,app blocked by policy
+2025-08-28 09:27:29+00:00,D041,-5332720951671614201,install,install,fail,401,iOS,13.0,com.company.chat,14.209.58.16,-67.5622755,99.750897,compliant,jailbreak/root detected
+2025-08-21 10:52:46+00:00,D041,-942606035521562889,logout,logout,success,400,iOS,11.0,com.company.mdm,92.196.194.25,-10.585002,91.107923,noncompliant,configuration updated
+2025-09-09 19:12:59+00:00,D045,6341632284466112782,config_change,config_change,success,401,iOS,15.2,com.company.mail,103.69.190.33,-12.5950285,-56.576187,noncompliant,app blocked by policy
+2025-09-08 04:45:00+00:00,D018,8387610216913889410,login,login,success,500,Android,15.2,com.company.mdm,89.159.181.127,-9.440522,-147.503699,noncompliant,configuration updated
+2025-09-08 23:22:32+00:00,D030,6595339953120388503,logout,logout,success,400,Android,13.0,com.company.mdm,67.2.84.108,-38.4440915,-109.551235,noncompliant,profile install fail
+2025-08-20 19:01:25+00:00,D015,4535255596529420925,logout,logout,success,200,iOS,14.8,com.company.vpn,27.135.72.100,-66.341537,-153.136822,compliant,configuration updated
+2025-08-29 13:46:59+00:00,D028,819607356495659592,config_change,config_change,fail,403,Android,12.0,com.company.chat,62.61.142.212,-86.124015,-80.373966,compliant,configuration updated
+2025-09-01 05:34:15+00:00,D047,-8640449697077579546,login,login,success,500,Android,13.0,com.company.chat,68.244.18.93,-7.486951,164.909495,compliant,profile install fail
+2025-09-11 17:21:02+00:00,D028,2004429173054318770,logout,logout,success,401,iOS,12.0,com.company.mail,194.218.16.88,16.5888505,-134.839008,noncompliant,configuration updated
+2025-08-15 17:41:46+00:00,D033,-935192290182343800,config_change,config_change,fail,401,iOS,12.0,com.company.mail,143.152.169.24,31.408506,-27.58744,noncompliant,app blocked by policy
+2025-08-15 16:38:59+00:00,D002,-3085662756231877580,login,login,success,401,iOS,14.8,com.company.vpn,170.165.99.78,4.767243,-43.920378,compliant,login success
+2025-09-08 00:28:48+00:00,D047,347150305750126426,update,update,success,500,iOS,15.2,com.company.mdm,157.15.156.255,8.432171,-23.811597,compliant,profile install fail
+2025-09-07 18:35:30+00:00,D034,-8591216763305075772,config_change,config_change,success,400,iOS,13.0,com.company.chat,2.81.181.20,58.2996005,158.212393,noncompliant,configuration updated
+2025-08-16 10:52:32+00:00,D042,-3702957211594907747,install,install,success,500,Android,14.8,com.company.vpn,161.1.166.140,69.1584555,-18.503855,compliant,login success
+2025-09-09 23:13:04+00:00,D022,-256813353613188212,login,login,success,400,iOS,14.8,com.company.mail,4.213.47.67,30.2030275,93.491047,compliant,login failed
+2025-09-11 19:49:17+00:00,D005,1119029831422115891,login,login,success,200,iOS,16.1,com.company.mdm,9.21.238.16,-24.830808,93.771966,compliant,jailbreak/root detected
+2025-08-14 23:11:30+00:00,D009,8421939669677116382,config_change,config_change,success,400,Android,11.0,com.company.vpn,159.71.59.82,71.7844885,4.006412,compliant,login success
+2025-08-21 12:57:55+00:00,D043,-5706732446580541639,update,update,success,403,Android,13.0,com.company.mail,150.39.21.130,83.3153835,150.390054,compliant,login success
+2025-09-07 09:26:26+00:00,D026,8901832956176645235,install,install,success,200,iOS,15.2,com.company.vpn,147.137.140.163,48.498414,-118.736539,noncompliant,login failed
+2025-08-17 20:42:17+00:00,D028,-735498845124212933,logout,logout,success,400,iOS,11.0,com.company.mail,40.135.20.0,10.342221,101.950409,compliant,configuration updated
+2025-08-24 07:20:38+00:00,D035,-6471624686960342620,login,login,success,400,iOS,11.0,com.company.mdm,6.20.58.140,70.6450235,-33.505569,noncompliant,login failed
+2025-08-27 17:25:29+00:00,D026,-6242577068619643827,login,login,fail,200,Android,16.1,com.company.mdm,37.71.188.227,-25.7130225,-118.039198,noncompliant,app blocked by policy
+2025-08-20 07:41:33+00:00,D045,3815265959032138652,config_change,config_change,success,403,iOS,15.2,com.company.chat,115.129.152.48,17.8712645,-114.650361,compliant,login success
+2025-09-05 19:00:22+00:00,D038,8450064462097605734,config_change,config_change,fail,401,iOS,14.8,com.company.mdm,51.131.181.146,33.619306,93.218798,compliant,login success
+2025-08-22 10:33:55+00:00,D033,-2679118547807937102,login,login,success,200,iOS,13.0,com.company.vpn,198.130.144.95,-38.9531845,-174.705973,noncompliant,login success
+2025-08-28 21:47:36+00:00,D037,4800336880312062317,logout,logout,success,200,iOS,11.0,com.company.chat,143.42.161.3,-61.625305,102.531345,noncompliant,login failed
+2025-08-30 15:28:18+00:00,D043,-8373855429327354033,install,install,success,403,iOS,13.0,com.company.chat,148.218.100.230,-24.2015425,40.038065,noncompliant,profile install fail
+2025-09-12 15:25:55+00:00,D049,7429055948489724954,login,login,fail,500,iOS,14.8,com.company.vpn,223.14.34.3,-26.8346415,112.777665,noncompliant,login failed
+2025-09-10 00:29:35+00:00,D023,7508652825067094058,login,login,success,401,Android,15.2,com.company.mdm,122.183.224.45,-55.19122,58.339429,noncompliant,jailbreak/root detected
+2025-09-07 05:27:50+00:00,D042,-2048924361991367554,config_change,config_change,fail,500,Android,13.0,com.company.mail,109.103.91.37,14.8596735,-88.501743,compliant,profile install fail
+2025-08-29 09:50:48+00:00,D008,-2618766019529745548,login,login,success,400,Android,16.1,com.company.vpn,119.22.92.203,-32.653045,112.404118,noncompliant,login failed
+2025-09-02 15:34:43+00:00,D044,4674812492356975670,install,install,success,401,iOS,14.8,com.company.mdm,199.71.187.202,75.7872725,-53.143054,noncompliant,login success
+2025-09-12 18:37:56+00:00,D001,-7248233572179033140,install,install,success,401,iOS,13.0,com.company.mdm,205.187.126.31,-17.792533,136.527924,noncompliant,jailbreak/root detected
+2025-08-28 01:51:45+00:00,D001,2836033836479583071,login,login,fail,400,iOS,16.1,com.company.vpn,102.30.46.70,-72.121334,147.223673,noncompliant,login failed
+2025-08-25 01:28:43+00:00,D003,9024704595696893436,install,install,success,200,Android,15.2,com.company.vpn,76.19.94.62,-62.6074125,160.447628,compliant,profile install fail
+2025-09-04 16:40:58+00:00,D050,8627171220907869741,config_change,config_change,success,403,iOS,15.2,com.company.vpn,202.189.53.213,-14.092389,72.390427,compliant,app blocked by policy
+2025-09-11 06:13:45+00:00,D002,-4369241949689463694,logout,logout,success,401,Android,13.0,com.company.vpn,153.94.162.119,-59.4019945,14.139086,noncompliant,login failed
+2025-08-27 23:11:40+00:00,D045,3618348373062826075,login,login,success,200,Android,15.2,com.company.vpn,55.17.240.92,65.349687,-44.091543,noncompliant,profile install fail
+2025-08-18 05:20:18+00:00,D020,9084078315415788995,logout,logout,success,400,Android,16.1,com.company.chat,2.64.14.215,3.41881,-37.834752,compliant,profile install fail
+2025-08-27 14:07:25+00:00,D023,-8906179365786295512,config_change,config_change,success,500,Android,14.8,com.company.mail,170.58.17.27,60.7335255,-15.356379,noncompliant,login failed
+2025-08-19 16:32:47+00:00,D038,-1025587747288526087,install,install,fail,500,Android,16.1,com.company.chat,65.178.201.224,-1.164626,-73.594671,noncompliant,jailbreak/root detected
+2025-08-15 14:17:06+00:00,D033,5115735271573139080,login,login,success,500,iOS,16.1,com.company.mail,146.229.118.93,-78.887223,161.51583,noncompliant,login success
+2025-08-19 17:15:08+00:00,D034,-2859020354705791856,config_change,config_change,success,400,Android,11.0,com.company.mail,40.19.152.71,-47.1229305,89.024297,noncompliant,jailbreak/root detected
+2025-08-21 14:04:56+00:00,D021,-8113269343067654031,login,login,success,401,Android,13.0,com.company.mdm,126.33.187.57,-55.5958765,160.722218,noncompliant,app blocked by policy
+2025-08-17 04:14:45+00:00,D045,-1691791673375608943,install,install,success,400,Android,13.0,com.company.mdm,48.183.102.81,11.4648405,161.975883,compliant,jailbreak/root detected
+2025-09-01 14:10:37+00:00,D037,707242677320269404,install,install,success,200,Android,16.1,com.company.vpn,99.157.111.53,-51.833534,136.277702,noncompliant,jailbreak/root detected
+2025-09-01 13:00:31+00:00,D039,7655821652124294573,install,install,success,403,iOS,12.0,com.company.mdm,146.7.5.248,24.8976385,-91.219294,compliant,configuration updated
+2025-09-11 21:02:55+00:00,D006,7907786011067463518,install,install,success,500,Android,14.8,com.company.vpn,15.102.180.126,63.3746835,-170.467323,noncompliant,login failed
+2025-08-23 03:34:09+00:00,D013,3820783667608268494,logout,logout,fail,400,Android,12.0,com.company.mail,64.247.223.122,-26.696936,154.614747,noncompliant,app blocked by policy
+2025-08-25 07:39:44+00:00,D041,3953254815554349927,config_change,config_change,fail,403,Android,11.0,com.company.vpn,2.233.226.179,25.211293,18.580881,compliant,configuration updated
+2025-09-01 21:20:57+00:00,D045,4597349814266197356,login,login,success,200,Android,15.2,com.company.vpn,208.102.142.136,50.804446,-23.764261,noncompliant,login success
+2025-08-25 21:26:46+00:00,D036,215288558844282640,logout,logout,success,200,Android,15.2,com.company.mdm,37.108.235.192,-13.042559,-12.402913,noncompliant,app blocked by policy
+2025-08-27 01:19:56+00:00,D040,5034319110621840420,config_change,config_change,success,500,Android,15.2,com.company.mdm,161.239.75.225,-39.3728685,19.773873,noncompliant,profile install fail
+2025-08-19 17:47:50+00:00,D049,-4826058708161378429,logout,logout,success,401,Android,13.0,com.company.vpn,108.35.138.21,-44.855478,-12.744721,noncompliant,app blocked by policy
+2025-09-09 14:08:37+00:00,D005,-2351954605242717133,install,install,success,401,Android,12.0,com.company.mail,39.180.133.1,-80.318281,-74.692166,compliant,login failed
+2025-08-21 01:07:03+00:00,D015,3472173675909555687,update,update,success,400,iOS,11.0,com.company.mdm,60.9.113.138,-40.408944,103.611044,noncompliant,jailbreak/root detected
+2025-08-17 17:17:12+00:00,D030,-5494223579816467123,update,update,fail,403,Android,12.0,com.company.mail,112.51.147.117,9.565198,-82.797458,noncompliant,app blocked by policy
+2025-08-17 01:11:53+00:00,D001,-8408841969920682515,install,install,success,403,Android,12.0,com.company.vpn,155.19.209.63,-61.9606145,-136.523353,noncompliant,login failed
+2025-09-05 13:49:21+00:00,D018,1702882681308811149,update,update,success,403,Android,13.0,com.company.mdm,171.127.222.228,45.786476,27.528826,compliant,app blocked by policy
+2025-08-31 18:05:30+00:00,D009,3079697576883479329,config_change,config_change,success,403,iOS,14.8,com.company.mdm,85.80.71.227,-33.51696,33.064846,compliant,app blocked by policy
+2025-09-06 11:35:44+00:00,D012,-6595405535440838448,login,login,success,401,iOS,11.0,com.company.chat,221.216.240.76,-76.889883,-42.917694,noncompliant,app blocked by policy
+2025-08-16 20:04:39+00:00,D018,-7535167288044064233,update,update,success,200,Android,14.8,com.company.mail,23.179.131.13,-38.4601315,-152.193559,noncompliant,login failed
+2025-08-24 21:12:26+00:00,D042,5071284932213413440,login,login,success,200,iOS,15.2,com.company.vpn,55.129.201.30,-11.060572,154.213211,compliant,jailbreak/root detected
+2025-08-30 20:00:23+00:00,D010,-2730914692546315783,logout,logout,fail,200,iOS,11.0,com.company.chat,133.171.239.121,19.6220165,116.549729,noncompliant,login failed
+2025-08-30 16:57:33+00:00,D039,-7712711178351590351,config_change,config_change,success,200,iOS,16.1,com.company.mail,200.213.96.155,79.1097195,-147.574694,compliant,profile install fail
+2025-08-31 21:00:33+00:00,D037,5199608279284172666,update,update,success,400,iOS,12.0,com.company.vpn,135.148.246.225,89.0954185,-141.243771,compliant,configuration updated
+2025-09-04 23:24:26+00:00,D050,-6019540639134233945,install,install,success,500,iOS,12.0,com.company.mail,84.13.85.186,86.7173765,164.13285,noncompliant,jailbreak/root detected
+2025-08-15 14:56:31+00:00,D028,-5664239079046768833,install,install,fail,401,iOS,11.0,com.company.mdm,126.214.47.47,-44.9233915,19.792392,compliant,app blocked by policy
+2025-08-26 09:42:12+00:00,D024,1291128612740431303,update,update,success,403,iOS,13.0,com.company.chat,6.111.59.120,-63.0946665,117.303152,noncompliant,app blocked by policy
+2025-09-12 23:48:23+00:00,D028,-6310799306800062191,config_change,config_change,success,400,iOS,16.1,com.company.mdm,148.244.9.204,-84.757127,0.290543,compliant,app blocked by policy
+2025-09-06 20:02:50+00:00,D037,-925442587407609982,config_change,config_change,success,401,iOS,11.0,com.company.chat,43.81.23.81,39.108017,20.322546,compliant,app blocked by policy
+2025-08-20 08:34:27+00:00,D014,-1995000666450184094,install,install,success,401,Android,12.0,com.company.chat,150.45.65.202,-76.1143855,11.712559,compliant,jailbreak/root detected
+2025-08-23 02:10:43+00:00,D013,3436719735246694993,login,login,success,403,Android,12.0,com.company.vpn,93.75.80.246,-60.3844825,115.110687,noncompliant,configuration updated
+2025-09-09 09:07:08+00:00,D046,5277595641172970826,update,update,success,200,iOS,16.1,com.company.vpn,32.147.123.111,28.0254635,-28.659221,noncompliant,configuration updated
+2025-08-26 12:17:16+00:00,D016,3562911700323852013,install,install,success,401,Android,12.0,com.company.chat,109.6.38.212,32.2223475,35.877351,noncompliant,configuration updated
+2025-08-27 05:58:06+00:00,D036,-7067203540069289177,install,install,success,403,Android,16.1,com.company.chat,33.81.231.205,-53.585032,-104.570886,compliant,login success
+2025-08-22 15:43:28+00:00,D047,-7790128544510951164,logout,logout,success,500,iOS,15.2,com.company.vpn,53.223.121.70,-63.7235345,160.576451,noncompliant,profile install fail
+2025-08-27 23:33:34+00:00,D047,7008419223565646495,config_change,config_change,success,500,Android,14.8,com.company.vpn,21.157.175.228,-67.2250605,-136.240981,noncompliant,login failed
+2025-09-11 20:20:35+00:00,D024,7734850341832099678,logout,logout,success,500,iOS,16.1,com.company.mail,109.104.32.105,-51.0895955,55.336242,compliant,jailbreak/root detected
+2025-09-06 20:41:06+00:00,D019,-6513862151612457066,logout,logout,success,403,iOS,14.8,com.company.chat,161.78.50.11,45.9046015,151.576503,noncompliant,app blocked by policy
+2025-09-10 02:57:50+00:00,D029,4289532428511623942,install,install,fail,200,Android,11.0,com.company.mail,116.112.169.47,-1.307538,115.387032,compliant,app blocked by policy
+2025-09-02 09:55:29+00:00,D032,-3548060293379409008,login,login,success,200,iOS,15.2,com.company.chat,8.85.63.83,-79.3962115,-71.835421,compliant,login failed
+2025-08-26 23:53:45+00:00,D008,2796043274942542575,config_change,config_change,success,500,iOS,12.0,com.company.mdm,8.159.42.82,-57.621188,-29.227524,noncompliant,app blocked by policy
+2025-08-29 20:12:10+00:00,D020,2939209120507982531,config_change,config_change,success,401,iOS,12.0,com.company.mail,172.247.243.203,32.8952045,-127.042346,compliant,configuration updated
+2025-08-30 05:29:08+00:00,D014,8955820326693071017,install,install,success,400,iOS,15.2,com.company.mail,188.130.82.50,-12.0203115,88.991035,compliant,login success
+2025-08-27 17:38:00+00:00,D027,4251784601565933779,update,update,success,403,Android,14.8,com.company.vpn,206.111.86.136,71.274302,-35.275245,noncompliant,configuration updated
+2025-09-05 17:00:05+00:00,D019,6014450314626237448,update,update,fail,400,Android,13.0,com.company.vpn,199.222.42.173,-36.698759,27.910693,noncompliant,login success
+2025-09-05 05:29:35+00:00,D035,-5986891106609762887,logout,logout,success,401,iOS,14.8,com.company.mail,196.158.21.71,-23.5323985,-87.708476,compliant,profile install fail
+2025-09-07 09:43:51+00:00,D039,6045766065054561358,config_change,config_change,success,403,iOS,11.0,com.company.chat,13.169.3.112,28.6421395,3.225389,noncompliant,profile install fail
+2025-09-01 13:16:31+00:00,D033,645655606214096264,config_change,config_change,success,200,iOS,11.0,com.company.chat,35.245.180.164,-85.176227,29.950087,noncompliant,login success
+2025-09-02 14:46:48+00:00,D006,4211311060269029730,logout,logout,success,500,iOS,13.0,com.company.chat,162.169.51.212,-51.7161875,-98.087287,compliant,login failed
+2025-09-06 02:08:40+00:00,D031,-4742082826717620842,config_change,config_change,success,401,iOS,12.0,com.company.mdm,155.25.77.234,42.91768,-130.898557,noncompliant,login success
+2025-08-21 01:22:36+00:00,D031,-7844566103086427794,install,install,success,401,iOS,15.2,com.company.chat,143.70.138.36,-66.2103165,83.264216,noncompliant,configuration updated
+2025-08-24 03:07:46+00:00,D032,-5256025543318498740,install,install,success,403,iOS,11.0,com.company.mail,109.233.45.255,5.475158,-52.4736,noncompliant,profile install fail
+2025-08-18 18:20:21+00:00,D021,2370005103912701280,login,login,success,403,iOS,13.0,com.company.mdm,129.138.18.122,10.3128095,-74.855606,noncompliant,login success
+2025-08-23 04:08:20+00:00,D013,826733322445641785,config_change,config_change,success,403,Android,14.8,com.company.vpn,188.54.123.28,75.300691,-88.162218,noncompliant,jailbreak/root detected
+2025-09-01 01:13:39+00:00,D009,7601481452257064554,install,install,success,403,iOS,14.8,com.company.vpn,202.195.15.214,-70.4371725,22.401621,compliant,profile install fail
+2025-08-19 20:40:05+00:00,D036,-5053939733337981460,login,login,success,200,iOS,14.8,com.company.mdm,159.44.37.202,80.8327205,-124.937992,compliant,configuration updated
+2025-09-12 02:56:13+00:00,D010,-5757486666371563944,update,update,success,401,Android,11.0,com.company.mdm,68.152.92.45,88.9393275,-123.539879,noncompliant,login failed
+2025-08-27 20:26:04+00:00,D030,5189806678096586375,config_change,config_change,fail,400,iOS,14.8,com.company.chat,182.51.188.188,87.6212125,-39.421862,noncompliant,profile install fail
+2025-09-02 10:14:39+00:00,D033,3568059136328148311,install,install,success,401,Android,12.0,com.company.mdm,93.103.85.76,13.393019,-44.152731,compliant,app blocked by policy
+2025-09-07 12:04:36+00:00,D035,-9034428346038328866,update,update,success,500,Android,11.0,com.company.chat,125.224.185.112,-53.9965,-98.720191,compliant,configuration updated
+2025-09-09 05:32:51+00:00,D016,-3787151330582110718,config_change,config_change,success,403,iOS,16.1,com.company.mdm,33.128.161.141,69.5639545,-57.490761,noncompliant,app blocked by policy
+2025-08-15 02:51:18+00:00,D043,8181761903671732721,logout,logout,success,200,iOS,12.0,com.company.chat,80.148.166.162,88.9456655,20.025691,compliant,app blocked by policy
+2025-08-28 05:01:05+00:00,D007,-8358035427498125478,config_change,config_change,success,200,iOS,11.0,com.company.vpn,69.34.244.59,27.712734,169.413988,compliant,app blocked by policy
+2025-09-11 08:46:35+00:00,D017,8361227540965987181,install,install,success,403,iOS,16.1,com.company.mdm,155.101.63.24,-20.4610795,-131.200665,noncompliant,configuration updated
+2025-08-27 10:25:57+00:00,D046,4005291627982010295,update,update,success,200,iOS,15.2,com.company.chat,21.17.22.148,-34.7269015,142.411818,compliant,configuration updated
+2025-08-19 06:12:43+00:00,D006,128443010784993785,update,update,success,200,Android,15.2,com.company.chat,23.191.221.15,13.3051765,-116.667567,compliant,login success
+2025-08-19 17:30:14+00:00,D021,6157041140263449602,login,login,success,401,Android,15.2,com.company.vpn,110.36.16.173,-41.407834,-156.765011,noncompliant,jailbreak/root detected
+2025-09-07 05:36:56+00:00,D044,-1283514607630708001,logout,logout,fail,200,Android,12.0,com.company.vpn,44.33.100.161,-74.0387115,92.294897,noncompliant,jailbreak/root detected
+2025-09-11 13:24:42+00:00,D010,4130427605588915503,logout,logout,success,401,Android,16.1,com.company.mail,54.1.85.235,-89.8257905,-24.025536,noncompliant,profile install fail
+2025-08-22 18:16:41+00:00,D044,4596680507207346230,config_change,config_change,fail,403,Android,12.0,com.company.chat,1.128.0.185,-18.344287,-179.206257,noncompliant,configuration updated
+2025-08-17 05:12:50+00:00,D017,3033724277891454756,update,update,success,400,Android,11.0,com.company.mail,158.119.3.168,-2.768003,-1.369896,compliant,app blocked by policy
+2025-09-02 09:57:23+00:00,D037,-1140732426900703512,install,install,success,401,iOS,13.0,com.company.mdm,112.109.75.150,53.252734,32.494428,noncompliant,login success
+2025-08-17 12:31:48+00:00,D037,-6452333052038592523,login,login,success,403,Android,15.2,com.company.chat,152.54.243.211,2.2980135,-143.83424,compliant,configuration updated
+2025-09-08 05:26:10+00:00,D013,1701392693300465899,config_change,config_change,success,400,iOS,13.0,com.company.mail,105.76.221.180,55.125642,-50.520939,noncompliant,app blocked by policy
+2025-09-12 15:06:21+00:00,D003,1071661047371162135,config_change,config_change,success,400,iOS,16.1,com.company.chat,68.192.23.70,-73.777685,48.045068,noncompliant,login failed
+2025-09-04 05:37:47+00:00,D013,-3284660472598327322,logout,logout,success,401,Android,15.2,com.company.chat,108.230.231.72,49.4360405,-15.132512,noncompliant,profile install fail
+2025-08-18 08:20:59+00:00,D048,-354544260809528656,install,install,success,403,iOS,15.2,com.company.vpn,104.11.115.180,12.7973795,-82.791331,noncompliant,jailbreak/root detected
+2025-08-16 16:31:40+00:00,D024,8076412398768211379,login,login,success,200,Android,12.0,com.company.mail,62.232.206.102,-67.1021525,127.158257,noncompliant,profile install fail
+2025-08-25 21:20:20+00:00,D044,7000165027139634150,install,install,success,401,iOS,13.0,com.company.vpn,147.114.248.31,-75.6019695,-60.232279,noncompliant,login success
+2025-09-07 07:47:20+00:00,D040,-6131289521323611301,config_change,config_change,success,500,iOS,13.0,com.company.mail,105.253.186.98,20.728922,-169.624845,noncompliant,configuration updated
+2025-09-03 11:24:50+00:00,D020,7310483434718540056,update,update,fail,200,iOS,16.1,com.company.mdm,116.203.189.107,-65.745129,-165.742541,compliant,login success
+2025-08-18 04:01:56+00:00,D016,-6806278981304989953,config_change,config_change,fail,403,Android,13.0,com.company.mdm,103.24.18.234,39.990253,33.171821,compliant,app blocked by policy
+2025-08-17 00:02:16+00:00,D042,-395532781556004715,login,login,success,500,Android,16.1,com.company.mail,137.87.62.164,16.2551915,-77.229848,noncompliant,login failed
+2025-09-07 16:53:08+00:00,D029,-2373244433704400139,update,update,success,401,iOS,13.0,com.company.chat,201.99.245.29,-53.7057735,-83.988308,noncompliant,login success
+2025-09-03 22:15:39+00:00,D026,-3586029852463797802,install,install,fail,200,Android,14.8,com.company.vpn,168.77.24.38,84.1870675,-51.635522,compliant,login success
+2025-08-25 06:05:49+00:00,D022,-3912752855524059684,logout,logout,success,500,iOS,14.8,com.company.vpn,112.244.143.249,6.7998805,103.022727,compliant,login failed
+2025-09-06 18:01:10+00:00,D022,-878545958904712283,logout,logout,success,500,iOS,16.1,com.company.vpn,217.200.51.111,83.9319495,-75.386414,compliant,jailbreak/root detected
+2025-08-30 08:34:36+00:00,D017,-7933976290398541037,logout,logout,fail,200,iOS,14.8,com.company.chat,66.124.251.193,43.400182,152.791259,compliant,jailbreak/root detected
+2025-09-06 12:27:09+00:00,D021,-4029505163158818295,login,login,fail,200,iOS,13.0,com.company.mdm,223.223.188.178,-50.407898,40.307902,compliant,configuration updated
+2025-08-25 05:55:49+00:00,D005,8161992509187865915,update,update,success,401,iOS,11.0,com.company.vpn,180.8.91.53,-61.7665335,120.844435,compliant,configuration updated
+2025-08-16 08:01:47+00:00,D043,-7103494599499816508,config_change,config_change,success,200,iOS,11.0,com.company.mdm,13.108.188.57,16.753709,15.50548,noncompliant,configuration updated
+2025-08-26 16:28:34+00:00,D007,-6231351406771824434,update,update,success,403,iOS,14.8,com.company.chat,125.89.110.43,-20.528112,-20.703543,compliant,login success
+2025-09-11 06:48:54+00:00,D009,6998446784913567341,install,install,success,500,Android,11.0,com.company.chat,52.200.162.11,-86.4368915,117.229156,noncompliant,jailbreak/root detected
+2025-09-04 16:47:00+00:00,D039,-6700817810541874024,update,update,fail,200,iOS,11.0,com.company.mdm,15.199.74.139,36.5346215,-144.608243,compliant,app blocked by policy
+2025-09-03 08:32:39+00:00,D022,-5956693046536035350,update,update,success,200,Android,11.0,com.company.chat,136.162.37.114,38.5375945,128.012172,noncompliant,profile install fail
+2025-09-09 22:07:21+00:00,D010,6214534651176200776,update,update,fail,200,iOS,11.0,com.company.mail,9.153.36.77,7.1526735,-59.703625,noncompliant,login failed
+2025-09-09 20:31:08+00:00,D036,1169904751324791584,login,login,success,500,Android,13.0,com.company.mail,141.172.97.154,51.5675845,35.564515,noncompliant,profile install fail
+2025-09-09 04:28:57+00:00,D043,1164661968480731607,update,update,success,200,Android,12.0,com.company.chat,68.162.57.134,50.1004765,157.713233,noncompliant,login success
+2025-09-05 00:07:15+00:00,D037,7563380758884400281,config_change,config_change,success,403,iOS,14.8,com.company.chat,134.9.238.63,89.949392,-76.720599,noncompliant,login success
+2025-09-11 14:53:31+00:00,D049,-6269626228257027853,install,install,success,403,iOS,12.0,com.company.chat,205.56.35.64,63.285595,59.712312,compliant,login failed
+2025-08-21 08:13:07+00:00,D018,-1482902205399261471,install,install,success,401,iOS,15.2,com.company.vpn,70.154.57.150,-49.4386375,158.568961,noncompliant,login success
+2025-08-27 16:10:58+00:00,D010,7117068063772565712,login,login,fail,500,iOS,11.0,com.company.mdm,1.177.134.234,73.965977,177.210623,noncompliant,profile install fail
+2025-09-07 05:00:45+00:00,D011,-3912708974942205668,install,install,success,401,iOS,14.8,com.company.vpn,36.41.130.223,44.334893,120.900317,compliant,jailbreak/root detected
+2025-09-05 17:27:59+00:00,D004,1651817171948502829,login,login,success,403,Android,12.0,com.company.mdm,99.60.250.206,-29.7994185,-46.081406,noncompliant,profile install fail
+2025-08-22 02:32:39+00:00,D014,-2138885433470795883,config_change,config_change,fail,403,iOS,16.1,com.company.mdm,210.63.51.161,-72.538472,-97.983265,noncompliant,login success
+2025-09-10 10:03:08+00:00,D015,-1553705213468546789,update,update,success,200,iOS,15.2,com.company.chat,8.10.164.71,-59.6595825,125.925264,compliant,login failed
+2025-09-07 02:48:35+00:00,D049,837612733052718740,install,install,success,200,iOS,11.0,com.company.mdm,44.120.225.251,59.2420545,45.684473,compliant,login failed
+2025-08-26 01:29:52+00:00,D025,2338409761773110518,config_change,config_change,success,500,Android,14.8,com.company.mdm,102.143.126.106,61.3486165,-114.556601,compliant,app blocked by policy
+2025-08-30 01:10:25+00:00,D002,-2105253215026044356,update,update,success,401,Android,12.0,com.company.mdm,205.90.248.44,-41.3499345,-104.354881,noncompliant,profile install fail
+2025-09-04 11:26:45+00:00,D008,-4015341441661376260,update,update,fail,401,iOS,12.0,com.company.mdm,146.70.112.166,-46.1842585,162.550509,noncompliant,login success
+2025-09-13 16:53:02+00:00,D028,461927360651835943,login,login,success,500,Android,12.0,com.company.mail,210.72.3.10,31.2231255,-88.499646,noncompliant,profile install fail
+2025-09-12 15:53:03+00:00,D048,267017678227074087,install,install,success,400,iOS,12.0,com.company.mail,129.172.247.91,63.0387285,-32.495771,compliant,profile install fail
+2025-08-29 22:47:44+00:00,D023,-2706113112092973952,logout,logout,success,400,Android,15.2,com.company.vpn,88.99.249.201,-7.3428185,-116.702073,compliant,configuration updated
+2025-08-31 21:19:10+00:00,D005,1102670282551331616,logout,logout,success,403,Android,12.0,com.company.mdm,115.27.21.195,-82.9444745,24.846063,noncompliant,configuration updated
+2025-08-30 20:41:29+00:00,D021,-3653487584240665503,logout,logout,success,403,Android,13.0,com.company.chat,10.66.157.12,-31.104212,-7.195618,noncompliant,jailbreak/root detected
+2025-08-18 05:09:11+00:00,D004,-968950412880116655,install,install,success,401,Android,11.0,com.company.mail,76.91.13.194,-17.2409345,-177.15924,compliant,profile install fail
+2025-08-28 21:56:11+00:00,D019,-5005041935005605250,login,login,success,200,Android,11.0,com.company.mail,35.183.228.172,12.0038015,144.984771,noncompliant,jailbreak/root detected
+2025-08-19 03:37:56+00:00,D042,4609975224153155885,logout,logout,success,403,iOS,14.8,com.company.mdm,200.164.2.251,-13.030551,-101.116456,compliant,profile install fail
+2025-08-30 22:29:55+00:00,D046,-5474749887322834892,login,login,success,400,iOS,15.2,com.company.mdm,11.227.194.35,-9.2042845,36.360372,noncompliant,jailbreak/root detected
+2025-08-22 16:01:56+00:00,D034,6897493046920661183,config_change,config_change,fail,401,Android,11.0,com.company.mdm,76.99.112.195,12.3749535,176.664225,noncompliant,configuration updated
+2025-08-30 23:13:43+00:00,D039,-5139025071419394117,login,login,success,401,iOS,16.1,com.company.mail,109.140.182.166,-64.0190895,-37.125249,noncompliant,profile install fail
+2025-08-27 19:16:38+00:00,D017,-8503347669469219384,config_change,config_change,success,401,iOS,12.0,com.company.vpn,162.162.192.35,24.3411515,-88.952503,noncompliant,profile install fail
+2025-09-05 09:47:09+00:00,D042,-1737972475281837248,update,update,fail,200,Android,12.0,com.company.mdm,215.62.21.155,-82.6431825,1.23354,noncompliant,login failed
+2025-08-29 12:05:44+00:00,D043,-2329038747377187166,config_change,config_change,fail,403,Android,14.8,com.company.chat,174.111.57.72,-60.289315,89.948402,noncompliant,login failed
+2025-09-08 10:00:44+00:00,D014,6311645724450745157,install,install,success,403,iOS,15.2,com.company.vpn,128.85.25.131,-70.3106275,99.217578,compliant,login success
+2025-09-04 17:34:15+00:00,D019,-4407119668998373661,login,login,success,500,iOS,13.0,com.company.chat,26.77.196.196,-35.985482,27.712908,compliant,jailbreak/root detected
+2025-09-06 22:13:34+00:00,D025,-3650923266483179856,logout,logout,fail,500,iOS,13.0,com.company.mdm,178.54.205.85,68.0648535,-7.096525,compliant,app blocked by policy
+2025-09-02 19:23:45+00:00,D024,8425258459065592086,logout,logout,success,500,Android,13.0,com.company.mdm,49.78.44.98,-61.8856325,61.04138,compliant,jailbreak/root detected
+2025-09-07 07:09:27+00:00,D016,-7724249608137115131,install,install,success,403,iOS,16.1,com.company.mdm,64.170.61.51,-74.8973045,137.416851,noncompliant,profile install fail
+2025-08-29 11:03:42+00:00,D050,-4381402976382322002,update,update,success,403,iOS,15.2,com.company.vpn,107.88.127.95,-17.5584065,-57.751646,noncompliant,login success
+2025-08-25 19:01:56+00:00,D042,-7082744326708059403,update,update,success,500,iOS,13.0,com.company.mail,125.151.242.135,-70.633791,-104.773373,noncompliant,login success
+2025-09-06 22:33:01+00:00,D049,-2213907905388578145,logout,logout,success,500,iOS,11.0,com.company.mail,6.151.1.24,8.0351945,115.631771,compliant,app blocked by policy
+2025-09-01 05:06:03+00:00,D023,-7005181255361064327,login,login,success,403,Android,15.2,com.company.mdm,90.76.17.116,10.735133,52.89678,compliant,profile install fail
+2025-08-29 04:09:20+00:00,D015,-3901908093378377933,login,login,success,200,Android,15.2,com.company.vpn,205.196.65.121,-36.713799,-93.444292,compliant,profile install fail
+2025-08-27 20:08:02+00:00,D031,-2905372492610853828,logout,logout,success,403,Android,12.0,com.company.mail,156.50.45.104,-27.659298,-81.691567,compliant,login success
+2025-08-30 18:43:01+00:00,D017,2982042257516739615,logout,logout,success,500,Android,14.8,com.company.chat,218.252.110.234,85.3403255,-164.627951,compliant,profile install fail
+2025-08-18 12:56:26+00:00,D008,4547357605597827037,login,login,success,500,Android,14.8,com.company.mail,81.27.219.79,19.101849,-145.057332,noncompliant,jailbreak/root detected
+2025-08-27 11:53:01+00:00,D035,-791935640702759955,login,login,success,500,iOS,13.0,com.company.vpn,150.181.129.162,-49.0375515,133.36971,noncompliant,app blocked by policy
+2025-08-26 04:18:07+00:00,D001,8798286483199981223,config_change,config_change,success,500,Android,15.2,com.company.mail,129.176.177.167,-74.7227375,45.301459,noncompliant,login success
+2025-08-23 01:31:20+00:00,D034,6251290963175061848,config_change,config_change,success,500,iOS,11.0,com.company.mdm,81.195.213.66,21.321695,-160.140917,compliant,configuration updated
+2025-09-09 21:39:27+00:00,D025,-291177550905339156,install,install,success,200,Android,14.8,com.company.chat,106.170.244.246,26.4305185,-33.758748,compliant,configuration updated
+2025-08-16 00:03:35+00:00,D043,350637320692133228,login,login,success,401,iOS,14.8,com.company.chat,27.144.236.179,-33.7643675,171.621115,noncompliant,configuration updated
+2025-09-11 22:16:42+00:00,D012,-6822721250033749579,update,update,success,403,iOS,15.2,com.company.mail,175.135.169.188,78.1155935,176.289469,noncompliant,login success
+2025-09-02 23:10:00+00:00,D019,-4401192635014876637,logout,logout,fail,400,iOS,16.1,com.company.chat,67.154.107.249,-23.9803555,-158.854587,noncompliant,jailbreak/root detected
+2025-09-02 22:27:22+00:00,D031,7264613881743044521,install,install,fail,400,Android,16.1,com.company.mail,70.48.56.191,69.11514,-50.256653,noncompliant,profile install fail
+2025-09-02 11:22:19+00:00,D008,4142310670515012416,install,install,success,403,Android,11.0,com.company.chat,9.223.21.21,40.3925865,-141.003935,compliant,app blocked by policy
+2025-09-06 19:17:19+00:00,D045,3002222282552510216,update,update,success,500,Android,14.8,com.company.mdm,60.109.24.146,54.03885,9.142078,compliant,app blocked by policy
+2025-09-03 00:53:59+00:00,D039,4384951475937277481,logout,logout,success,401,iOS,14.8,com.company.chat,30.113.238.30,-82.465379,153.947094,noncompliant,profile install fail
+2025-08-24 20:31:37+00:00,D029,-7566733670072695238,config_change,config_change,success,400,Android,16.1,com.company.mdm,128.235.63.4,23.759156,57.393278,compliant,configuration updated
+2025-09-05 22:53:13+00:00,D023,4553239044225092367,config_change,config_change,success,401,iOS,14.8,com.company.mdm,38.35.244.11,58.424315,19.714995,noncompliant,jailbreak/root detected
+2025-09-07 05:09:58+00:00,D048,2943329881540833148,logout,logout,success,400,Android,14.8,com.company.vpn,135.198.112.247,-18.628512,43.618107,compliant,login failed
+2025-08-23 01:18:29+00:00,D050,217570877558555309,install,install,success,500,iOS,12.0,com.company.vpn,56.101.113.146,42.5240045,-83.16476,noncompliant,profile install fail
+2025-08-30 21:17:03+00:00,D024,5271637378625340581,update,update,success,500,iOS,12.0,com.company.chat,141.163.213.223,-8.681097,-95.678848,noncompliant,profile install fail
+2025-08-27 20:46:09+00:00,D042,-4456244948008796439,install,install,success,200,iOS,13.0,com.company.vpn,101.146.110.12,33.369858,-17.530959,noncompliant,jailbreak/root detected
+2025-09-09 21:01:19+00:00,D025,5852757914541045973,config_change,config_change,fail,401,Android,15.2,com.company.chat,89.170.144.168,-51.5181575,-136.881737,noncompliant,login failed
+2025-08-24 04:02:42+00:00,D008,1210695216739649757,logout,logout,success,403,iOS,13.0,com.company.mdm,186.134.217.44,24.163933,-100.958223,compliant,configuration updated
+2025-09-06 19:04:50+00:00,D021,3072703392336790341,install,install,success,500,Android,16.1,com.company.vpn,213.102.165.18,-14.5389855,-173.442319,compliant,profile install fail
+2025-09-12 05:44:41+00:00,D033,-4426170561513340171,logout,logout,fail,400,iOS,15.2,com.company.mdm,130.190.29.204,25.6406075,3.240824,compliant,profile install fail
+2025-09-02 05:53:59+00:00,D036,-2340741327151338530,config_change,config_change,success,500,iOS,12.0,com.company.mail,34.168.246.150,-38.082478,-7.968312,compliant,profile install fail
+2025-08-20 19:32:41+00:00,D026,3357271363770434802,update,update,success,403,iOS,15.2,com.company.chat,90.95.28.119,-39.0179615,142.868137,compliant,app blocked by policy
+2025-09-11 14:00:28+00:00,D030,-5906751907465836657,config_change,config_change,success,500,iOS,15.2,com.company.mdm,93.166.245.235,37.4689985,120.611028,compliant,login success
+2025-08-19 00:52:56+00:00,D034,8217241374075986693,logout,logout,success,400,Android,13.0,com.company.vpn,10.211.95.7,54.2665295,113.893785,noncompliant,jailbreak/root detected
+2025-08-29 20:49:28+00:00,D019,4767036493806094522,login,login,success,500,Android,15.2,com.company.chat,60.42.211.169,-39.2198385,-54.279312,compliant,jailbreak/root detected
+2025-09-08 20:35:38+00:00,D042,5601822653271230609,logout,logout,success,500,iOS,15.2,com.company.chat,22.88.2.176,-37.5755315,103.213397,compliant,login success
+2025-09-02 10:45:44+00:00,D006,5545163337862122206,login,login,success,500,Android,13.0,com.company.vpn,2.215.227.150,-86.650843,-135.591775,noncompliant,jailbreak/root detected
+2025-08-20 02:10:49+00:00,D041,-8869062310449781387,login,login,success,500,Android,13.0,com.company.chat,75.119.239.194,-39.5757525,-69.355755,noncompliant,login failed
+2025-08-25 02:36:24+00:00,D044,-5514434964861998519,update,update,success,200,iOS,15.2,com.company.mdm,52.73.118.32,87.624387,18.643889,noncompliant,app blocked by policy
+2025-09-02 04:10:08+00:00,D030,-8077086367814898685,logout,logout,success,400,Android,13.0,com.company.chat,151.127.102.239,30.300144,-126.559398,noncompliant,app blocked by policy
+2025-08-24 03:21:50+00:00,D009,-9221415229572503596,install,install,success,200,Android,15.2,com.company.mdm,101.161.83.152,-6.9480065,-29.812759,compliant,profile install fail
+2025-09-06 11:58:33+00:00,D029,8909496557086362981,logout,logout,fail,200,Android,11.0,com.company.mdm,83.43.113.123,-5.089495,-146.558515,compliant,login failed
+2025-09-03 10:41:55+00:00,D021,359641338343520574,config_change,config_change,success,400,iOS,11.0,com.company.mdm,4.215.66.67,-7.3725345,-42.249495,noncompliant,profile install fail
+2025-08-29 05:49:17+00:00,D032,-2470250225902780283,login,login,fail,403,Android,15.2,com.company.vpn,133.160.131.7,77.043647,-68.98587,noncompliant,login success
+2025-08-15 01:18:01+00:00,D004,7996892758008254333,install,install,success,403,Android,12.0,com.company.mail,115.93.113.43,-86.4185625,-113.733885,compliant,app blocked by policy
+2025-09-11 04:56:24+00:00,D009,-7448844985273361034,install,install,success,403,Android,14.8,com.company.mdm,32.249.170.85,-71.7847015,162.700221,compliant,jailbreak/root detected
+2025-08-22 19:46:38+00:00,D036,-6892899502885832047,logout,logout,success,401,iOS,11.0,com.company.mdm,73.190.84.52,-21.2801445,68.649954,noncompliant,jailbreak/root detected
+2025-09-05 06:16:28+00:00,D044,6672041854533478573,config_change,config_change,fail,200,Android,16.1,com.company.chat,98.12.42.177,12.5365495,175.352898,noncompliant,login failed
+2025-08-15 17:31:40+00:00,D013,-3848751685048911290,config_change,config_change,success,500,iOS,14.8,com.company.mail,186.246.72.144,5.020115,69.646854,compliant,configuration updated
+2025-08-31 13:21:20+00:00,D022,-8935989460330969869,update,update,success,400,iOS,16.1,com.company.chat,106.93.132.7,-39.9896145,-169.528827,compliant,app blocked by policy
+2025-08-15 22:13:06+00:00,D040,-1602704902219190892,install,install,success,500,Android,13.0,com.company.chat,66.104.162.114,51.589744,38.718973,noncompliant,login success
+2025-08-15 14:04:42+00:00,D024,8114735832942958374,install,install,success,403,Android,13.0,com.company.mail,12.221.135.6,58.444599,59.130012,noncompliant,profile install fail
+2025-08-18 05:27:12+00:00,D042,-3535536728171875397,config_change,config_change,success,200,Android,15.2,com.company.mdm,64.108.29.170,-30.481175,112.643758,compliant,configuration updated
+2025-09-08 15:16:37+00:00,D016,3520778435982588953,login,login,success,200,iOS,14.8,com.company.mdm,157.29.239.179,46.711051,-87.75122,noncompliant,app blocked by policy
+2025-09-07 04:19:35+00:00,D010,1886020352251411841,update,update,success,403,Android,13.0,com.company.mail,136.123.229.148,7.0280975,-119.726745,compliant,jailbreak/root detected
+2025-08-31 09:27:08+00:00,D014,7723871281765328063,config_change,config_change,success,403,Android,16.1,com.company.vpn,24.57.183.57,61.85817,86.890774,noncompliant,jailbreak/root detected
+2025-08-30 13:36:20+00:00,D022,5406365583283353055,config_change,config_change,success,401,Android,15.2,com.company.vpn,74.231.204.159,-55.291506,-109.264257,noncompliant,jailbreak/root detected
+2025-08-28 10:48:18+00:00,D020,1711642070518099983,logout,logout,success,401,Android,13.0,com.company.vpn,101.160.164.29,-61.989825,59.624686,noncompliant,profile install fail
+2025-08-24 15:30:32+00:00,D031,-7879151593607426613,install,install,success,401,Android,14.8,com.company.mdm,110.204.238.58,-64.0596795,-157.476792,noncompliant,profile install fail
+2025-09-05 21:26:34+00:00,D050,119052516315498071,logout,logout,success,401,iOS,16.1,com.company.mdm,215.48.93.96,61.3401385,-133.100498,noncompliant,configuration updated
+2025-09-13 13:31:17+00:00,D031,-3395384333635061627,logout,logout,success,500,Android,12.0,com.company.chat,156.145.122.119,-15.1980595,83.028312,compliant,login success
+2025-09-05 10:39:29+00:00,D040,-7771955165384415135,config_change,config_change,success,200,iOS,13.0,com.company.vpn,115.154.151.167,60.8793275,71.582959,compliant,login success
+2025-08-20 19:49:57+00:00,D027,-1755736070379006487,install,install,success,200,iOS,14.8,com.company.vpn,36.41.72.214,1.52094,-96.379736,noncompliant,configuration updated
+2025-09-11 10:57:15+00:00,D031,8470555555529260539,update,update,success,401,Android,16.1,com.company.mail,99.50.19.74,-26.1477405,-104.304651,compliant,configuration updated
+2025-08-24 16:21:13+00:00,D037,-2236442906957532393,logout,logout,success,200,iOS,11.0,com.company.vpn,64.149.71.134,54.956248,-5.955579,compliant,app blocked by policy
+2025-08-23 17:10:13+00:00,D032,-4750510238804153481,logout,logout,success,401,iOS,14.8,com.company.chat,58.219.25.88,6.362983,158.048427,compliant,profile install fail
+2025-08-19 23:30:34+00:00,D019,5073542334387013586,update,update,success,500,Android,15.2,com.company.mdm,174.148.199.70,16.6906675,8.42497,noncompliant,login failed
+2025-08-22 14:26:24+00:00,D008,-1318130214509374711,install,install,fail,403,Android,13.0,com.company.vpn,188.73.133.123,76.3347495,-127.85298,compliant,configuration updated
+2025-09-04 06:21:20+00:00,D022,7550151025388418936,install,install,success,400,iOS,12.0,com.company.mdm,154.31.151.37,49.425108,33.222481,noncompliant,jailbreak/root detected
+2025-08-19 20:59:59+00:00,D021,1787240905835053831,login,login,success,200,iOS,15.2,com.company.mdm,202.200.207.227,37.541465,-108.305619,noncompliant,login failed
+2025-08-31 02:52:25+00:00,D001,2709999129805743635,install,install,success,403,Android,16.1,com.company.chat,7.189.177.247,22.551426,1.552071,compliant,profile install fail
+2025-08-28 21:06:01+00:00,D042,-9138131811691934143,install,install,success,200,iOS,11.0,com.company.chat,187.69.196.27,-68.926281,-129.479762,compliant,app blocked by policy
+2025-09-04 04:45:48+00:00,D044,6063882775201025837,config_change,config_change,success,401,iOS,13.0,com.company.chat,148.192.208.54,-40.260824,58.745768,noncompliant,jailbreak/root detected
+2025-08-31 20:38:21+00:00,D015,-1627513008850371881,logout,logout,success,403,iOS,11.0,com.company.chat,97.167.229.26,49.5930175,-173.527357,noncompliant,configuration updated
+2025-08-20 15:50:34+00:00,D036,-1925160422113208891,update,update,success,400,iOS,13.0,com.company.mail,191.28.158.84,4.0373325,165.625708,noncompliant,jailbreak/root detected
+2025-09-08 06:38:05+00:00,D046,7932179267573888064,install,install,fail,500,iOS,14.8,com.company.vpn,14.52.167.16,-58.90154,-3.869559,compliant,login failed
+2025-08-20 03:44:53+00:00,D021,-2874039002312736721,config_change,config_change,success,400,Android,14.8,com.company.mdm,83.7.253.138,51.6042155,-82.067326,compliant,app blocked by policy
+2025-08-15 08:28:44+00:00,D009,644351825546973899,config_change,config_change,success,500,iOS,12.0,com.company.mdm,163.124.125.84,-22.0600955,-4.782298,noncompliant,configuration updated
+2025-08-28 18:50:46+00:00,D002,1351208259786838290,update,update,success,200,iOS,12.0,com.company.mail,140.50.6.206,19.3867655,-118.6116,compliant,app blocked by policy
+2025-09-02 21:34:34+00:00,D023,-6040815747088149221,login,login,success,200,iOS,11.0,com.company.mail,148.33.71.150,-78.830868,-126.555197,noncompliant,app blocked by policy
+2025-08-24 06:27:18+00:00,D012,5561743961297299254,logout,logout,success,403,Android,11.0,com.company.mdm,190.213.17.213,-65.9235695,-127.544296,noncompliant,app blocked by policy
+2025-09-09 23:31:25+00:00,D006,4358006928886160399,config_change,config_change,fail,401,iOS,15.2,com.company.mdm,205.112.227.97,73.629112,125.422666,compliant,configuration updated
+2025-09-07 01:34:28+00:00,D015,1987676138195055910,login,login,success,401,Android,13.0,com.company.mdm,103.249.153.15,-45.7716435,0.842714,noncompliant,login failed
+2025-09-09 11:06:29+00:00,D016,-6456749790493862379,update,update,success,401,iOS,13.0,com.company.mail,172.42.181.114,57.7658905,-113.501597,compliant,configuration updated
+2025-09-04 23:50:30+00:00,D027,2284081494985167137,config_change,config_change,success,200,iOS,15.2,com.company.mail,46.186.193.16,-10.4337445,106.469828,compliant,jailbreak/root detected
+2025-08-29 01:09:49+00:00,D003,-3859325508530602397,update,update,success,200,iOS,13.0,com.company.mail,40.208.180.116,-26.253773,-51.951691,noncompliant,app blocked by policy
+2025-08-29 19:40:32+00:00,D015,-740168335721226146,config_change,config_change,success,200,iOS,12.0,com.company.chat,157.158.191.240,19.375288,15.630405,compliant,configuration updated
+2025-09-06 14:50:35+00:00,D037,29565709876123164,install,install,success,401,iOS,16.1,com.company.vpn,103.206.231.158,-54.624932,141.732258,compliant,app blocked by policy
+2025-09-11 04:29:30+00:00,D020,8038771814656165544,install,install,fail,500,iOS,13.0,com.company.mdm,181.83.23.43,86.0430275,159.883342,noncompliant,login success
+2025-08-22 07:49:48+00:00,D023,-8596693498502628346,update,update,success,401,Android,11.0,com.company.vpn,1.22.196.21,-64.021553,176.33889,noncompliant,app blocked by policy
+2025-09-12 14:30:57+00:00,D012,724292951098973285,config_change,config_change,success,400,Android,13.0,com.company.vpn,136.215.63.134,-84.027274,119.75826,noncompliant,login success
+2025-08-31 11:09:03+00:00,D036,-144728104507670824,update,update,success,500,iOS,11.0,com.company.vpn,38.30.95.231,2.2630525,11.265532,noncompliant,login failed
+2025-08-30 16:28:37+00:00,D022,8257737480488633843,login,login,success,401,iOS,12.0,com.company.vpn,13.110.146.149,39.696082,59.986309,compliant,profile install fail
+2025-09-13 07:20:10+00:00,D025,-7860184246066532053,config_change,config_change,success,200,iOS,12.0,com.company.vpn,48.218.120.215,-9.397954,-173.033591,noncompliant,login failed
+2025-09-03 20:56:48+00:00,D022,-8140338449113217962,install,install,success,200,iOS,15.2,com.company.mail,209.24.48.12,75.7377035,39.364565,noncompliant,login failed
+2025-08-21 22:31:16+00:00,D045,-1577527319771842249,config_change,config_change,success,403,iOS,12.0,com.company.chat,93.189.67.161,-35.255883,-104.253027,noncompliant,app blocked by policy
+2025-08-29 03:14:16+00:00,D030,-5089392839708761968,config_change,config_change,success,401,Android,16.1,com.company.mdm,64.24.26.28,-56.564725,-136.283912,noncompliant,login success
+2025-09-06 21:44:37+00:00,D047,4377985689404478250,update,update,success,401,iOS,16.1,com.company.chat,119.232.220.14,13.876121,-106.351951,noncompliant,login success
+2025-08-20 21:04:07+00:00,D037,2068963767658147806,logout,logout,success,200,Android,12.0,com.company.mdm,71.6.235.39,-36.187645,4.024776,noncompliant,login failed
+2025-08-22 07:46:12+00:00,D013,-7762348786658212847,install,install,success,500,iOS,11.0,com.company.chat,173.143.47.136,-19.218618,-46.473123,noncompliant,app blocked by policy
+2025-08-22 16:11:21+00:00,D047,4884765674117536261,update,update,success,401,iOS,15.2,com.company.mdm,207.33.234.79,63.5528565,-19.203125,compliant,jailbreak/root detected
+2025-08-25 09:27:05+00:00,D042,-2284788303696846407,login,login,success,200,iOS,14.8,com.company.mdm,194.237.65.92,-10.8762115,-97.191346,compliant,configuration updated
+2025-08-21 11:16:07+00:00,D015,-7056112958764740580,login,login,success,200,iOS,12.0,com.company.mdm,62.195.31.26,-79.8382935,150.476517,noncompliant,login success
+2025-08-26 20:43:06+00:00,D040,2966396078216113060,config_change,config_change,success,403,iOS,14.8,com.company.mdm,158.31.184.180,-60.847672,68.481204,compliant,login success
+2025-08-25 15:22:31+00:00,D034,4519584080200713228,install,install,success,401,iOS,12.0,com.company.mdm,52.111.160.77,82.553351,-162.203442,compliant,login success
+2025-08-29 09:37:26+00:00,D007,-2412422669773419835,config_change,config_change,fail,400,Android,16.1,com.company.chat,187.217.89.123,85.374081,140.407819,noncompliant,login success
+2025-09-10 10:51:08+00:00,D024,-9135286590813535276,update,update,success,400,iOS,16.1,com.company.mail,125.5.189.240,78.7984395,121.616752,compliant,login success
+2025-09-06 02:02:31+00:00,D026,2902559325630314982,update,update,success,403,iOS,13.0,com.company.mail,82.55.43.12,84.188818,-99.497012,compliant,login success
+2025-09-04 23:52:51+00:00,D032,-7630433648713815236,update,update,success,401,iOS,12.0,com.company.mail,163.70.142.35,17.1670305,-3.540753,compliant,login failed
+2025-08-23 11:41:18+00:00,D045,-3987512058553267762,config_change,config_change,success,200,iOS,13.0,com.company.chat,104.71.217.248,41.398306,-114.196593,compliant,login failed
+2025-08-17 18:16:19+00:00,D021,4592677542690357656,login,login,success,500,iOS,13.0,com.company.mdm,46.122.155.166,42.9089925,56.681765,compliant,profile install fail
+2025-09-02 10:37:08+00:00,D011,1159917418854426183,config_change,config_change,success,403,Android,11.0,com.company.vpn,172.198.40.60,-64.6353965,9.063986,compliant,jailbreak/root detected
+2025-09-06 11:42:52+00:00,D048,-2895870283953228238,install,install,fail,403,iOS,14.8,com.company.chat,132.62.204.55,-80.625979,121.53571,noncompliant,profile install fail
+2025-08-21 00:38:15+00:00,D002,-4493355368215626881,install,install,success,403,Android,15.2,com.company.chat,144.11.236.0,69.432122,44.476074,noncompliant,app blocked by policy
+2025-08-24 14:33:25+00:00,D012,2281136054224450995,config_change,config_change,success,200,Android,15.2,com.company.mail,114.154.213.120,-70.780587,-55.731483,compliant,profile install fail
+2025-08-17 08:08:32+00:00,D010,-2172109826791590611,update,update,success,400,Android,16.1,com.company.chat,51.3.65.156,-29.6050285,-15.57703,compliant,login success
+2025-08-19 13:47:26+00:00,D001,5099727713004806242,install,install,success,401,iOS,15.2,com.company.mail,157.34.19.184,57.0641305,120.805006,compliant,app blocked by policy
+2025-09-03 22:43:12+00:00,D029,7270780972877231634,config_change,config_change,success,403,iOS,14.8,com.company.mail,196.226.131.246,-8.2609865,166.897798,noncompliant,jailbreak/root detected
+2025-08-29 08:39:10+00:00,D006,1727817970630214212,config_change,config_change,success,401,Android,14.8,com.company.chat,6.3.237.142,65.677672,9.323499,noncompliant,app blocked by policy
+2025-08-30 15:27:56+00:00,D050,-3268347413570079615,login,login,success,500,iOS,12.0,com.company.vpn,183.201.88.102,-77.128349,91.347236,noncompliant,login failed
+2025-09-13 01:28:38+00:00,D009,6099621240398074200,install,install,success,403,iOS,14.8,com.company.vpn,73.31.183.71,-6.4703285,-107.779332,noncompliant,profile install fail
+2025-09-03 09:27:57+00:00,D027,6028754445283698064,install,install,success,200,Android,16.1,com.company.vpn,115.250.67.170,-13.555367,27.853993,noncompliant,jailbreak/root detected
+2025-08-22 21:15:21+00:00,D040,914358934646079593,logout,logout,success,400,Android,14.8,com.company.mdm,21.92.55.244,38.026178,-110.361256,noncompliant,jailbreak/root detected
+2025-09-11 01:16:29+00:00,D025,1514079692598850060,install,install,success,403,iOS,16.1,com.company.chat,187.249.117.111,-63.7687395,90.771655,compliant,app blocked by policy
+2025-08-21 07:49:55+00:00,D021,-4285035818603491839,logout,logout,success,401,Android,13.0,com.company.mdm,136.127.229.92,16.0142075,152.322446,compliant,profile install fail
+2025-08-21 19:32:42+00:00,D025,-1086252441901500706,install,install,success,403,Android,14.8,com.company.vpn,220.111.109.239,-65.9194725,-50.752605,compliant,configuration updated
+2025-09-09 20:53:05+00:00,D050,-5072487097057902732,config_change,config_change,fail,403,iOS,11.0,com.company.chat,72.159.132.222,-41.6333865,-51.250242,compliant,app blocked by policy
+2025-09-07 20:11:19+00:00,D044,-8509494482781167954,update,update,fail,401,iOS,16.1,com.company.vpn,64.104.252.44,48.9977165,48.051872,noncompliant,app blocked by policy
+2025-08-21 15:32:00+00:00,D005,306334068513280250,update,update,success,403,Android,12.0,com.company.mdm,220.77.30.178,53.798592,-70.964688,compliant,profile install fail
+2025-08-17 17:42:52+00:00,D045,-1121167126294929134,config_change,config_change,success,200,iOS,15.2,com.company.chat,149.143.106.244,-38.641405,138.319424,compliant,configuration updated
+2025-09-11 06:22:01+00:00,D040,674386403303627179,login,login,success,403,Android,11.0,com.company.mail,68.121.133.37,-31.9217915,95.69262,compliant,login success
+2025-09-03 12:42:18+00:00,D017,4232608304194751668,logout,logout,success,500,iOS,11.0,com.company.chat,103.34.205.229,44.656741,15.98868,noncompliant,app blocked by policy
+2025-08-24 12:38:24+00:00,D050,6113604312562402546,config_change,config_change,success,400,Android,14.8,com.company.mdm,162.248.87.136,-53.973673,82.65412,compliant,profile install fail
+2025-09-01 05:50:00+00:00,D027,3116614120252732668,login,login,fail,400,Android,16.1,com.company.chat,49.146.243.149,25.7831525,176.706214,noncompliant,login failed
+2025-08-25 03:30:28+00:00,D034,6676889246302315942,update,update,success,200,Android,13.0,com.company.mdm,88.151.137.74,-51.858681,115.95816,noncompliant,login success
+2025-08-27 15:56:55+00:00,D020,2629018390195794697,login,login,success,200,iOS,16.1,com.company.mail,208.17.57.41,-27.8547165,16.722699,compliant,configuration updated
+2025-08-25 12:51:15+00:00,D016,-7760807725204150207,config_change,config_change,fail,400,Android,12.0,com.company.mdm,122.225.186.134,-89.1443505,-12.22103,noncompliant,login failed
+2025-09-04 10:55:16+00:00,D026,187543664979189656,logout,logout,fail,403,Android,14.8,com.company.vpn,130.172.251.214,-5.975845,13.943678,noncompliant,jailbreak/root detected
+2025-08-26 17:44:29+00:00,D028,2036259467619269878,update,update,fail,400,iOS,16.1,com.company.mail,111.22.8.183,-6.0171175,-174.847051,compliant,jailbreak/root detected
+2025-09-04 08:12:08+00:00,D012,-5848146564891795006,install,install,success,403,iOS,16.1,com.company.mdm,83.202.135.173,-43.193874,56.906912,noncompliant,jailbreak/root detected
+2025-08-20 17:58:13+00:00,D025,6912035378362076547,config_change,config_change,success,200,Android,16.1,com.company.mdm,79.220.83.206,-83.7004655,-103.253735,compliant,configuration updated
+2025-08-21 13:07:07+00:00,D046,3318538968089247519,install,install,success,500,iOS,13.0,com.company.vpn,184.229.177.48,-75.1113405,-69.879745,noncompliant,login success
+2025-08-25 02:51:06+00:00,D016,-5555683613611293192,install,install,fail,401,iOS,12.0,com.company.mdm,177.95.117.56,16.750403,152.097579,noncompliant,jailbreak/root detected
+2025-08-22 19:58:16+00:00,D009,6049016070308400722,config_change,config_change,success,400,Android,13.0,com.company.vpn,214.46.223.218,-74.182156,29.609572,compliant,app blocked by policy
+2025-08-17 23:19:08+00:00,D019,7213599435354252800,logout,logout,fail,403,iOS,16.1,com.company.mail,199.79.196.125,-52.546373,92.518733,noncompliant,login failed
+2025-09-01 14:54:02+00:00,D013,-6358904183144000173,update,update,success,500,Android,11.0,com.company.mdm,40.88.35.127,47.964514,46.258665,noncompliant,configuration updated
+2025-08-20 22:16:47+00:00,D029,6587767864069482873,update,update,fail,500,iOS,15.2,com.company.chat,198.11.176.189,-1.8585245,161.441394,compliant,profile install fail
+2025-08-18 22:30:58+00:00,D015,-3138100081577095381,config_change,config_change,success,403,Android,12.0,com.company.mail,220.78.115.102,73.7082915,48.256863,compliant,profile install fail
+2025-09-10 04:34:29+00:00,D050,4746004608901980115,config_change,config_change,success,401,iOS,13.0,com.company.mdm,203.100.12.209,-69.42313,-154.651405,compliant,app blocked by policy
+2025-09-05 13:43:50+00:00,D007,-7581450999586452371,logout,logout,success,200,Android,16.1,com.company.chat,111.53.156.124,-73.178912,126.200552,compliant,app blocked by policy
+2025-08-25 22:23:20+00:00,D008,-4364772404856989658,logout,logout,success,500,Android,13.0,com.company.mdm,220.44.114.247,-71.8139275,-161.425651,compliant,jailbreak/root detected
+2025-08-23 19:34:21+00:00,D009,6918989391113858553,logout,logout,success,200,Android,12.0,com.company.chat,176.85.20.151,-34.3406435,178.742477,compliant,profile install fail
+2025-09-12 12:35:26+00:00,D046,2401174019895192039,install,install,success,401,iOS,15.2,com.company.mdm,59.126.140.69,48.3571715,-128.142612,compliant,profile install fail
+2025-08-29 05:51:21+00:00,D042,3268449141423319770,logout,logout,success,400,iOS,15.2,com.company.chat,177.43.37.101,-46.206645,-11.602546,compliant,configuration updated
+2025-08-24 00:30:00+00:00,D026,2805700088727393935,update,update,fail,401,Android,11.0,com.company.mdm,102.169.112.88,-8.7261605,169.102164,compliant,configuration updated
+2025-09-05 12:46:52+00:00,D050,2077286821405909116,login,login,success,401,Android,11.0,com.company.mdm,82.12.36.131,80.2574125,42.634347,noncompliant,jailbreak/root detected
+2025-08-25 10:08:55+00:00,D001,1343062533442784739,login,login,success,403,Android,14.8,com.company.mdm,117.224.206.7,-57.3376075,35.896476,compliant,app blocked by policy
+2025-08-24 22:20:23+00:00,D014,-1485493203170186817,update,update,success,401,Android,12.0,com.company.vpn,59.211.168.52,61.42862,-87.107857,noncompliant,profile install fail
+2025-09-06 02:19:59+00:00,D044,1668123388164705489,login,login,fail,403,iOS,14.8,com.company.vpn,74.43.167.80,-19.754801,177.263753,noncompliant,app blocked by policy
+2025-08-19 06:16:17+00:00,D001,3826711656100921366,update,update,success,400,Android,15.2,com.company.chat,222.212.212.63,-78.6845565,79.253503,compliant,configuration updated
+2025-09-02 23:27:08+00:00,D024,1911014861329632525,install,install,fail,400,iOS,11.0,com.company.chat,209.145.136.7,-49.8731975,68.120103,compliant,app blocked by policy
+2025-09-06 08:29:04+00:00,D042,3030718028567430610,login,login,success,200,iOS,11.0,com.company.mail,57.7.27.12,-66.4318435,165.878838,compliant,jailbreak/root detected
+2025-09-09 18:09:31+00:00,D015,582637926964763635,config_change,config_change,success,200,iOS,13.0,com.company.chat,166.226.142.150,-57.6748935,-138.241552,compliant,app blocked by policy
+2025-08-19 01:31:01+00:00,D045,-1600380835501035152,logout,logout,success,400,Android,14.8,com.company.mail,23.222.181.105,-19.988984,-162.840088,compliant,profile install fail
+2025-09-02 10:04:55+00:00,D024,7241631351277520004,install,install,fail,400,iOS,14.8,com.company.mail,186.67.253.9,-69.024964,48.097684,compliant,app blocked by policy
+2025-09-12 16:17:20+00:00,D023,1039949643611608021,logout,logout,success,400,Android,12.0,com.company.mdm,14.65.104.218,58.2198275,148.388378,compliant,login success
+2025-08-25 03:29:02+00:00,D007,7103386050371075130,logout,logout,success,500,Android,16.1,com.company.mdm,156.4.78.66,-85.8760995,-79.79181,noncompliant,login failed
+2025-08-23 03:08:55+00:00,D016,1407210162959456008,install,install,success,400,Android,13.0,com.company.mail,98.33.107.173,50.8014795,123.043676,noncompliant,login failed
+2025-08-18 02:48:01+00:00,D034,7203627887275483339,config_change,config_change,success,403,Android,13.0,com.company.mail,18.254.183.227,67.8544975,70.701069,compliant,app blocked by policy
+2025-09-10 02:58:43+00:00,D025,4946730039449664013,login,login,success,500,iOS,12.0,com.company.mail,177.54.191.21,-20.7664315,172.945303,noncompliant,profile install fail
+2025-08-24 00:51:05+00:00,D009,4895096646617093709,update,update,success,500,Android,16.1,com.company.vpn,122.242.54.136,-21.1619915,-128.087029,noncompliant,login success
+2025-09-05 03:14:40+00:00,D002,-5954002855232455081,config_change,config_change,fail,401,iOS,14.8,com.company.mail,22.117.83.136,76.4354065,77.716553,noncompliant,jailbreak/root detected
+2025-08-16 12:42:36+00:00,D019,2791801418937932831,config_change,config_change,success,403,Android,14.8,com.company.vpn,185.46.46.204,39.501215,-143.922441,noncompliant,login success
+2025-08-16 02:09:45+00:00,D020,1423863058510082403,login,login,success,400,iOS,12.0,com.company.chat,69.194.34.80,52.956771,-27.183651,noncompliant,jailbreak/root detected
+2025-08-24 19:24:29+00:00,D041,-6906146760295973458,login,login,success,403,iOS,14.8,com.company.vpn,43.227.185.213,-78.4608265,-2.882589,compliant,app blocked by policy
+2025-09-05 01:50:37+00:00,D008,-6822468914560017123,update,update,success,200,Android,13.0,com.company.vpn,99.92.75.60,-18.703307,126.628305,compliant,login success
+2025-08-28 08:19:04+00:00,D046,-6826328406399525355,logout,logout,success,400,Android,16.1,com.company.chat,44.119.58.196,-85.775344,104.925019,compliant,profile install fail
+2025-08-27 02:38:20+00:00,D009,-9112014376150773875,install,install,success,200,iOS,16.1,com.company.mdm,52.108.46.92,9.0001565,-114.49256,noncompliant,jailbreak/root detected
+2025-08-17 00:07:17+00:00,D005,4697175615856070427,install,install,success,500,iOS,11.0,com.company.mdm,73.173.141.99,-12.70367,-59.388457,noncompliant,login success
+2025-09-10 18:44:02+00:00,D032,1960824560608902219,config_change,config_change,fail,400,Android,14.8,com.company.mail,57.143.215.161,32.5233515,-177.767399,compliant,configuration updated
+2025-08-20 22:42:15+00:00,D033,-7947865250112306019,login,login,fail,200,iOS,14.8,com.company.mdm,109.219.241.220,-9.963653,102.739694,noncompliant,app blocked by policy
+2025-08-18 22:11:34+00:00,D010,-6665146968210062066,logout,logout,success,200,Android,15.2,com.company.chat,207.240.178.93,9.079243,-109.114522,compliant,app blocked by policy
+2025-08-25 02:18:40+00:00,D047,2156199228385650290,install,install,success,200,Android,14.8,com.company.mail,80.27.6.208,-4.3524125,-117.093768,compliant,login failed
+2025-08-24 06:53:46+00:00,D034,-4775710443912181975,login,login,success,200,Android,16.1,com.company.chat,17.143.165.53,-19.006487,-54.437925,noncompliant,login success
+2025-08-16 04:01:28+00:00,D036,879187561854590271,update,update,fail,400,Android,12.0,com.company.chat,44.114.57.0,73.325345,-158.944421,compliant,app blocked by policy
+2025-08-18 10:29:15+00:00,D024,-1466861070387465801,config_change,config_change,success,400,iOS,15.2,com.company.mail,64.244.72.181,18.5409225,-36.248789,noncompliant,login success
+2025-08-23 09:29:23+00:00,D015,-5479854509549644244,config_change,config_change,success,200,Android,14.8,com.company.mdm,216.249.65.18,9.5213125,-153.980212,noncompliant,login success
+2025-08-23 04:26:22+00:00,D014,7295915487192599545,config_change,config_change,success,403,Android,14.8,com.company.vpn,197.67.234.36,86.75217,154.184417,noncompliant,login success
+2025-08-25 20:40:22+00:00,D003,-9150295826509588375,logout,logout,success,500,Android,13.0,com.company.chat,57.53.106.55,9.7100615,-78.725974,noncompliant,configuration updated
+2025-09-04 21:57:45+00:00,D006,-8008674096765443487,config_change,config_change,fail,400,Android,14.8,com.company.mail,113.230.126.196,-69.17074,-151.00375,noncompliant,configuration updated
+2025-08-31 20:50:25+00:00,D009,-2292178644639676508,logout,logout,success,401,Android,13.0,com.company.chat,14.210.92.1,-78.2460725,130.0952,noncompliant,app blocked by policy
+2025-09-12 07:28:57+00:00,D018,-6678269241266347603,logout,logout,fail,400,iOS,12.0,com.company.mail,126.9.28.24,86.823037,-43.911415,compliant,login success
+2025-08-19 12:44:32+00:00,D011,-3623957136909224079,update,update,success,403,iOS,12.0,com.company.chat,137.9.10.222,-66.9588245,-37.439648,compliant,app blocked by policy
+2025-08-21 06:30:16+00:00,D020,7910273937537819296,update,update,success,200,iOS,15.2,com.company.chat,208.149.123.168,-46.9612195,-167.814212,compliant,login failed
+2025-08-18 18:28:08+00:00,D021,-6465643665554602421,logout,logout,fail,400,Android,11.0,com.company.mail,84.204.131.107,-73.694389,82.052472,noncompliant,profile install fail
+2025-08-21 18:27:46+00:00,D012,-1634067523581153961,login,login,success,403,iOS,14.8,com.company.mdm,52.26.218.189,42.0906065,74.564399,compliant,login failed
+2025-08-27 21:36:01+00:00,D008,6154440903469453610,login,login,fail,400,iOS,15.2,com.company.mdm,116.66.75.202,-72.8694045,-105.167229,noncompliant,configuration updated
+2025-08-16 21:50:40+00:00,D041,-5235316467954663149,login,login,success,401,iOS,14.8,com.company.mail,15.216.122.90,78.908487,-78.948407,compliant,configuration updated
+2025-08-25 13:11:06+00:00,D029,-3578105086613894915,logout,logout,fail,401,iOS,14.8,com.company.mdm,50.14.113.141,76.909084,-65.790087,compliant,login failed
+2025-08-24 02:02:26+00:00,D037,4684639565820805568,update,update,success,403,Android,14.8,com.company.mdm,201.195.224.109,65.150743,178.448011,noncompliant,login failed
+2025-09-12 18:50:59+00:00,D023,1686413591290420068,logout,logout,success,401,Android,11.0,com.company.vpn,23.161.21.194,10.9223305,137.431863,compliant,jailbreak/root detected
+2025-08-17 01:21:10+00:00,D040,3139363759116110321,config_change,config_change,success,401,Android,11.0,com.company.mdm,160.233.65.101,-44.1176385,-15.149413,compliant,login success
+2025-09-11 05:56:45+00:00,D018,-6692388103578838871,update,update,fail,400,iOS,13.0,com.company.mail,154.100.166.10,-19.879884,-24.64036,noncompliant,configuration updated
+2025-08-17 19:25:47+00:00,D023,-7239310824165175407,update,update,success,403,Android,12.0,com.company.chat,91.166.39.43,9.4982265,136.368078,noncompliant,profile install fail
+2025-08-21 06:25:15+00:00,D012,6611522857590348472,login,login,success,400,iOS,16.1,com.company.mail,51.231.145.69,56.5459665,66.646492,noncompliant,jailbreak/root detected
+2025-09-08 12:17:32+00:00,D023,3785016439519165352,config_change,config_change,success,400,iOS,15.2,com.company.vpn,186.113.28.19,89.429952,163.324096,noncompliant,jailbreak/root detected
+2025-08-25 00:21:58+00:00,D048,6842915340392996960,login,login,success,400,Android,16.1,com.company.vpn,181.219.150.247,8.317814,-48.890146,compliant,login failed
+2025-09-12 19:29:25+00:00,D038,8703967767975651574,install,install,success,401,iOS,13.0,com.company.chat,221.86.208.2,11.7604195,-4.265084,compliant,jailbreak/root detected
+2025-09-02 10:52:37+00:00,D013,-1294526547284660696,update,update,success,400,Android,14.8,com.company.mail,122.52.82.98,-4.422456,-104.898137,compliant,login failed
+2025-09-01 23:24:00+00:00,D039,-4312049958823520513,logout,logout,fail,403,iOS,16.1,com.company.vpn,95.36.103.88,49.91526,-99.563523,compliant,profile install fail
+2025-09-11 22:58:38+00:00,D046,-1694594401419647623,logout,logout,success,401,iOS,14.8,com.company.vpn,108.130.94.108,-27.0851985,81.776666,compliant,login success
+2025-09-01 22:10:13+00:00,D034,-7886048800866831079,install,install,success,401,Android,12.0,com.company.mail,196.118.146.63,20.2491985,70.089731,noncompliant,profile install fail
+2025-08-16 16:19:27+00:00,D021,4659212126045658119,logout,logout,success,403,Android,13.0,com.company.chat,191.242.68.211,-44.4375205,57.401482,compliant,configuration updated
+2025-08-21 15:33:35+00:00,D036,-6735713649513348861,config_change,config_change,success,400,iOS,11.0,com.company.chat,213.173.191.20,9.807055,127.88608,noncompliant,login failed
+2025-09-03 22:22:43+00:00,D012,-4098350255205462851,login,login,success,500,Android,12.0,com.company.mail,115.1.220.182,40.1738035,-82.835019,compliant,jailbreak/root detected
+2025-08-28 07:10:19+00:00,D021,2602733728409415578,config_change,config_change,success,500,iOS,11.0,com.company.vpn,160.56.216.109,20.2459535,79.107683,noncompliant,configuration updated
+2025-08-21 09:47:42+00:00,D005,563470180036530437,logout,logout,success,401,iOS,13.0,com.company.mail,144.170.190.215,-52.878835,53.482471,noncompliant,app blocked by policy
+2025-09-01 18:15:24+00:00,D001,-4278539256020770487,install,install,success,200,Android,16.1,com.company.mail,158.176.73.97,-81.594233,89.796211,compliant,login success
+2025-08-21 11:22:44+00:00,D025,-8800549266714027145,update,update,success,400,Android,11.0,com.company.mdm,16.233.160.161,-0.6129125,-94.071072,noncompliant,jailbreak/root detected
+2025-09-13 02:49:23+00:00,D025,-7016662877663191722,login,login,success,500,iOS,15.2,com.company.mdm,70.41.14.187,-62.177705,-15.02049,compliant,login success
+2025-08-17 16:16:01+00:00,D019,6106197881822279108,login,login,success,200,iOS,16.1,com.company.vpn,148.36.47.75,-29.4066535,139.565264,noncompliant,login failed
+2025-08-25 14:35:38+00:00,D047,7320226548302434967,login,login,success,200,Android,12.0,com.company.mdm,106.105.11.90,54.335113,-175.89836,compliant,app blocked by policy
+2025-08-25 23:01:05+00:00,D042,-830929679490510865,logout,logout,success,403,iOS,14.8,com.company.mail,75.94.24.240,-28.0677065,-57.684542,noncompliant,login failed
+2025-08-15 09:39:23+00:00,D013,5738827466913234601,update,update,success,500,Android,13.0,com.company.chat,103.57.32.41,-38.022174,-59.93684,noncompliant,login failed
+2025-09-11 10:51:05+00:00,D007,-5279699433934092546,login,login,success,500,Android,15.2,com.company.mail,182.66.25.63,-0.74735,-31.14674,noncompliant,login success
+2025-09-01 12:45:48+00:00,D028,-1705818659502732051,login,login,success,500,Android,15.2,com.company.mail,142.185.157.155,36.1036555,-16.516868,compliant,login failed
+2025-08-23 20:41:18+00:00,D011,-2509172279923693308,install,install,success,403,iOS,16.1,com.company.mdm,97.192.156.99,7.0054085,-53.153841,noncompliant,app blocked by policy
+2025-08-21 21:46:52+00:00,D043,-3739187341847928132,install,install,fail,500,Android,15.2,com.company.chat,144.86.121.120,-60.8761315,-160.934034,noncompliant,profile install fail
+2025-09-05 12:27:53+00:00,D012,-7512196188324150797,update,update,fail,403,Android,16.1,com.company.vpn,1.141.164.148,74.4262915,111.312636,noncompliant,jailbreak/root detected
+2025-08-23 13:52:23+00:00,D004,4639546893604759446,logout,logout,success,200,iOS,13.0,com.company.chat,197.139.125.187,-5.2298115,-76.809834,noncompliant,jailbreak/root detected
+2025-09-12 18:53:04+00:00,D015,7277694657444937656,config_change,config_change,fail,403,Android,12.0,com.company.mdm,6.166.80.173,-22.034877,-5.523922,compliant,app blocked by policy
+2025-08-21 12:53:54+00:00,D020,-5795420978493769898,login,login,success,200,iOS,14.8,com.company.mdm,223.49.11.187,40.2347915,-49.168705,compliant,login failed
+2025-09-08 13:18:03+00:00,D014,-1811525447157432420,logout,logout,fail,403,iOS,13.0,com.company.mdm,168.181.100.169,44.738775,57.647286,compliant,configuration updated
+2025-09-12 14:24:29+00:00,D010,9040079304395519167,config_change,config_change,success,200,iOS,11.0,com.company.mdm,131.0.249.161,79.3568815,36.884464,noncompliant,profile install fail
+2025-08-24 14:26:03+00:00,D034,5751617633027241198,update,update,success,200,Android,14.8,com.company.mdm,173.213.238.214,-11.8152115,5.081375,compliant,login failed
+2025-08-26 05:52:57+00:00,D037,8985034318729674942,config_change,config_change,success,200,iOS,12.0,com.company.mail,37.56.238.233,80.8498295,-167.909355,noncompliant,jailbreak/root detected
+2025-08-18 18:25:24+00:00,D023,4883791265793512225,update,update,success,403,Android,14.8,com.company.vpn,58.255.65.241,-87.284179,152.720245,noncompliant,app blocked by policy
+2025-08-21 12:17:48+00:00,D010,5978076908193501764,config_change,config_change,success,403,iOS,11.0,com.company.chat,113.82.192.220,19.265412,18.199075,compliant,login success
+2025-09-08 11:06:49+00:00,D048,-8360545709744571970,update,update,success,401,iOS,16.1,com.company.chat,88.84.183.56,70.9734955,98.013168,noncompliant,profile install fail
+2025-08-31 06:47:25+00:00,D032,9011956158673775657,login,login,success,400,iOS,16.1,com.company.mdm,111.227.84.250,-16.293952,69.211763,noncompliant,profile install fail
+2025-08-28 16:39:02+00:00,D047,1139937785885114454,update,update,success,200,iOS,11.0,com.company.vpn,62.96.133.171,33.1335625,146.371803,noncompliant,configuration updated
+2025-08-30 01:16:48+00:00,D032,7085059831416905531,config_change,config_change,success,200,iOS,14.8,com.company.chat,157.224.77.239,52.689911,-131.088722,noncompliant,login failed
+2025-08-26 16:48:01+00:00,D050,8460731546400169742,config_change,config_change,success,200,iOS,15.2,com.company.vpn,67.171.73.86,-19.111,166.075121,compliant,login failed
+2025-09-07 02:19:53+00:00,D003,-365401908533205329,update,update,fail,401,iOS,16.1,com.company.chat,31.235.126.202,23.502786,46.762279,noncompliant,jailbreak/root detected
+2025-09-11 13:23:16+00:00,D026,77359004763954031,login,login,success,400,Android,11.0,com.company.mdm,165.81.216.4,47.5891745,-179.781614,compliant,app blocked by policy
+2025-08-30 14:39:51+00:00,D038,-3548204848913205774,config_change,config_change,success,400,Android,13.0,com.company.mail,48.23.0.224,-86.028871,85.038918,noncompliant,login success
+2025-08-20 08:06:48+00:00,D025,-1465433084613038489,login,login,fail,500,iOS,15.2,com.company.vpn,213.155.254.142,73.401591,57.16473,compliant,profile install fail
+2025-09-03 22:17:24+00:00,D042,1713592681842192374,update,update,success,200,Android,15.2,com.company.vpn,101.16.186.102,32.413128,-62.136124,compliant,login failed
+2025-09-03 20:35:49+00:00,D017,-6886663468780402081,config_change,config_change,success,401,Android,11.0,com.company.mdm,8.47.14.178,74.123019,-8.351822,noncompliant,app blocked by policy
+2025-08-24 05:13:11+00:00,D017,1344528023666192175,logout,logout,success,500,Android,12.0,com.company.mail,60.196.85.68,-45.8354095,-1.120452,compliant,jailbreak/root detected
+2025-08-24 02:59:29+00:00,D043,1515112211239639412,install,install,success,500,Android,16.1,com.company.mail,3.19.69.27,67.5546765,66.789026,noncompliant,login success
+2025-08-18 07:07:37+00:00,D022,7182205489180561593,install,install,success,401,Android,13.0,com.company.chat,44.213.172.165,-89.043533,91.847218,compliant,login failed
+2025-09-06 10:54:19+00:00,D034,7933895866762428341,logout,logout,success,500,Android,13.0,com.company.chat,90.6.171.96,27.7146875,-175.157582,compliant,configuration updated
+2025-08-25 06:52:41+00:00,D002,3827022753733975920,update,update,success,401,Android,11.0,com.company.mdm,10.186.110.247,-23.7911105,26.81965,compliant,jailbreak/root detected
+2025-08-26 13:33:35+00:00,D046,1587444671150014853,config_change,config_change,success,401,iOS,13.0,com.company.mdm,187.188.84.177,78.2782735,-106.181494,noncompliant,jailbreak/root detected
+2025-09-11 00:47:42+00:00,D020,-2492607693700324763,logout,logout,success,500,iOS,16.1,com.company.mail,118.60.209.150,28.914442,49.107363,noncompliant,login failed
+2025-08-29 19:04:12+00:00,D048,2107656572649859688,install,install,success,500,iOS,13.0,com.company.chat,178.244.179.128,-31.957382,125.16033,compliant,login failed
+2025-08-31 13:32:28+00:00,D023,78416698161184057,logout,logout,success,401,Android,16.1,com.company.chat,164.51.211.118,74.7463185,83.303243,noncompliant,jailbreak/root detected
+2025-08-26 16:24:05+00:00,D019,-1999305287977805153,update,update,success,403,iOS,13.0,com.company.mail,88.137.36.114,39.785579,-165.462979,noncompliant,login failed
+2025-09-13 09:49:12+00:00,D033,-3390013790332665501,login,login,success,403,Android,11.0,com.company.mail,128.87.196.21,-40.909029,-156.623684,compliant,login failed
+2025-08-17 01:56:13+00:00,D013,-4491316106441596487,install,install,success,500,Android,15.2,com.company.chat,135.87.81.242,38.707686,-133.140495,compliant,login success
+2025-09-09 22:35:03+00:00,D032,3170838942313986093,install,install,success,400,Android,13.0,com.company.mail,65.240.112.73,62.333194,62.011656,compliant,app blocked by policy
+2025-08-24 12:43:27+00:00,D018,-5969659020809069688,logout,logout,success,400,iOS,11.0,com.company.mail,1.52.107.227,-19.694131,80.678064,compliant,jailbreak/root detected
+2025-08-17 22:37:26+00:00,D028,2518859983014096722,update,update,success,403,Android,14.8,com.company.mail,8.195.102.149,81.930317,47.964921,compliant,configuration updated
+2025-08-16 22:58:11+00:00,D024,-3358389434689740265,login,login,success,500,iOS,14.8,com.company.mail,95.149.57.219,32.1067265,-43.460115,compliant,login failed
+2025-08-24 02:23:40+00:00,D045,5269426988150630317,install,install,success,200,Android,12.0,com.company.chat,86.202.109.90,9.021086,121.424601,compliant,login success
+2025-08-20 18:53:24+00:00,D003,6599738387048421570,install,install,success,403,Android,11.0,com.company.vpn,185.119.34.198,6.671424,-63.397281,noncompliant,app blocked by policy
+2025-08-16 06:54:58+00:00,D023,7524332167008150573,logout,logout,fail,403,iOS,15.2,com.company.vpn,9.254.68.60,-54.603438,-22.000186,compliant,login failed
+2025-08-16 05:58:58+00:00,D047,4775264758048030158,login,login,success,400,iOS,16.1,com.company.mail,206.0.202.201,-4.848381,-131.233163,noncompliant,configuration updated
+2025-09-01 03:05:51+00:00,D017,2055885348276196492,config_change,config_change,success,500,iOS,13.0,com.company.mail,31.62.148.218,-24.564379,-147.765954,compliant,login success
+2025-08-23 22:25:27+00:00,D045,-3554774696190957028,login,login,success,403,iOS,12.0,com.company.chat,87.38.0.46,-58.301114,-129.556457,noncompliant,configuration updated
+2025-09-05 14:15:13+00:00,D010,-5522923332340682040,logout,logout,success,200,Android,11.0,com.company.mail,191.198.21.49,-40.5604225,-139.183194,noncompliant,jailbreak/root detected
+2025-09-09 10:54:23+00:00,D039,-4374590422858436350,logout,logout,success,200,iOS,16.1,com.company.mail,41.116.18.52,-22.43371,168.950501,compliant,app blocked by policy
+2025-08-18 10:16:49+00:00,D013,3125857212546931897,config_change,config_change,fail,401,iOS,16.1,com.company.mdm,50.67.34.218,-39.9147335,36.459546,noncompliant,login failed
+2025-08-31 01:54:02+00:00,D003,-6969074710598832641,config_change,config_change,success,400,Android,16.1,com.company.vpn,205.25.244.253,44.9266955,145.178671,compliant,login success
+2025-08-25 14:28:39+00:00,D043,6452782585665598991,login,login,success,500,Android,15.2,com.company.mail,163.157.214.114,-2.170069,95.595695,compliant,configuration updated
+2025-08-29 14:03:30+00:00,D047,-862914295123999549,login,login,success,400,Android,16.1,com.company.chat,149.232.139.166,-17.3530515,104.124992,noncompliant,login success
+2025-09-13 16:14:24+00:00,D007,600597934873429327,logout,logout,success,401,Android,13.0,com.company.chat,145.30.157.30,-77.6063135,-39.034095,noncompliant,configuration updated
+2025-08-15 13:05:27+00:00,D008,6246636570011579480,login,login,success,200,iOS,15.2,com.company.vpn,128.96.194.24,-73.804073,-3.968524,noncompliant,profile install fail
+2025-08-20 15:28:49+00:00,D029,6737341986875727554,config_change,config_change,success,200,Android,16.1,com.company.vpn,196.177.198.37,-24.97481,-100.131706,compliant,app blocked by policy
+2025-08-16 05:48:19+00:00,D026,828433151531920008,update,update,success,403,Android,11.0,com.company.vpn,77.43.162.46,-9.4614405,49.240434,compliant,login failed
+2025-08-26 06:47:40+00:00,D045,-7651431797703046990,login,login,success,400,iOS,11.0,com.company.mdm,95.103.221.46,68.8598955,-4.42108,noncompliant,login failed
+2025-09-07 22:14:10+00:00,D040,-4767143436592701864,update,update,success,500,iOS,13.0,com.company.vpn,104.12.203.193,15.278063,22.584486,noncompliant,app blocked by policy
+2025-09-11 04:18:47+00:00,D008,8346224343058611762,update,update,success,200,Android,13.0,com.company.chat,111.35.157.40,-89.2471025,-80.888916,compliant,configuration updated
+2025-09-07 19:04:17+00:00,D044,-1083498976675753921,config_change,config_change,success,500,iOS,13.0,com.company.chat,20.25.202.211,51.8204595,21.757949,compliant,app blocked by policy
+2025-09-10 05:56:24+00:00,D043,-6772583913514972456,logout,logout,success,403,iOS,12.0,com.company.mail,33.185.38.8,27.224132,-178.356773,compliant,configuration updated
+2025-08-15 22:03:57+00:00,D011,6858105836750670381,config_change,config_change,success,403,iOS,14.8,com.company.mdm,107.68.244.255,74.5943535,-75.498826,noncompliant,login failed
+2025-08-16 01:38:55+00:00,D022,-1125259912092782099,install,install,fail,400,Android,11.0,com.company.vpn,213.252.51.170,83.532072,-36.912793,compliant,app blocked by policy
+2025-08-27 11:59:58+00:00,D029,-5832761703940993938,config_change,config_change,success,403,Android,16.1,com.company.mail,216.228.192.61,85.98063,-104.727563,noncompliant,configuration updated
+2025-08-31 05:40:22+00:00,D042,2218284003691811449,login,login,fail,403,iOS,12.0,com.company.mail,139.236.64.49,-26.023113,167.432727,compliant,jailbreak/root detected
+2025-08-24 00:04:17+00:00,D040,2319700495094560042,install,install,success,500,iOS,13.0,com.company.mdm,215.12.180.244,63.461035,7.528481,noncompliant,profile install fail
+2025-09-03 15:33:54+00:00,D004,5875966475133133312,logout,logout,success,401,Android,13.0,com.company.chat,171.140.18.243,89.149652,-82.567474,noncompliant,login success
+2025-08-28 05:40:58+00:00,D007,8650093313779531430,logout,logout,fail,401,Android,12.0,com.company.chat,11.116.31.89,-21.274068,-170.316282,compliant,login success
+2025-08-27 18:58:12+00:00,D011,-3370530968878466026,update,update,fail,403,iOS,16.1,com.company.vpn,217.188.198.68,31.3934885,166.021573,compliant,login success
+2025-09-08 01:08:37+00:00,D026,7979146710767142613,logout,logout,success,400,Android,14.8,com.company.mdm,12.204.28.9,-82.062736,-151.666606,compliant,configuration updated
+2025-09-04 22:17:04+00:00,D044,7497293176200993106,config_change,config_change,fail,403,Android,13.0,com.company.vpn,167.83.125.23,-0.7538965,69.489674,noncompliant,login success
+2025-08-29 08:46:34+00:00,D034,-7727094412982899879,login,login,success,403,Android,12.0,com.company.vpn,58.61.2.176,-53.0428865,159.660393,compliant,configuration updated
+2025-09-05 14:31:15+00:00,D009,4702678857856213721,login,login,success,500,Android,12.0,com.company.mdm,17.112.170.246,-22.0252825,92.60119,noncompliant,jailbreak/root detected
+2025-08-25 10:27:43+00:00,D045,-236109189304339250,logout,logout,success,401,Android,11.0,com.company.vpn,209.150.29.240,-1.249396,41.112193,compliant,app blocked by policy
+2025-08-30 09:31:10+00:00,D039,7438395604436290919,config_change,config_change,success,500,Android,13.0,com.company.vpn,5.123.209.68,-15.8625865,84.718914,compliant,login failed
+2025-08-20 13:45:55+00:00,D040,-3251494636366033296,install,install,success,400,iOS,12.0,com.company.chat,148.155.246.88,-54.8324025,-38.779246,compliant,profile install fail
+2025-08-25 23:36:10+00:00,D036,-1930891582136412806,update,update,success,403,Android,11.0,com.company.mail,39.2.229.149,-43.064227,8.47726,compliant,login success
+2025-09-01 02:41:06+00:00,D025,7296340184386932587,logout,logout,fail,200,iOS,16.1,com.company.vpn,178.124.254.199,-23.6485535,97.6235,noncompliant,configuration updated
+2025-09-07 21:28:53+00:00,D017,5011023201187040770,logout,logout,success,401,iOS,12.0,com.company.mail,154.43.26.105,6.452607,176.441569,noncompliant,app blocked by policy
+2025-08-26 10:11:27+00:00,D007,6528234525479296295,config_change,config_change,success,500,iOS,13.0,com.company.mdm,69.247.241.242,-0.3795275,-167.374592,compliant,jailbreak/root detected
+2025-09-04 04:01:43+00:00,D045,-4107853616805042949,install,install,success,200,Android,11.0,com.company.mdm,139.199.203.85,-83.5969875,45.458351,noncompliant,jailbreak/root detected
+2025-08-15 15:48:24+00:00,D004,1961661784203288275,login,login,success,400,Android,15.2,com.company.chat,11.130.146.206,-70.9810005,109.092987,compliant,configuration updated
+2025-09-03 04:09:22+00:00,D013,6777509047367065473,install,install,success,200,iOS,15.2,com.company.mail,215.214.233.197,56.2896105,-145.70917,noncompliant,login success
+2025-09-06 15:52:30+00:00,D028,6888856314316927675,install,install,success,400,iOS,12.0,com.company.chat,81.220.118.17,64.410524,-145.598728,compliant,profile install fail
+2025-09-07 23:05:15+00:00,D030,-6814388568081973035,logout,logout,fail,401,iOS,13.0,com.company.chat,3.103.145.217,23.387568,-176.377363,noncompliant,jailbreak/root detected
+2025-08-22 00:34:31+00:00,D036,1496885216373333189,install,install,fail,401,iOS,15.2,com.company.mail,86.223.121.190,42.1026185,-61.363253,compliant,app blocked by policy
+2025-09-06 14:53:25+00:00,D035,3236964075417876536,config_change,config_change,success,401,iOS,15.2,com.company.chat,103.232.67.193,4.26833,20.017163,noncompliant,profile install fail
+2025-08-22 09:50:46+00:00,D019,-4132024765456958576,logout,logout,success,500,Android,12.0,com.company.mail,31.75.118.210,38.6393285,-152.697366,compliant,configuration updated
+2025-08-26 18:02:39+00:00,D023,5132769851075860805,update,update,success,500,iOS,14.8,com.company.chat,212.164.125.200,-59.3799395,-175.854502,noncompliant,login success
+2025-08-20 05:02:09+00:00,D025,-3023600097556816066,install,install,success,401,iOS,12.0,com.company.chat,109.62.71.24,12.863401,40.86952,noncompliant,app blocked by policy
+2025-08-19 01:49:31+00:00,D003,-1023688371468201021,install,install,success,400,Android,12.0,com.company.mail,63.241.123.139,76.703679,97.503909,compliant,login failed
+2025-09-05 00:22:21+00:00,D050,-2873566742212832014,config_change,config_change,success,200,iOS,13.0,com.company.vpn,15.251.124.33,-42.0293725,38.38652,noncompliant,login success
+2025-08-17 04:28:04+00:00,D014,800381298405379025,config_change,config_change,success,403,iOS,13.0,com.company.vpn,223.107.255.225,81.8728885,175.667112,compliant,app blocked by policy
+2025-09-12 21:20:22+00:00,D046,-4900547760290413879,install,install,fail,200,iOS,15.2,com.company.chat,184.23.206.70,-11.715531,-45.758999,compliant,jailbreak/root detected
+2025-09-03 16:05:12+00:00,D015,1260414292194974460,install,install,success,403,Android,11.0,com.company.chat,98.133.176.231,-47.9408825,105.148356,compliant,app blocked by policy
+2025-09-05 01:10:21+00:00,D044,1654898869717736837,login,login,success,500,iOS,13.0,com.company.mail,173.123.166.154,4.7585045,-141.485958,compliant,profile install fail
+2025-09-13 02:17:42+00:00,D033,3772275432069642334,login,login,success,401,iOS,16.1,com.company.mdm,211.108.75.158,-54.3998125,104.066112,noncompliant,app blocked by policy
+2025-08-29 13:44:35+00:00,D043,8194483193639019501,login,login,success,500,iOS,15.2,com.company.mdm,90.92.62.94,-30.902499,-116.760449,noncompliant,configuration updated
+2025-08-29 01:16:42+00:00,D010,5413062113226651195,install,install,success,401,iOS,12.0,com.company.vpn,4.79.206.48,65.855486,106.742656,compliant,login success
+2025-09-06 17:09:51+00:00,D001,4728708149674700187,config_change,config_change,success,500,iOS,16.1,com.company.vpn,156.248.183.137,-66.9821545,-51.562232,noncompliant,login failed
+2025-08-20 15:35:30+00:00,D027,-1552686949858926744,config_change,config_change,fail,400,iOS,12.0,com.company.chat,87.103.228.83,-1.6599205,-10.278086,compliant,login success
+2025-08-30 03:55:16+00:00,D012,1020587501291419202,config_change,config_change,success,500,Android,13.0,com.company.mail,175.195.59.228,13.9458305,147.927923,noncompliant,configuration updated
+2025-08-23 22:55:27+00:00,D005,4093634329941609898,install,install,fail,500,Android,16.1,com.company.chat,188.101.153.162,16.681548,-98.976006,compliant,configuration updated
+2025-09-07 10:32:03+00:00,D042,3825774315998045541,logout,logout,fail,500,iOS,15.2,com.company.chat,76.160.57.102,6.020823,171.782981,noncompliant,app blocked by policy
+2025-08-22 15:55:14+00:00,D022,-2696588511855732594,config_change,config_change,success,500,iOS,12.0,com.company.chat,158.130.220.231,-22.6309745,61.314753,noncompliant,app blocked by policy
+2025-09-01 20:42:26+00:00,D011,-4534546132104999601,login,login,success,400,Android,16.1,com.company.chat,70.131.29.81,-72.875531,27.061643,compliant,configuration updated
+2025-09-06 00:37:18+00:00,D047,7053167654094476176,install,install,success,403,Android,16.1,com.company.chat,100.137.103.12,-31.6378825,-28.964999,noncompliant,jailbreak/root detected
+2025-09-07 21:39:19+00:00,D007,-3183170015234087469,logout,logout,success,200,Android,15.2,com.company.vpn,26.84.43.228,39.736524,-145.622303,noncompliant,configuration updated
+2025-09-10 06:42:26+00:00,D041,1597926497908393859,login,login,success,200,iOS,12.0,com.company.mdm,148.166.16.194,-9.0264655,-128.372473,compliant,login success
+2025-09-04 20:41:30+00:00,D036,4680479439801048086,install,install,success,500,Android,13.0,com.company.vpn,174.248.161.151,-13.623983,79.18764,noncompliant,app blocked by policy
+2025-09-12 06:32:26+00:00,D015,4825095453231679915,config_change,config_change,success,401,iOS,11.0,com.company.mail,153.200.11.60,84.119166,-108.411076,noncompliant,profile install fail
+2025-09-05 09:18:32+00:00,D033,7765443561604698770,login,login,success,500,iOS,12.0,com.company.vpn,91.173.111.90,-88.6746745,109.784013,noncompliant,login failed
+2025-08-25 14:33:36+00:00,D012,9154577124816877262,config_change,config_change,success,400,Android,16.1,com.company.mail,139.239.147.14,-70.9524515,-53.881317,compliant,app blocked by policy
+2025-08-30 06:42:48+00:00,D015,1503542109456554980,login,login,success,400,iOS,13.0,com.company.vpn,46.151.232.222,-38.8321385,38.884983,noncompliant,app blocked by policy
+2025-08-17 00:28:25+00:00,D031,-4061391233402897931,update,update,success,200,Android,14.8,com.company.chat,178.155.69.158,29.211584,-43.691428,noncompliant,jailbreak/root detected
+2025-08-26 08:27:40+00:00,D035,8394282337138955439,config_change,config_change,fail,403,Android,12.0,com.company.mail,130.77.231.19,34.6014755,163.141046,noncompliant,app blocked by policy
+2025-08-22 12:24:41+00:00,D015,-3127980712699273759,config_change,config_change,success,401,Android,11.0,com.company.mail,81.157.47.68,65.070935,-44.550457,compliant,app blocked by policy
+2025-08-22 08:35:01+00:00,D011,1344528023666192175,logout,logout,fail,401,iOS,15.2,com.company.vpn,105.112.63.229,85.6516465,59.427406,compliant,profile install fail
+2025-09-04 08:23:13+00:00,D039,8813916567376342385,login,login,success,403,Android,13.0,com.company.mail,124.30.242.122,7.455375,-139.284039,noncompliant,configuration updated
+2025-09-04 02:45:24+00:00,D031,1037212361680346100,update,update,success,400,Android,14.8,com.company.vpn,20.179.109.205,12.57001,60.007026,compliant,login failed
+2025-08-20 18:20:33+00:00,D037,4292375467114304593,config_change,config_change,fail,500,iOS,12.0,com.company.vpn,209.139.6.47,86.8978825,-103.404141,compliant,login failed
+2025-08-25 08:04:25+00:00,D017,-8864857383607995612,logout,logout,success,403,iOS,13.0,com.company.chat,86.165.67.182,-20.1913245,169.447664,compliant,login failed
+2025-09-05 22:12:39+00:00,D029,3316623518344547142,config_change,config_change,success,403,iOS,15.2,com.company.mdm,3.235.168.164,32.693965,-78.426214,compliant,jailbreak/root detected
+2025-08-16 18:37:42+00:00,D050,6854467982956614682,logout,logout,success,500,Android,15.2,com.company.chat,154.244.133.252,86.6536515,26.092096,noncompliant,jailbreak/root detected
+2025-08-28 18:56:28+00:00,D038,-6194884482430743268,login,login,success,403,iOS,14.8,com.company.mail,135.152.65.157,6.3142915,-117.279309,compliant,jailbreak/root detected
+2025-08-24 13:53:59+00:00,D033,7743765261469013095,update,update,success,500,iOS,15.2,com.company.mdm,210.157.159.107,-50.413382,150.922717,compliant,jailbreak/root detected
+2025-08-26 23:44:41+00:00,D033,3266027827515499120,login,login,fail,400,iOS,13.0,com.company.mdm,62.15.214.2,-54.764903,130.637049,noncompliant,profile install fail
+2025-08-22 13:26:32+00:00,D003,3803872191481248979,config_change,config_change,success,403,Android,16.1,com.company.mail,42.212.94.207,-22.157058,-7.573178,noncompliant,login failed
+2025-08-26 20:11:58+00:00,D017,8116243716495720122,update,update,success,200,Android,12.0,com.company.mdm,73.143.207.122,-19.9326685,-26.140278,noncompliant,login failed
+2025-08-18 16:09:09+00:00,D001,2322096444863067947,login,login,success,200,iOS,11.0,com.company.vpn,4.237.62.211,-82.993331,153.238698,noncompliant,app blocked by policy
+2025-09-07 13:01:22+00:00,D024,-4729117540993824677,login,login,fail,500,Android,16.1,com.company.mdm,216.249.224.211,-49.93259,32.400914,noncompliant,jailbreak/root detected
+2025-08-25 19:10:54+00:00,D018,-7022981999141880886,update,update,success,403,Android,15.2,com.company.chat,81.10.211.102,69.4277635,172.602494,noncompliant,profile install fail
+2025-09-10 12:11:11+00:00,D020,6511349952388917102,config_change,config_change,success,403,iOS,13.0,com.company.mail,75.148.149.246,-10.51902,83.531733,compliant,app blocked by policy
+2025-08-16 13:35:10+00:00,D045,-5761096497411735129,logout,logout,fail,500,Android,16.1,com.company.mail,128.174.52.57,5.169647,129.791151,compliant,app blocked by policy
+2025-09-12 09:16:20+00:00,D041,7770046998314586470,login,login,success,400,Android,12.0,com.company.mdm,220.159.58.107,4.5349165,147.33405,compliant,login success
+2025-09-03 11:31:35+00:00,D017,-4377418193300888618,logout,logout,success,500,iOS,13.0,com.company.mdm,9.143.98.225,-86.26117,-155.943877,noncompliant,jailbreak/root detected
+2025-09-12 02:03:28+00:00,D042,3525558179559711455,config_change,config_change,success,500,iOS,15.2,com.company.mdm,170.140.252.20,14.71529,69.58551,noncompliant,login success
+2025-08-27 16:00:56+00:00,D013,-4052728121989399842,config_change,config_change,success,200,iOS,12.0,com.company.vpn,128.144.90.233,27.885332,15.79938,compliant,profile install fail
+2025-08-24 19:54:11+00:00,D016,7601295063579402388,login,login,success,200,Android,11.0,com.company.chat,125.71.0.136,56.74414,110.913477,noncompliant,app blocked by policy
+2025-08-16 23:23:26+00:00,D038,-2616737897193749113,logout,logout,success,200,iOS,12.0,com.company.chat,211.251.149.25,-35.1489985,-107.669461,noncompliant,profile install fail
+2025-09-02 10:48:55+00:00,D018,2887133326582478460,logout,logout,success,400,Android,11.0,com.company.mail,61.79.53.136,21.356999,-137.713762,noncompliant,login failed
+2025-08-21 18:51:08+00:00,D027,-880620156821987224,config_change,config_change,fail,200,Android,16.1,com.company.mail,155.9.76.251,-33.73709,-174.420845,noncompliant,jailbreak/root detected
+2025-08-22 01:05:04+00:00,D037,309459738358058880,install,install,success,403,Android,15.2,com.company.chat,63.36.201.78,-73.357827,-155.071701,noncompliant,configuration updated
+2025-09-09 00:39:04+00:00,D030,3368468717225140989,config_change,config_change,success,403,iOS,16.1,com.company.mail,155.60.216.82,-12.940655,-122.397231,noncompliant,configuration updated
+2025-08-23 22:57:03+00:00,D015,-5385865955145932556,logout,logout,success,403,Android,12.0,com.company.mail,32.32.228.180,-68.102545,82.331605,noncompliant,login failed
+2025-08-29 10:20:49+00:00,D019,-3693699571256618986,login,login,success,401,iOS,12.0,com.company.vpn,105.138.93.123,-38.489702,123.637647,noncompliant,profile install fail
+2025-09-06 04:13:44+00:00,D023,3572180578511172896,logout,logout,success,401,iOS,13.0,com.company.vpn,175.142.18.222,14.53118,141.601044,noncompliant,configuration updated
+2025-09-12 18:51:30+00:00,D013,4012424135901217160,logout,logout,success,401,iOS,15.2,com.company.vpn,210.149.56.211,41.2306355,83.311322,compliant,jailbreak/root detected
+2025-08-27 05:56:17+00:00,D023,7195217302531595596,logout,logout,success,200,iOS,13.0,com.company.mdm,82.34.214.222,22.4560085,22.26203,compliant,jailbreak/root detected
+2025-09-11 09:24:23+00:00,D003,706644316576838639,update,update,success,401,Android,12.0,com.company.chat,185.199.1.13,-53.1948575,-113.301821,noncompliant,login failed
+2025-08-16 10:43:28+00:00,D049,-3031790966780011162,config_change,config_change,success,400,iOS,14.8,com.company.mdm,214.210.44.229,7.3859595,-172.098826,noncompliant,jailbreak/root detected
+2025-09-01 22:42:04+00:00,D003,-3618078023004400487,config_change,config_change,success,400,Android,14.8,com.company.mdm,63.131.218.216,20.8277875,-104.546475,noncompliant,configuration updated
+2025-08-27 04:17:13+00:00,D001,-2927355819314208891,login,login,success,403,iOS,16.1,com.company.chat,160.138.163.79,-62.6914045,43.204841,noncompliant,login failed
+2025-08-28 13:55:20+00:00,D036,-7383772854975434070,install,install,success,403,Android,16.1,com.company.vpn,41.206.172.65,64.537671,-150.622709,noncompliant,app blocked by policy
+2025-08-22 18:59:02+00:00,D014,-4224020757347074914,update,update,success,401,Android,11.0,com.company.chat,151.87.88.224,80.7717765,-38.107478,noncompliant,login failed
+2025-09-03 05:26:55+00:00,D037,-5145541165006686099,logout,logout,success,400,iOS,13.0,com.company.chat,217.238.198.231,55.5664295,-137.91442,compliant,jailbreak/root detected
+2025-08-28 01:54:00+00:00,D028,-2160746789222115022,update,update,fail,400,Android,14.8,com.company.vpn,66.91.66.243,74.8459205,13.718694,noncompliant,app blocked by policy
+2025-08-16 07:49:03+00:00,D009,-4336844743335459021,config_change,config_change,success,401,Android,16.1,com.company.chat,37.64.39.125,-73.227214,-171.923164,compliant,app blocked by policy
+2025-08-17 07:44:32+00:00,D007,-1283314455398676053,logout,logout,fail,401,Android,13.0,com.company.mail,72.199.18.90,-50.9308575,177.769336,noncompliant,configuration updated
+2025-09-10 14:48:17+00:00,D022,3701728721811839756,install,install,success,500,Android,16.1,com.company.mail,34.172.109.147,-14.244483,64.764927,noncompliant,login success
+2025-09-08 03:41:30+00:00,D023,-2058169320985426309,config_change,config_change,fail,500,iOS,16.1,com.company.chat,158.253.169.246,60.250074,-177.317493,noncompliant,configuration updated
+2025-09-11 12:00:26+00:00,D033,4105589465255106074,update,update,success,403,iOS,11.0,com.company.chat,5.70.209.189,40.8532125,-27.07362,noncompliant,configuration updated
+2025-08-25 10:14:56+00:00,D010,5367223013602533878,logout,logout,success,401,Android,13.0,com.company.mdm,47.216.106.38,-30.3897115,-48.308333,compliant,login success
+2025-09-05 12:12:40+00:00,D011,5754756082483232514,install,install,success,401,Android,13.0,com.company.chat,93.127.24.232,50.1016585,-39.008882,noncompliant,profile install fail
+2025-08-31 22:02:18+00:00,D029,8322436814485065453,install,install,success,500,Android,11.0,com.company.vpn,197.14.110.116,7.1959505,-176.672434,compliant,login success
+2025-08-28 23:25:47+00:00,D009,-4788217361689373113,logout,logout,success,200,iOS,15.2,com.company.mdm,121.196.164.26,26.750618,80.304254,compliant,login success
+2025-09-10 08:07:53+00:00,D005,-8588743996250710139,update,update,success,200,Android,12.0,com.company.mail,129.170.244.26,-21.2948435,-80.629792,compliant,profile install fail
+2025-09-13 05:20:42+00:00,D040,-299429684010719600,logout,logout,fail,403,Android,15.2,com.company.vpn,46.4.103.151,-81.311677,131.826619,noncompliant,app blocked by policy
+2025-08-31 02:48:28+00:00,D041,6789031914643336053,logout,logout,fail,400,iOS,14.8,com.company.chat,58.90.218.47,-77.5667795,-48.110173,noncompliant,app blocked by policy
+2025-08-19 23:29:12+00:00,D030,4230355162097670965,config_change,config_change,success,500,Android,15.2,com.company.vpn,197.188.156.54,27.7915,60.257858,noncompliant,configuration updated
+2025-08-29 02:24:40+00:00,D048,1520639490101280289,config_change,config_change,success,500,Android,16.1,com.company.mdm,120.196.70.29,-54.621474,140.975765,compliant,login success
+2025-08-15 16:40:21+00:00,D029,6167871440226300629,install,install,success,401,iOS,16.1,com.company.mail,77.204.79.240,3.879408,59.211515,compliant,jailbreak/root detected
+2025-08-16 16:13:13+00:00,D049,-6519775278091052126,logout,logout,success,403,iOS,13.0,com.company.mdm,173.17.219.75,-43.077208,13.126718,noncompliant,profile install fail
+2025-08-17 20:31:25+00:00,D001,4907746371856797921,update,update,success,500,iOS,14.8,com.company.chat,200.208.101.236,-28.2722425,-96.129584,compliant,app blocked by policy
+2025-08-15 09:04:34+00:00,D036,1907893444613528430,update,update,success,400,Android,11.0,com.company.vpn,6.212.110.134,50.1929945,-98.399714,noncompliant,login success
+2025-09-10 00:06:41+00:00,D028,-3291508083528513903,logout,logout,success,500,Android,16.1,com.company.chat,171.123.141.92,-32.3832125,-140.128108,noncompliant,login failed
+2025-08-18 03:21:55+00:00,D005,-9072261061337164048,logout,logout,fail,200,Android,12.0,com.company.mdm,206.117.183.12,22.915493,-105.15255,noncompliant,configuration updated
+2025-08-16 23:15:55+00:00,D040,-5646611671898658047,update,update,fail,200,iOS,14.8,com.company.mail,82.110.91.20,-54.422112,17.25274,compliant,login success
+2025-09-02 14:20:17+00:00,D019,-98564491708508336,install,install,fail,403,iOS,15.2,com.company.mail,146.163.81.150,3.260038,-16.907457,compliant,login success
+2025-09-02 20:21:33+00:00,D032,-5097631892406708768,logout,logout,success,401,Android,16.1,com.company.mdm,125.224.242.128,-55.6536785,-170.14409,compliant,profile install fail
+2025-09-03 04:24:21+00:00,D006,2573380805761036880,logout,logout,fail,403,iOS,12.0,com.company.mdm,116.238.31.203,38.2504975,-16.196148,compliant,login failed
+2025-08-28 03:05:37+00:00,D017,-3175038399813662485,update,update,success,200,iOS,11.0,com.company.mdm,46.118.200.204,-38.532494,-94.744729,compliant,configuration updated
+2025-08-26 18:37:02+00:00,D003,-5964381102143035140,logout,logout,success,200,iOS,11.0,com.company.mdm,180.65.247.240,72.257346,-33.529019,noncompliant,profile install fail
+2025-08-25 21:01:34+00:00,D011,-5139275668531944015,login,login,success,500,iOS,16.1,com.company.mdm,108.75.20.236,-89.599175,-12.890712,noncompliant,login failed
+2025-08-24 19:58:51+00:00,D024,6945366886235997003,login,login,success,400,iOS,15.2,com.company.mdm,11.73.228.99,83.9616925,2.458029,noncompliant,login success
+2025-08-16 09:44:03+00:00,D011,-4587277375027888185,install,install,success,403,iOS,14.8,com.company.mail,209.8.77.213,-19.468754,32.156629,noncompliant,configuration updated
+2025-08-21 07:21:20+00:00,D039,-5650893607305375601,logout,logout,success,200,iOS,15.2,com.company.mdm,8.236.80.91,-65.0098435,52.973812,compliant,configuration updated
+2025-08-22 14:31:27+00:00,D040,1937491309194718176,install,install,success,200,iOS,16.1,com.company.vpn,116.215.60.23,-22.274515,19.859277,compliant,login failed
+2025-08-24 12:26:02+00:00,D032,969116637324707159,logout,logout,success,500,Android,11.0,com.company.vpn,76.143.167.205,80.146104,93.182627,compliant,configuration updated
+2025-08-22 19:13:21+00:00,D025,-8386668600498216903,install,install,success,401,iOS,11.0,com.company.mdm,25.14.109.34,-50.45727,82.979888,noncompliant,jailbreak/root detected
+2025-09-05 07:20:25+00:00,D045,-80966231378253638,update,update,fail,400,Android,16.1,com.company.mdm,152.183.226.21,46.676704,-157.965274,noncompliant,jailbreak/root detected
+2025-08-16 01:34:41+00:00,D036,-2484645162661508610,logout,logout,fail,400,Android,16.1,com.company.chat,38.136.201.243,-20.179188,175.085217,noncompliant,app blocked by policy
+2025-08-24 01:05:08+00:00,D001,5257082875736048149,config_change,config_change,success,400,iOS,12.0,com.company.chat,161.242.95.65,40.2442495,66.995927,compliant,profile install fail
+2025-09-05 05:53:59+00:00,D047,2424234975446638820,login,login,success,500,Android,15.2,com.company.mdm,199.232.78.26,78.112927,-78.080496,compliant,jailbreak/root detected
+2025-09-07 03:35:24+00:00,D019,-4087874582281758288,install,install,success,401,iOS,14.8,com.company.mail,149.139.254.81,29.6827965,98.246765,compliant,login failed
+2025-08-31 15:06:41+00:00,D012,7328179297269077243,login,login,success,403,iOS,14.8,com.company.mail,175.62.255.44,4.4040305,-165.780545,noncompliant,configuration updated
+2025-09-01 12:41:41+00:00,D032,-6155168702978603000,config_change,config_change,success,500,Android,14.8,com.company.chat,60.226.228.189,41.9851535,125.437455,compliant,jailbreak/root detected
+2025-09-05 16:44:27+00:00,D046,-194431037857975813,login,login,fail,400,Android,14.8,com.company.mdm,19.56.94.255,1.0205235,167.007441,compliant,profile install fail
+2025-09-01 20:26:42+00:00,D036,8514871453515911049,update,update,success,200,Android,12.0,com.company.mail,139.136.55.180,-62.13423,70.183418,compliant,profile install fail
+2025-08-24 17:23:21+00:00,D005,4570541909611885752,logout,logout,success,200,iOS,13.0,com.company.vpn,104.86.101.70,-40.1691415,-178.820625,noncompliant,login failed
+2025-08-24 16:40:51+00:00,D013,-4379920451273154928,config_change,config_change,success,500,iOS,12.0,com.company.mdm,64.155.79.29,-32.574227,112.922731,compliant,configuration updated
+2025-09-03 23:59:44+00:00,D037,-4031426511959943449,install,install,success,403,iOS,15.2,com.company.vpn,180.139.168.35,60.753429,78.700862,noncompliant,jailbreak/root detected
+2025-08-20 16:58:53+00:00,D022,7512721803204914183,logout,logout,success,500,Android,16.1,com.company.chat,172.151.149.230,-86.685254,-148.64755,noncompliant,profile install fail
+2025-09-03 21:21:51+00:00,D027,-824864568732876781,update,update,success,401,iOS,12.0,com.company.vpn,156.195.60.110,-30.0525265,77.999201,noncompliant,jailbreak/root detected
+2025-09-07 14:28:07+00:00,D048,910995953822626844,install,install,success,403,Android,11.0,com.company.mail,165.23.164.127,-0.912174,-145.676555,compliant,profile install fail
+2025-09-13 19:04:43+00:00,D039,9049374993088337763,login,login,success,401,iOS,16.1,com.company.vpn,89.163.72.112,-16.6565595,108.812161,compliant,profile install fail
+2025-09-10 11:51:05+00:00,D002,4212052330939576830,install,install,success,500,iOS,14.8,com.company.mail,220.111.247.43,35.3730885,122.684808,noncompliant,profile install fail
+2025-09-09 18:01:03+00:00,D010,4075203312968138014,logout,logout,success,500,iOS,15.2,com.company.chat,52.13.166.115,22.71471,-69.414187,noncompliant,login success
+2025-08-24 02:45:52+00:00,D037,-4350914576209567891,update,update,success,400,iOS,13.0,com.company.chat,211.138.56.154,-50.2051475,81.700374,noncompliant,login failed
+2025-08-15 01:09:17+00:00,D032,1996618869922732800,config_change,config_change,success,200,Android,14.8,com.company.mdm,183.243.162.69,-47.999215,115.075378,compliant,login success
+2025-09-08 08:59:06+00:00,D050,8023481980016863852,install,install,success,403,Android,14.8,com.company.vpn,32.154.25.229,-5.728334,48.43854,compliant,configuration updated
+2025-08-28 05:09:50+00:00,D050,8621571168927845871,update,update,fail,500,iOS,16.1,com.company.vpn,132.141.95.212,-14.380501,116.256826,noncompliant,jailbreak/root detected
+2025-08-30 09:40:59+00:00,D045,4629196092741605250,logout,logout,fail,403,Android,12.0,com.company.mail,192.236.251.123,5.0419525,28.980274,compliant,app blocked by policy
+2025-08-30 20:54:57+00:00,D019,-4725543639595797522,update,update,fail,401,iOS,11.0,com.company.mail,207.43.243.121,0.492562,161.266277,noncompliant,profile install fail
+2025-09-04 13:17:21+00:00,D006,-3276616689617197959,update,update,success,400,iOS,11.0,com.company.vpn,170.46.127.148,-19.1601595,81.166388,noncompliant,app blocked by policy
+2025-08-24 17:49:24+00:00,D042,-4010646296290858204,config_change,config_change,fail,500,iOS,15.2,com.company.mail,84.116.1.147,-79.7252645,55.799858,noncompliant,app blocked by policy
+2025-09-08 06:00:34+00:00,D021,-404379079502360165,config_change,config_change,fail,403,Android,16.1,com.company.chat,197.156.182.75,-50.1404935,-2.656444,compliant,profile install fail
+2025-08-27 09:26:57+00:00,D023,-1338559448170605549,config_change,config_change,success,401,iOS,16.1,com.company.mdm,176.233.152.244,-32.9187855,176.209249,compliant,app blocked by policy
+2025-09-01 12:58:00+00:00,D003,2092251721767855938,logout,logout,fail,401,iOS,13.0,com.company.mail,26.123.219.198,43.872024,-97.545343,compliant,configuration updated
+2025-08-21 03:18:31+00:00,D004,8624908168983601370,logout,logout,success,400,Android,14.8,com.company.chat,11.56.70.41,-10.849751,76.745935,compliant,profile install fail
+2025-08-23 06:18:05+00:00,D029,-2620775798466965377,update,update,fail,400,iOS,15.2,com.company.chat,34.30.189.0,-82.1347995,132.243078,noncompliant,jailbreak/root detected
+2025-09-12 01:19:07+00:00,D047,-221129045711064098,logout,logout,success,200,Android,12.0,com.company.mail,135.150.105.144,-3.0621525,-7.701109,noncompliant,login failed
+2025-09-06 02:41:32+00:00,D004,7413396157166093437,install,install,success,500,Android,14.8,com.company.mdm,185.219.98.193,12.0481515,-85.170647,compliant,login success
+2025-09-07 00:48:42+00:00,D025,9183279248486746527,install,install,success,401,iOS,14.8,com.company.chat,36.201.72.101,72.4459655,126.954375,noncompliant,login failed
+2025-08-30 15:05:34+00:00,D025,-8101842851658771364,config_change,config_change,success,200,Android,11.0,com.company.mail,6.244.27.211,-76.0891375,-27.764131,compliant,login failed
+2025-08-25 14:17:46+00:00,D033,2796043274942542575,update,update,success,200,iOS,15.2,com.company.chat,179.119.231.228,-16.718828,13.611804,noncompliant,app blocked by policy
+2025-08-21 10:35:12+00:00,D026,6929037519972211340,logout,logout,fail,401,Android,13.0,com.company.chat,23.252.181.232,-82.9411525,-156.664752,compliant,jailbreak/root detected
+2025-09-11 00:15:14+00:00,D018,5611211083202196328,login,login,success,403,iOS,12.0,com.company.chat,23.246.142.51,-75.2922415,12.014576,compliant,login failed
+2025-08-18 20:56:46+00:00,D022,5791560681952050053,update,update,success,200,Android,12.0,com.company.vpn,54.53.234.225,-4.4519925,-108.614811,noncompliant,login failed
+2025-08-30 00:04:25+00:00,D037,4127838390959256412,logout,logout,success,401,Android,11.0,com.company.vpn,26.237.221.119,-77.641414,-165.073623,compliant,configuration updated
+2025-09-06 05:45:55+00:00,D009,1133171451150889136,config_change,config_change,success,400,iOS,16.1,com.company.vpn,174.238.227.172,-25.6239425,101.977186,noncompliant,login failed
+2025-08-21 05:07:34+00:00,D042,-8388439102629203756,config_change,config_change,success,401,iOS,12.0,com.company.mail,100.194.147.163,20.8668915,28.724491,compliant,profile install fail
+2025-08-30 19:39:50+00:00,D010,-2673614371663728321,login,login,success,403,Android,16.1,com.company.mdm,4.150.66.72,-41.124599,110.314031,noncompliant,login failed
+2025-08-26 12:37:11+00:00,D050,49033843462160514,logout,logout,fail,400,iOS,12.0,com.company.chat,80.28.213.190,32.0515245,-33.310255,compliant,jailbreak/root detected
+2025-09-11 05:36:13+00:00,D015,-4538521135082552660,logout,logout,success,401,iOS,13.0,com.company.mdm,222.116.110.6,37.285876,96.750507,compliant,jailbreak/root detected
+2025-09-07 23:07:01+00:00,D039,-4511360507864243589,update,update,success,401,iOS,11.0,com.company.mdm,6.173.82.108,-74.2534145,178.998408,noncompliant,login failed
+2025-08-18 03:56:26+00:00,D011,4366712182442751346,logout,logout,success,403,iOS,16.1,com.company.mdm,62.203.207.32,1.758837,5.563963,compliant,configuration updated
+2025-08-21 23:02:46+00:00,D043,-1381140285406837072,logout,logout,success,200,iOS,11.0,com.company.mdm,166.217.12.70,-10.081489,87.939415,noncompliant,app blocked by policy
+2025-08-18 12:59:19+00:00,D016,1618265204073256168,update,update,success,200,Android,13.0,com.company.chat,16.1.100.35,-46.587719,-56.981698,noncompliant,jailbreak/root detected
+2025-08-16 03:18:30+00:00,D048,8591296253701511113,config_change,config_change,success,500,iOS,12.0,com.company.mail,108.97.186.56,-23.564818,48.165496,noncompliant,app blocked by policy
+2025-09-04 00:32:12+00:00,D003,-260530113483462995,logout,logout,success,403,iOS,12.0,com.company.mdm,103.69.89.41,52.8603655,62.157462,compliant,login failed
+2025-09-12 13:59:27+00:00,D019,-6134852138051024357,update,update,success,401,Android,11.0,com.company.vpn,83.77.32.75,-36.200787,-108.341364,noncompliant,profile install fail
+2025-09-08 16:14:57+00:00,D040,-7728370873445576003,login,login,success,400,Android,13.0,com.company.mdm,114.14.105.152,-13.127354,-89.802551,compliant,configuration updated
+2025-09-13 04:51:10+00:00,D033,119771688556795355,login,login,fail,500,iOS,11.0,com.company.mdm,77.217.91.211,-50.941486,-6.969949,noncompliant,app blocked by policy
+2025-08-30 21:11:16+00:00,D002,-7305077265851393387,logout,logout,success,400,Android,14.8,com.company.chat,102.204.77.108,39.844524,-47.082078,noncompliant,configuration updated
+2025-09-12 19:58:49+00:00,D042,-4566836700815176806,logout,logout,success,200,iOS,14.8,com.company.mdm,66.57.179.140,7.116009,-166.205967,noncompliant,login success
+2025-08-25 01:42:44+00:00,D034,-1760299894755405422,update,update,success,500,iOS,11.0,com.company.mdm,72.123.49.54,59.956748,-134.360458,compliant,login failed
+2025-09-12 04:10:24+00:00,D022,-3632898995507043163,config_change,config_change,success,400,iOS,15.2,com.company.vpn,217.228.187.119,73.2426505,-159.225544,compliant,app blocked by policy
+2025-08-15 09:14:25+00:00,D020,-6797209139108108903,install,install,success,403,Android,13.0,com.company.vpn,203.93.208.114,61.242482,-77.780994,compliant,login failed
+2025-08-25 03:23:53+00:00,D013,-6503113144704970902,login,login,success,401,iOS,11.0,com.company.mdm,110.219.254.251,-4.888782,-151.069069,noncompliant,jailbreak/root detected
+2025-08-26 18:04:49+00:00,D001,6340150227280010372,config_change,config_change,success,400,iOS,12.0,com.company.mdm,52.113.95.128,-51.9347485,107.09317,noncompliant,app blocked by policy
+2025-08-18 14:34:27+00:00,D029,-9020204401567606509,login,login,success,200,iOS,12.0,com.company.chat,184.101.29.68,-34.5169755,44.83542,compliant,login success
+2025-08-15 08:10:36+00:00,D012,6947775192441538485,logout,logout,fail,401,iOS,15.2,com.company.mail,91.14.105.82,-27.2299375,-130.486577,noncompliant,profile install fail
+2025-09-04 08:54:52+00:00,D006,378095733029382230,login,login,fail,400,iOS,13.0,com.company.chat,62.245.253.98,25.011998,140.815155,compliant,app blocked by policy
+2025-09-04 13:14:58+00:00,D048,6740650098976182570,config_change,config_change,success,200,iOS,16.1,com.company.chat,99.63.84.142,-49.887595,131.97986,noncompliant,app blocked by policy
+2025-08-24 14:07:37+00:00,D005,-2611069054947901323,update,update,success,200,Android,11.0,com.company.vpn,48.145.129.74,28.75495,-142.458414,compliant,configuration updated
+2025-08-24 23:12:09+00:00,D018,1603330438060195788,install,install,success,500,iOS,13.0,com.company.vpn,13.90.94.241,9.071561,79.647743,compliant,login success
+2025-08-29 22:06:54+00:00,D037,-3120137642921300113,config_change,config_change,success,403,Android,11.0,com.company.chat,183.132.140.201,-48.3659455,-150.02891,noncompliant,jailbreak/root detected
+2025-08-14 22:01:40+00:00,D037,977313831164914977,config_change,config_change,success,400,Android,12.0,com.company.mdm,119.243.30.202,-3.2232405,-72.531844,noncompliant,login failed
+2025-09-13 17:25:44+00:00,D040,-6998119151241545696,logout,logout,success,400,iOS,14.8,com.company.mail,69.209.246.171,-44.8658185,51.45549,noncompliant,configuration updated
+2025-08-26 14:03:34+00:00,D008,3021729806575415576,logout,logout,success,403,Android,14.8,com.company.chat,6.189.49.79,53.3029625,3.897268,noncompliant,jailbreak/root detected
+2025-09-01 18:46:07+00:00,D041,-7378517813971681232,logout,logout,fail,400,Android,16.1,com.company.mail,15.201.27.43,-6.102721,56.686323,noncompliant,profile install fail
+2025-08-19 15:03:02+00:00,D033,-8190356122683771031,config_change,config_change,success,200,iOS,13.0,com.company.chat,178.144.44.169,-87.7458315,68.631368,noncompliant,app blocked by policy
+2025-08-22 21:30:58+00:00,D047,-1931899266453256133,config_change,config_change,success,200,iOS,15.2,com.company.chat,197.162.100.24,27.4550095,-101.377064,noncompliant,configuration updated
+2025-09-12 18:05:55+00:00,D031,-2488972192851331844,update,update,success,400,Android,15.2,com.company.mdm,22.210.10.181,-68.773174,-59.261112,noncompliant,app blocked by policy
+2025-09-01 09:46:41+00:00,D027,-2611463244576268885,login,login,success,401,Android,12.0,com.company.mail,119.131.121.12,-16.0494355,-157.681098,compliant,jailbreak/root detected
+2025-08-27 03:50:15+00:00,D044,-6238505951242672032,install,install,success,401,iOS,15.2,com.company.chat,110.184.124.251,-47.249202,7.815459,compliant,profile install fail
+2025-09-01 13:53:08+00:00,D025,6444523821286327237,config_change,config_change,success,500,Android,15.2,com.company.mail,47.45.66.1,-61.1566275,-14.60761,noncompliant,configuration updated
+2025-08-25 15:22:48+00:00,D021,-8278348132208126955,login,login,success,200,Android,15.2,com.company.chat,143.143.125.199,86.723513,-126.942099,noncompliant,profile install fail
+2025-08-21 19:47:40+00:00,D014,5764201518830886780,config_change,config_change,success,200,Android,14.8,com.company.vpn,120.93.9.81,-75.257962,-80.537532,compliant,app blocked by policy
+2025-09-01 02:48:17+00:00,D033,-3563318522614320860,login,login,success,500,iOS,15.2,com.company.chat,107.153.116.61,-23.3221035,-29.2599,noncompliant,configuration updated
+2025-08-31 11:08:51+00:00,D034,3115538672807657200,install,install,success,400,iOS,12.0,com.company.vpn,138.205.18.143,-58.717339,-5.951664,compliant,configuration updated
+2025-08-27 18:29:15+00:00,D003,120693364166786750,update,update,success,500,iOS,14.8,com.company.chat,143.127.76.235,32.7349855,68.615807,compliant,configuration updated
+2025-09-11 15:12:07+00:00,D039,-2301896217216203152,login,login,success,200,iOS,12.0,com.company.chat,108.248.251.250,24.0437925,169.313408,compliant,jailbreak/root detected
+2025-08-19 09:31:24+00:00,D049,-4869207303200291285,install,install,success,400,Android,15.2,com.company.vpn,57.218.16.22,-49.4296765,51.34644,noncompliant,profile install fail
+2025-09-05 17:42:02+00:00,D035,-2596817308449547944,install,install,success,200,Android,15.2,com.company.vpn,45.76.229.82,51.870585,-132.878521,noncompliant,login success
+2025-08-15 23:55:30+00:00,D001,1254877084380520277,config_change,config_change,success,200,iOS,12.0,com.company.chat,10.58.99.192,-65.9809245,-47.124083,noncompliant,profile install fail
+2025-08-28 16:25:49+00:00,D010,7792854661232426170,install,install,success,400,iOS,16.1,com.company.chat,71.113.80.222,-30.571535,96.188629,noncompliant,login success
+2025-08-25 15:58:42+00:00,D009,-5936171830732131688,login,login,success,200,iOS,11.0,com.company.mail,173.162.204.64,89.2446715,-81.334848,compliant,app blocked by policy
+2025-09-07 02:55:46+00:00,D026,4414081626569735666,logout,logout,success,500,Android,12.0,com.company.chat,31.210.172.127,-88.940529,80.298169,noncompliant,profile install fail
+2025-08-21 12:15:46+00:00,D013,-581691497731944886,config_change,config_change,fail,403,iOS,14.8,com.company.mdm,109.180.193.165,24.638871,-103.906244,compliant,app blocked by policy
+2025-09-03 16:16:25+00:00,D020,5180679375915729956,update,update,success,400,iOS,12.0,com.company.chat,111.247.167.117,-27.321831,23.457004,noncompliant,app blocked by policy
+2025-09-01 21:32:25+00:00,D012,8426146752278847210,install,install,success,401,Android,11.0,com.company.mail,64.73.172.124,-75.4894185,-152.695527,compliant,app blocked by policy
+2025-09-05 06:33:28+00:00,D008,-2807675189759920929,install,install,success,400,Android,16.1,com.company.vpn,98.46.156.237,64.178603,-53.581225,compliant,app blocked by policy
+2025-09-01 11:36:34+00:00,D046,-7159448360485146520,login,login,success,200,Android,12.0,com.company.mdm,84.117.117.132,17.785597,-96.475337,noncompliant,jailbreak/root detected
+2025-09-04 09:47:40+00:00,D027,499440988664962844,logout,logout,success,500,iOS,11.0,com.company.mdm,204.50.187.194,-49.40774,-6.726551,compliant,profile install fail
+2025-09-07 02:08:37+00:00,D014,1987844106991226524,config_change,config_change,success,403,Android,12.0,com.company.vpn,53.38.112.206,-72.918908,24.186742,compliant,configuration updated
+2025-09-01 06:41:44+00:00,D043,7837110717302304590,login,login,success,500,Android,14.8,com.company.mdm,171.130.106.99,-80.274783,-137.492862,noncompliant,jailbreak/root detected
+2025-08-29 22:54:52+00:00,D007,-6383768860848467037,update,update,fail,403,iOS,12.0,com.company.mail,97.154.15.29,-37.705245,144.916772,noncompliant,profile install fail
+2025-09-07 22:28:11+00:00,D032,-6457601877685655275,login,login,fail,400,iOS,15.2,com.company.vpn,75.2.14.66,34.1846925,-146.478542,noncompliant,jailbreak/root detected
+2025-08-19 05:21:01+00:00,D019,-866828474348484798,update,update,success,403,iOS,15.2,com.company.chat,208.232.149.203,-59.949968,89.979428,noncompliant,jailbreak/root detected
+2025-09-04 16:25:40+00:00,D044,-2086378685443307928,install,install,success,403,Android,14.8,com.company.mail,25.188.192.98,-44.462376,-161.699412,noncompliant,login failed
+2025-08-22 06:55:56+00:00,D019,-8634866895758181805,login,login,success,500,iOS,14.8,com.company.chat,104.19.88.187,-82.9142435,170.34423,compliant,profile install fail
+2025-08-29 10:38:39+00:00,D002,7485339146088167377,logout,logout,success,500,Android,13.0,com.company.chat,98.190.181.39,-52.918895,-171.078415,noncompliant,app blocked by policy
+2025-09-01 16:05:53+00:00,D025,-54510006930218096,update,update,success,400,Android,15.2,com.company.vpn,74.162.117.10,-72.6722025,-80.263201,noncompliant,profile install fail
+2025-08-30 09:17:54+00:00,D027,-6222784138273561681,logout,logout,success,400,iOS,14.8,com.company.mail,217.128.230.101,14.427977,-89.470115,compliant,login failed
+2025-08-30 05:26:11+00:00,D047,4224709422766511037,update,update,success,400,iOS,15.2,com.company.mdm,78.77.191.181,77.2292975,-100.067288,noncompliant,configuration updated
+2025-08-22 17:38:34+00:00,D039,-4034104413349828063,update,update,success,403,Android,12.0,com.company.mdm,114.171.244.14,46.638454,-62.601113,noncompliant,profile install fail
+2025-08-18 19:52:03+00:00,D015,-6010647749785867706,logout,logout,success,200,Android,13.0,com.company.vpn,69.255.164.65,-39.8600215,66.800828,noncompliant,app blocked by policy
+2025-09-02 02:40:09+00:00,D035,1602608211425232891,config_change,config_change,success,200,Android,13.0,com.company.chat,211.222.157.67,-49.210215,110.696703,compliant,jailbreak/root detected
+2025-09-03 16:26:08+00:00,D031,1518654624530686500,login,login,fail,500,Android,11.0,com.company.mail,76.28.104.232,24.2077945,-22.672139,compliant,login failed
+2025-08-23 06:31:10+00:00,D031,6977734948625578711,login,login,success,500,Android,12.0,com.company.mail,171.5.253.211,20.762442,128.148077,noncompliant,jailbreak/root detected
+2025-09-08 01:23:48+00:00,D050,-4134918349053297158,login,login,success,500,Android,12.0,com.company.chat,18.193.137.198,16.742639,-43.355843,noncompliant,profile install fail
+2025-08-29 16:45:19+00:00,D019,2907414544084481605,install,install,fail,500,Android,13.0,com.company.chat,53.117.18.227,-69.325747,23.418829,compliant,configuration updated
+2025-08-20 06:34:15+00:00,D031,-6192493065807573061,config_change,config_change,fail,200,Android,13.0,com.company.mail,97.133.222.67,-0.930257,108.502137,noncompliant,app blocked by policy
+2025-09-05 12:29:12+00:00,D006,5959352195254592808,logout,logout,success,401,Android,15.2,com.company.chat,170.173.20.53,-84.5643945,-115.765488,noncompliant,profile install fail
+2025-09-01 18:02:54+00:00,D001,-7686435187346431787,login,login,success,500,iOS,13.0,com.company.mdm,57.128.224.27,42.2681355,84.662822,noncompliant,login failed
+2025-09-12 00:30:36+00:00,D017,-6106567296802680859,logout,logout,success,500,iOS,16.1,com.company.mail,9.42.113.61,64.9817315,106.916117,compliant,jailbreak/root detected
+2025-09-01 08:19:50+00:00,D010,3210548473028822509,update,update,success,403,Android,15.2,com.company.mdm,62.182.231.48,-22.925346,-101.264672,compliant,login failed
+2025-09-08 16:40:12+00:00,D037,7728294028765306500,install,install,fail,401,iOS,14.8,com.company.vpn,112.153.103.88,-79.3749175,76.460916,noncompliant,app blocked by policy
+2025-08-23 22:06:18+00:00,D031,-4783468676758989507,install,install,success,500,iOS,11.0,com.company.mdm,3.107.127.58,30.81178,-150.007848,noncompliant,profile install fail
+2025-09-10 04:21:17+00:00,D010,-5537476056580641840,config_change,config_change,success,200,Android,11.0,com.company.mdm,131.75.165.73,-79.8951165,37.359167,noncompliant,jailbreak/root detected
+2025-09-12 14:31:36+00:00,D044,5959673914864181914,login,login,fail,500,Android,11.0,com.company.chat,207.181.120.249,57.1648275,85.808065,noncompliant,profile install fail
+2025-08-26 05:02:49+00:00,D018,-5555683613611293192,login,login,success,500,Android,11.0,com.company.vpn,196.103.21.245,23.3970315,37.242802,compliant,jailbreak/root detected
+2025-09-09 21:07:38+00:00,D022,1353626767583348193,logout,logout,success,200,iOS,14.8,com.company.mail,218.114.107.162,-32.7766995,-119.726047,noncompliant,login success
+2025-09-09 08:56:57+00:00,D034,523953827017234965,login,login,success,401,iOS,13.0,com.company.chat,87.161.140.167,-41.386187,-48.184606,noncompliant,login failed
+2025-09-03 13:40:05+00:00,D003,-7086401008480967291,login,login,success,200,iOS,12.0,com.company.mail,82.101.57.104,19.8539695,-78.954498,compliant,login success
+2025-09-08 10:33:44+00:00,D039,-927208242472642045,logout,logout,success,500,iOS,14.8,com.company.vpn,206.36.117.112,27.290673,-153.050078,noncompliant,profile install fail
+2025-09-01 11:10:05+00:00,D030,-5862324788271062474,login,login,success,401,Android,13.0,com.company.chat,109.71.16.95,-44.5724815,-131.401309,noncompliant,login failed
+2025-09-08 02:36:39+00:00,D050,-9098939468791529012,login,login,success,200,Android,11.0,com.company.chat,92.38.251.121,40.18864,19.848903,compliant,profile install fail
+2025-09-10 23:31:03+00:00,D017,-8503347669469219384,logout,logout,success,403,iOS,12.0,com.company.mdm,87.172.178.163,83.8641565,34.275739,compliant,configuration updated
+2025-08-31 21:11:29+00:00,D032,-3354969970062776242,login,login,fail,403,iOS,12.0,com.company.mail,155.47.93.127,16.6910895,13.607209,noncompliant,configuration updated
+2025-08-19 10:11:29+00:00,D017,334023046278840885,login,login,fail,200,Android,11.0,com.company.mail,68.116.24.248,-59.3283805,-129.761003,noncompliant,login failed
+2025-08-20 12:30:38+00:00,D042,2672626490396951440,login,login,success,403,Android,15.2,com.company.chat,195.127.174.29,-1.69301,-44.240144,noncompliant,jailbreak/root detected
+2025-08-15 01:21:43+00:00,D001,-4443060697682441831,config_change,config_change,success,403,Android,11.0,com.company.mdm,143.24.71.8,29.9805215,97.247798,compliant,jailbreak/root detected
+2025-09-01 21:52:30+00:00,D015,-4181123427316806019,login,login,success,403,iOS,12.0,com.company.chat,193.35.123.225,12.406449,155.391668,noncompliant,configuration updated
+2025-08-26 21:11:53+00:00,D020,-1603514424477883002,update,update,fail,200,Android,12.0,com.company.chat,42.16.135.98,60.511655,128.208525,compliant,app blocked by policy
+2025-08-28 19:56:36+00:00,D049,-6605732287306051483,install,install,success,400,iOS,11.0,com.company.vpn,68.221.197.131,-55.7265045,11.938329,noncompliant,configuration updated
+2025-08-18 21:21:10+00:00,D025,-8254924225676499209,login,login,success,401,Android,14.8,com.company.mdm,13.147.188.201,-45.961385,-38.065173,compliant,login failed
+2025-09-08 21:59:30+00:00,D003,5356656285876249737,logout,logout,fail,500,iOS,11.0,com.company.mdm,189.236.1.254,4.4996935,84.325483,compliant,jailbreak/root detected
+2025-09-09 22:29:23+00:00,D042,-3911882934952581613,install,install,success,403,iOS,14.8,com.company.chat,186.55.22.164,-61.5954785,-132.538422,compliant,profile install fail
+2025-08-21 10:18:03+00:00,D047,8968410987372454489,login,login,success,400,Android,13.0,com.company.vpn,171.63.231.38,62.5129035,-29.000925,compliant,login success
+2025-08-22 03:54:36+00:00,D003,7210633121237000930,logout,logout,success,200,Android,12.0,com.company.mail,99.11.14.77,-24.271166,153.999113,compliant,configuration updated
+2025-08-26 05:42:54+00:00,D042,-3332611171904308987,logout,logout,fail,200,Android,14.8,com.company.mdm,178.254.60.219,-2.962143,55.74061,compliant,jailbreak/root detected
+2025-08-23 13:54:22+00:00,D005,-6493015159733345965,login,login,fail,500,iOS,14.8,com.company.vpn,15.51.182.174,2.8127865,-39.58906,noncompliant,profile install fail
+2025-09-12 07:36:24+00:00,D048,3730028225688726915,update,update,success,500,iOS,16.1,com.company.vpn,124.219.29.207,81.513856,-37.527445,compliant,jailbreak/root detected
+2025-09-04 12:14:02+00:00,D012,4821757037042659896,install,install,fail,401,iOS,11.0,com.company.vpn,117.54.91.43,-11.790064,-126.730983,noncompliant,jailbreak/root detected
+2025-08-15 18:52:08+00:00,D011,1215895949067637315,update,update,success,500,iOS,15.2,com.company.mail,213.153.198.228,6.414232,46.564934,noncompliant,login failed
+2025-08-16 05:11:57+00:00,D002,2650763857238343792,update,update,fail,200,iOS,14.8,com.company.chat,120.191.240.144,-44.8331645,-69.186765,noncompliant,configuration updated
+2025-09-06 06:49:47+00:00,D050,-1101966568500337761,update,update,success,400,iOS,13.0,com.company.chat,119.49.242.242,-0.7963215,-146.824494,noncompliant,app blocked by policy
+2025-09-05 20:22:46+00:00,D016,-8797466664443923473,logout,logout,success,200,iOS,13.0,com.company.mdm,80.39.53.250,-15.5745365,-37.900246,compliant,configuration updated
+2025-08-23 19:35:58+00:00,D020,-7460591870718014600,install,install,success,500,iOS,15.2,com.company.mail,163.182.137.127,-55.764325,66.638567,compliant,jailbreak/root detected
+2025-08-30 18:30:22+00:00,D024,-1492723298771893216,config_change,config_change,success,403,iOS,16.1,com.company.mail,117.165.96.53,83.134092,-20.907393,compliant,login success
+2025-09-08 15:21:07+00:00,D010,-7399557110948669729,update,update,success,400,iOS,14.8,com.company.chat,25.168.124.184,-85.157525,-17.145791,noncompliant,login failed
+2025-08-20 17:12:16+00:00,D028,7919146237571211758,install,install,success,403,iOS,14.8,com.company.mail,131.50.8.67,-23.3035005,-146.217696,compliant,login failed
+2025-08-21 13:59:53+00:00,D002,1415964437062282714,update,update,success,200,iOS,13.0,com.company.mdm,154.33.64.145,65.6916235,-164.445697,noncompliant,app blocked by policy
+2025-08-30 03:07:01+00:00,D013,-5533977950802225707,install,install,success,200,Android,15.2,com.company.mail,185.254.207.29,-48.6763935,-128.872441,compliant,configuration updated
+2025-09-01 14:45:08+00:00,D027,-1631948119447986453,logout,logout,success,400,iOS,11.0,com.company.mdm,33.86.171.173,76.8728295,46.491606,compliant,app blocked by policy
+2025-08-21 03:45:02+00:00,D010,-3426973417213673354,logout,logout,success,403,iOS,11.0,com.company.chat,142.210.161.89,25.9976515,78.136483,compliant,app blocked by policy
+2025-08-31 10:18:42+00:00,D047,-2513632252127846251,logout,logout,success,401,iOS,16.1,com.company.vpn,217.126.12.209,23.3413145,73.448512,compliant,configuration updated
+2025-09-08 19:12:44+00:00,D037,-2804901740265259521,login,login,success,200,Android,11.0,com.company.mdm,28.36.112.83,-48.6181635,177.873776,compliant,profile install fail
+2025-09-06 16:17:02+00:00,D015,5050181875881684980,install,install,success,500,iOS,12.0,com.company.vpn,139.68.192.43,-25.318595,49.661569,compliant,app blocked by policy
+2025-08-25 07:15:05+00:00,D034,-1107736664843990546,update,update,success,400,Android,11.0,com.company.chat,69.241.204.160,-9.4445665,34.197203,compliant,configuration updated
+2025-08-28 13:25:23+00:00,D028,-2609127567672065524,logout,logout,success,403,iOS,12.0,com.company.vpn,103.63.31.30,21.6708565,37.48701,compliant,app blocked by policy
+2025-09-07 02:07:56+00:00,D003,-4892313050329834473,login,login,success,500,iOS,11.0,com.company.mdm,101.82.92.72,29.972372,81.276814,noncompliant,configuration updated
+2025-08-30 11:34:11+00:00,D007,-4249850908250852408,update,update,success,200,iOS,13.0,com.company.mdm,42.87.219.184,6.394573,-114.653415,compliant,login failed
+2025-09-04 03:38:47+00:00,D023,2429891668794701969,install,install,success,200,iOS,11.0,com.company.chat,53.155.101.227,-61.6165985,84.302041,compliant,configuration updated
+2025-08-17 19:50:45+00:00,D030,-5269022179288976522,config_change,config_change,success,200,Android,11.0,com.company.vpn,8.52.180.83,-33.5153875,152.129384,noncompliant,login failed
+2025-09-02 05:04:03+00:00,D024,6481462184035340347,update,update,success,200,iOS,11.0,com.company.chat,5.44.10.162,-47.265201,-82.997944,compliant,profile install fail
+2025-09-03 05:12:00+00:00,D028,-7896895310049146475,install,install,success,500,iOS,13.0,com.company.mail,65.17.163.146,82.9528915,169.372656,noncompliant,configuration updated
+2025-08-26 08:06:49+00:00,D004,-7233103998830525975,config_change,config_change,success,401,iOS,14.8,com.company.mdm,91.189.39.158,-62.862367,-121.960343,noncompliant,app blocked by policy
+2025-09-04 11:16:03+00:00,D040,-3571966917755013175,login,login,success,400,iOS,12.0,com.company.vpn,90.101.20.17,-84.1909655,-117.142689,compliant,profile install fail
+2025-09-02 07:01:05+00:00,D016,5155548816633434971,config_change,config_change,fail,403,iOS,13.0,com.company.vpn,72.10.172.11,11.9847035,132.223015,noncompliant,profile install fail
+2025-08-25 13:44:13+00:00,D018,1584620704718474881,config_change,config_change,success,401,iOS,14.8,com.company.chat,52.1.156.180,-85.71441,65.353894,noncompliant,app blocked by policy
+2025-08-24 05:11:49+00:00,D032,7791265607320657783,config_change,config_change,success,200,Android,13.0,com.company.chat,218.88.75.229,64.950059,-92.412249,noncompliant,jailbreak/root detected
+2025-09-09 23:53:26+00:00,D024,1114070033880005563,login,login,fail,403,iOS,14.8,com.company.mdm,65.207.59.48,-65.008697,137.538624,compliant,profile install fail
+2025-08-29 23:49:56+00:00,D005,8742020303775619372,login,login,fail,200,iOS,11.0,com.company.vpn,30.7.88.173,19.2972795,59.34809,compliant,jailbreak/root detected
+2025-09-01 20:48:53+00:00,D041,1857570343750910189,login,login,success,500,iOS,11.0,com.company.chat,160.187.54.46,-81.1904365,52.119174,noncompliant,app blocked by policy
+2025-08-28 06:34:13+00:00,D048,-2649965805552355053,login,login,success,200,iOS,15.2,com.company.chat,199.47.191.195,59.873656,-24.826602,noncompliant,jailbreak/root detected
+2025-09-01 16:20:49+00:00,D022,-5154462389641581890,install,install,success,500,Android,11.0,com.company.chat,136.177.19.90,28.3105695,-134.759042,compliant,profile install fail
+2025-08-15 08:43:34+00:00,D011,730739321835694073,install,install,success,401,Android,14.8,com.company.vpn,213.188.36.146,-48.8367565,41.030312,noncompliant,profile install fail
+2025-09-09 04:50:08+00:00,D030,5212981955944328063,logout,logout,success,400,Android,15.2,com.company.vpn,110.86.202.21,-18.3824195,-160.837954,compliant,login failed
+2025-08-27 05:07:30+00:00,D016,783553409377907109,login,login,fail,401,iOS,11.0,com.company.chat,86.73.1.27,87.4809595,-7.127078,noncompliant,login failed
+2025-08-23 03:47:06+00:00,D014,-681026633632565546,config_change,config_change,success,401,Android,15.2,com.company.chat,134.241.29.128,0.6920675,96.870055,noncompliant,jailbreak/root detected
+2025-09-06 23:52:21+00:00,D011,-1493340652916771774,config_change,config_change,success,200,Android,11.0,com.company.vpn,16.227.209.63,41.186315,-145.56423,noncompliant,profile install fail
+2025-08-30 02:45:52+00:00,D010,4264090684064834808,login,login,success,500,Android,13.0,com.company.chat,12.25.11.79,22.784431,-122.611647,noncompliant,profile install fail
+2025-09-04 03:44:10+00:00,D049,-6284687666349683140,config_change,config_change,success,500,Android,16.1,com.company.mail,129.247.30.137,28.369008,-176.049904,noncompliant,login success
+2025-09-01 06:51:33+00:00,D009,-739662251420292680,config_change,config_change,fail,200,Android,12.0,com.company.vpn,33.195.154.210,-59.9258285,140.063332,noncompliant,profile install fail
+2025-08-18 18:29:39+00:00,D006,979327167625980544,install,install,fail,400,iOS,16.1,com.company.vpn,80.213.229.239,44.5133115,84.645624,compliant,login success
+2025-08-15 07:44:15+00:00,D035,4093634329941609898,update,update,success,200,Android,15.2,com.company.mdm,132.218.103.32,13.0281705,33.252761,noncompliant,jailbreak/root detected
+2025-08-17 22:15:37+00:00,D039,799647668813731900,config_change,config_change,success,401,Android,15.2,com.company.mdm,220.115.223.26,43.910885,-26.300627,noncompliant,app blocked by policy
+2025-08-21 12:00:50+00:00,D024,6658303159571312719,login,login,success,401,Android,11.0,com.company.mail,50.228.59.96,41.5028745,-20.532011,compliant,configuration updated
+2025-08-31 11:09:57+00:00,D029,-8592180236439418266,update,update,success,401,iOS,13.0,com.company.mdm,132.238.45.197,-38.75614,-1.930837,noncompliant,login failed
+2025-09-13 16:30:57+00:00,D038,2625873801007192386,config_change,config_change,fail,400,Android,11.0,com.company.chat,38.98.169.186,1.166606,-1.654904,compliant,jailbreak/root detected
+2025-09-11 15:21:43+00:00,D049,-1558837137836821896,update,update,fail,403,Android,11.0,com.company.vpn,104.245.117.67,27.295993,160.02139,noncompliant,configuration updated
+2025-08-29 04:51:39+00:00,D037,-2026513570985366785,logout,logout,fail,403,Android,12.0,com.company.mdm,161.74.196.69,-18.6368535,157.026586,compliant,profile install fail
+2025-09-04 12:39:20+00:00,D038,2670887052811955580,install,install,success,403,iOS,14.8,com.company.mail,128.175.91.110,18.614675,112.838579,compliant,profile install fail
+2025-09-11 14:36:33+00:00,D020,-4692463059866971204,update,update,fail,401,Android,15.2,com.company.mdm,217.54.29.10,-2.9233595,63.393962,compliant,login success
+2025-08-31 03:35:16+00:00,D008,4819499086646024835,install,install,success,200,Android,12.0,com.company.mdm,78.6.83.0,2.1012615,-75.216017,noncompliant,profile install fail
+2025-08-21 09:47:39+00:00,D041,2593559949168265119,update,update,success,200,Android,12.0,com.company.mail,90.69.7.47,65.7423925,-162.708897,noncompliant,login failed
+2025-08-24 15:19:06+00:00,D038,6986085451389657708,login,login,fail,403,iOS,16.1,com.company.vpn,40.1.93.94,-80.435423,162.296754,compliant,profile install fail
+2025-08-22 08:55:13+00:00,D024,-7128924842810798768,update,update,success,401,iOS,16.1,com.company.chat,78.152.217.90,74.190999,89.614708,compliant,jailbreak/root detected
+2025-08-31 22:43:02+00:00,D013,-2062344767252357377,logout,logout,success,500,iOS,12.0,com.company.chat,152.149.139.164,-25.3166755,70.458768,noncompliant,configuration updated
+2025-08-26 20:05:37+00:00,D020,5778143473666416494,install,install,success,401,iOS,12.0,com.company.chat,52.155.167.29,3.9303935,-21.894204,compliant,login success
+2025-08-31 14:18:44+00:00,D009,6825579887881325784,config_change,config_change,success,403,Android,16.1,com.company.vpn,17.23.24.211,-59.1171105,-168.643508,compliant,login failed
+2025-08-29 02:46:26+00:00,D010,1964279974036569838,config_change,config_change,success,400,iOS,11.0,com.company.mdm,19.2.228.46,-62.529396,7.206617,compliant,login success
+2025-09-04 01:58:11+00:00,D009,9085184160836429229,login,login,success,401,Android,15.2,com.company.mdm,109.208.191.222,61.1092175,120.353998,noncompliant,login failed
+2025-08-27 18:41:01+00:00,D046,6776246757094759615,install,install,fail,200,iOS,15.2,com.company.vpn,191.199.54.86,-14.848391,148.7261,compliant,profile install fail
+2025-08-19 13:37:53+00:00,D009,-4808017596223960319,logout,logout,fail,200,Android,13.0,com.company.mail,175.114.197.79,52.911353,130.222047,compliant,login success
+2025-08-23 18:55:09+00:00,D050,8923481422705748011,update,update,success,200,iOS,14.8,com.company.mail,178.107.198.199,73.5747105,44.558029,compliant,app blocked by policy
+2025-08-17 10:55:06+00:00,D008,-8702340285724891840,install,install,fail,401,iOS,14.8,com.company.mail,211.10.100.236,78.5958375,-38.004831,compliant,jailbreak/root detected
+2025-09-03 14:45:10+00:00,D013,7047026212457258484,logout,logout,success,200,iOS,15.2,com.company.chat,205.57.219.215,12.361511,-75.394526,noncompliant,profile install fail
+2025-08-24 16:16:07+00:00,D011,3778607717716650672,config_change,config_change,success,500,iOS,12.0,com.company.mail,122.51.21.95,78.4736865,1.038912,compliant,jailbreak/root detected
+2025-08-16 13:52:54+00:00,D049,2799689209606195093,login,login,success,400,Android,15.2,com.company.mail,64.71.143.112,82.520356,-130.318276,compliant,login failed
+2025-09-13 16:19:37+00:00,D033,5791068282571038807,update,update,success,500,iOS,11.0,com.company.mail,5.95.55.45,31.0604895,-27.594166,compliant,profile install fail
+2025-08-17 07:51:26+00:00,D025,-6151004378610945554,update,update,success,400,Android,14.8,com.company.chat,100.228.121.194,-1.1955525,163.905925,compliant,app blocked by policy
+2025-09-12 08:07:11+00:00,D008,2268610805725178957,config_change,config_change,fail,401,Android,12.0,com.company.mail,137.58.238.29,-45.995411,-117.08317,compliant,profile install fail
+2025-08-30 04:21:33+00:00,D032,-4321248561985463613,login,login,success,403,Android,13.0,com.company.mdm,216.190.144.216,20.649053,-147.666678,compliant,jailbreak/root detected
+2025-08-27 19:41:08+00:00,D027,-2215933298853224504,install,install,success,403,iOS,14.8,com.company.mdm,202.100.223.247,-74.6370545,108.1778,noncompliant,login failed
+2025-09-10 07:23:42+00:00,D001,-1132680029849952219,update,update,success,403,Android,12.0,com.company.mail,65.125.17.110,-52.3617835,-31.93559,compliant,login failed
+2025-08-24 16:19:45+00:00,D026,5065804921241310934,update,update,success,200,iOS,14.8,com.company.chat,137.127.106.107,7.763391,43.818767,compliant,profile install fail
+2025-08-16 20:10:48+00:00,D013,-2163147933980675174,config_change,config_change,success,403,iOS,15.2,com.company.mdm,9.149.120.228,48.8963895,51.761945,noncompliant,profile install fail
+2025-08-31 20:36:40+00:00,D049,1866464624469044930,config_change,config_change,success,403,Android,11.0,com.company.mdm,62.161.153.124,87.789287,-10.848571,noncompliant,jailbreak/root detected
+2025-09-09 11:18:23+00:00,D018,-3735881998536934798,logout,logout,success,200,iOS,16.1,com.company.mdm,30.10.112.19,-17.210558,-137.257846,noncompliant,login failed
+2025-08-23 11:23:12+00:00,D041,2751101334681260678,logout,logout,fail,200,iOS,11.0,com.company.mail,220.134.27.68,-55.2103325,-67.397707,compliant,app blocked by policy
+2025-08-23 09:48:08+00:00,D039,1794817016716110048,install,install,fail,500,iOS,14.8,com.company.mdm,156.252.3.107,-86.4528035,58.134164,noncompliant,login failed
+2025-08-31 22:25:53+00:00,D019,2905075375164435925,update,update,success,401,Android,12.0,com.company.mail,104.145.248.119,-2.81219,-81.167124,compliant,app blocked by policy
+2025-08-16 10:57:25+00:00,D008,5280519806970600856,update,update,success,403,Android,11.0,com.company.mail,112.8.38.38,41.6168935,-19.727495,compliant,login failed
+2025-08-29 03:16:57+00:00,D036,-3165869696247066359,install,install,success,400,Android,11.0,com.company.vpn,207.11.124.150,-18.872875,-115.127188,noncompliant,configuration updated
+2025-08-15 13:01:08+00:00,D025,-6902651865964151431,update,update,success,500,Android,13.0,com.company.mdm,217.205.137.89,67.575879,-133.066469,noncompliant,jailbreak/root detected
+2025-08-28 17:09:41+00:00,D011,433843743633756686,config_change,config_change,fail,401,Android,12.0,com.company.mdm,1.108.19.215,-19.058656,66.030322,noncompliant,profile install fail
+2025-09-01 11:22:35+00:00,D021,7139151367456886075,login,login,fail,200,iOS,16.1,com.company.chat,132.138.199.170,-79.105434,-142.763242,compliant,configuration updated
+2025-08-25 04:57:03+00:00,D022,-7563246454476447914,update,update,fail,401,Android,11.0,com.company.chat,176.7.56.182,-83.064712,-26.884554,compliant,configuration updated
+2025-09-07 01:22:08+00:00,D016,-935192290182343800,logout,logout,success,401,iOS,13.0,com.company.mail,73.202.60.100,-22.5661275,15.049416,noncompliant,login success
+2025-09-06 13:35:13+00:00,D022,-8203535354163146917,logout,logout,fail,401,iOS,11.0,com.company.mdm,78.241.103.133,-64.118168,-137.211736,noncompliant,profile install fail
+2025-08-25 02:58:09+00:00,D002,-383683621243653392,update,update,success,401,Android,12.0,com.company.mdm,203.42.220.112,-14.9508425,141.237092,noncompliant,jailbreak/root detected
+2025-09-09 02:28:00+00:00,D007,105541367880071579,update,update,fail,400,Android,11.0,com.company.chat,72.30.227.53,-1.684101,173.760514,compliant,jailbreak/root detected
+2025-08-15 16:47:06+00:00,D020,-3735822247367416302,install,install,success,400,Android,13.0,com.company.mail,68.52.214.57,-35.569318,118.334774,compliant,profile install fail
+2025-08-18 21:54:13+00:00,D017,-188894627778693227,login,login,success,500,Android,15.2,com.company.mail,4.163.119.163,34.7385485,-2.619857,compliant,jailbreak/root detected
+2025-09-06 07:52:20+00:00,D022,4914289079888230753,install,install,fail,500,Android,11.0,com.company.vpn,145.61.97.21,84.647182,-167.476818,noncompliant,login success
+2025-09-05 03:45:06+00:00,D042,-4473173260046003047,install,install,success,401,Android,13.0,com.company.chat,20.197.21.182,25.6227225,-143.506518,compliant,app blocked by policy
+2025-09-10 22:13:31+00:00,D026,-1142769882510585527,install,install,success,403,iOS,14.8,com.company.vpn,121.237.64.238,76.512412,-13.388765,noncompliant,login failed
+2025-09-07 06:12:24+00:00,D043,6208753033871292374,update,update,success,500,Android,12.0,com.company.mail,106.189.138.134,41.013025,-60.048044,compliant,profile install fail
+2025-08-29 23:50:06+00:00,D030,753160061853887010,logout,logout,success,401,Android,11.0,com.company.chat,164.101.148.120,-59.70711,164.001633,compliant,configuration updated
+2025-08-22 03:21:07+00:00,D014,8802485000851010377,update,update,success,401,iOS,16.1,com.company.vpn,22.115.37.144,74.5379965,-92.543243,noncompliant,login failed
+2025-09-08 01:28:37+00:00,D008,5633171519144490726,logout,logout,fail,400,Android,11.0,com.company.mdm,216.25.19.87,-11.0151065,44.392507,noncompliant,app blocked by policy
+2025-08-22 10:49:49+00:00,D042,-2076162740281098642,login,login,success,401,iOS,14.8,com.company.chat,45.249.190.35,14.529831,123.892423,noncompliant,configuration updated
+2025-09-03 05:42:16+00:00,D036,5624066467889150971,logout,logout,success,200,Android,14.8,com.company.mail,155.9.115.125,55.147362,152.174827,compliant,profile install fail
+2025-09-08 23:43:44+00:00,D039,-2803152828425046027,install,install,success,403,Android,13.0,com.company.mail,204.69.171.77,78.9608195,7.461001,noncompliant,configuration updated
+2025-09-02 17:00:39+00:00,D009,6607375346647141155,logout,logout,fail,500,iOS,12.0,com.company.chat,133.99.70.147,-13.8517225,-61.122759,noncompliant,login success
+2025-09-04 08:58:23+00:00,D016,-4990090215024246321,config_change,config_change,fail,401,Android,12.0,com.company.mdm,54.165.65.97,-16.619554,-46.37502,compliant,app blocked by policy
+2025-09-11 05:41:44+00:00,D014,9137324936346874403,logout,logout,fail,400,Android,11.0,com.company.mdm,104.228.182.89,-7.801408,-158.656221,noncompliant,jailbreak/root detected
+2025-08-26 16:26:14+00:00,D004,1545033338693195392,update,update,success,200,Android,12.0,com.company.mdm,135.246.32.47,35.1152125,-116.16535,noncompliant,configuration updated
+2025-09-08 19:11:04+00:00,D016,-2790706971326952936,install,install,success,400,Android,11.0,com.company.chat,88.93.6.234,42.790589,65.424114,noncompliant,login success
+2025-08-30 14:47:11+00:00,D042,8295506062905125049,config_change,config_change,fail,200,iOS,16.1,com.company.mdm,145.88.220.208,67.8864855,-117.967377,noncompliant,configuration updated
+2025-09-05 11:59:38+00:00,D045,-5166785076205056346,install,install,success,200,iOS,11.0,com.company.mdm,145.218.228.135,42.1275265,77.950919,compliant,app blocked by policy
+2025-09-02 23:26:34+00:00,D017,-3509315403083891126,install,install,fail,400,Android,15.2,com.company.vpn,219.248.62.221,89.5721,-12.604538,noncompliant,configuration updated
+2025-08-18 05:52:17+00:00,D021,-4035542743390787180,update,update,success,401,iOS,11.0,com.company.mdm,215.40.19.112,66.404343,13.993925,noncompliant,profile install fail
+2025-08-23 21:47:09+00:00,D046,5825355363952809931,update,update,success,200,iOS,13.0,com.company.chat,43.128.72.52,12.997909,-63.216815,compliant,profile install fail
+2025-09-02 00:58:23+00:00,D027,5457851022335013569,config_change,config_change,success,500,Android,11.0,com.company.mail,45.79.110.26,-13.7203485,154.766676,compliant,configuration updated
+2025-08-24 07:07:39+00:00,D042,2173357849583820883,logout,logout,success,400,iOS,11.0,com.company.vpn,110.178.204.166,72.156149,57.83494,noncompliant,profile install fail
+2025-09-02 19:35:37+00:00,D037,-8966725701600069914,login,login,fail,400,iOS,12.0,com.company.mdm,89.173.40.221,-56.6729225,110.136531,noncompliant,app blocked by policy
+2025-09-05 14:06:56+00:00,D031,-5241805228874904339,logout,logout,success,500,Android,16.1,com.company.vpn,162.168.22.56,82.109429,44.583117,compliant,app blocked by policy
+2025-09-04 09:00:48+00:00,D024,-3562882180340135378,logout,logout,success,403,iOS,14.8,com.company.mail,103.72.162.206,41.155617,123.904464,compliant,login success
+2025-09-03 20:21:19+00:00,D030,2217473941028985360,logout,logout,success,400,iOS,11.0,com.company.mdm,158.157.21.163,-58.606563,73.600391,noncompliant,login failed
+2025-08-23 05:34:40+00:00,D006,2200857935468929275,install,install,fail,500,iOS,14.8,com.company.mdm,196.130.177.185,61.738877,167.172519,noncompliant,configuration updated
+2025-09-09 09:34:36+00:00,D032,843061280246676004,login,login,success,400,iOS,16.1,com.company.chat,149.10.219.117,-78.9100265,-90.10034,noncompliant,app blocked by policy
+2025-09-04 22:55:53+00:00,D009,-6301720675058756479,update,update,success,500,iOS,16.1,com.company.vpn,109.93.68.189,45.317544,-140.036936,noncompliant,login failed
+2025-08-28 05:10:41+00:00,D027,-80877851549893035,logout,logout,fail,401,iOS,12.0,com.company.mdm,214.165.116.157,-88.220668,-93.855947,compliant,profile install fail
+2025-08-31 06:02:44+00:00,D038,4360337136658124581,update,update,fail,403,iOS,16.1,com.company.mdm,220.170.129.66,70.3252565,47.738965,compliant,configuration updated
+2025-08-18 00:15:14+00:00,D025,3194790790560148778,update,update,success,401,iOS,14.8,com.company.mail,207.182.178.74,-32.096335,-111.63635,compliant,profile install fail
+2025-09-07 12:41:49+00:00,D016,2388672349933193363,update,update,success,500,iOS,14.8,com.company.chat,161.203.65.107,-1.1898355,161.06683,noncompliant,profile install fail
+2025-09-01 14:06:36+00:00,D026,-9158157111427982242,install,install,fail,500,iOS,12.0,com.company.vpn,105.246.127.0,-59.5332955,-42.388229,noncompliant,login failed
+2025-08-25 22:27:46+00:00,D033,3442471201236214456,update,update,success,403,iOS,14.8,com.company.chat,154.175.132.171,-14.786794,-86.89108,noncompliant,login failed
+2025-08-29 12:10:25+00:00,D017,7929854218702668109,login,login,success,400,Android,16.1,com.company.chat,159.28.203.118,76.8921875,85.569363,noncompliant,profile install fail
+2025-08-19 04:51:33+00:00,D017,1326728524869083653,config_change,config_change,success,401,Android,11.0,com.company.vpn,5.140.21.69,-89.0175195,59.258868,noncompliant,configuration updated
+2025-09-05 11:03:05+00:00,D032,-7179436761417870019,logout,logout,success,403,iOS,15.2,com.company.vpn,104.241.136.241,80.721811,106.910531,compliant,login failed
+2025-09-03 17:53:54+00:00,D012,-3948023271687997278,login,login,success,400,Android,11.0,com.company.mail,91.68.222.228,-62.0672965,25.288278,noncompliant,login success
+2025-09-10 13:19:45+00:00,D029,4810636113290608271,install,install,success,500,Android,11.0,com.company.mdm,118.209.76.22,-15.408289,136.215806,compliant,configuration updated
+2025-08-15 17:52:05+00:00,D010,3169987103678722820,login,login,success,400,Android,15.2,com.company.vpn,73.234.106.37,-27.375823,-52.782166,noncompliant,jailbreak/root detected
+2025-08-29 10:09:16+00:00,D043,7860398542061804979,config_change,config_change,success,200,iOS,11.0,com.company.mail,206.146.202.98,-36.2881655,160.682765,compliant,app blocked by policy
+2025-08-31 02:03:31+00:00,D044,-372579428320972070,login,login,success,200,Android,13.0,com.company.mail,23.193.84.141,63.2448635,-43.630332,noncompliant,profile install fail
+2025-08-15 15:23:01+00:00,D038,1807854750178334419,login,login,success,400,iOS,14.8,com.company.mdm,167.104.185.80,53.9541115,76.83606,noncompliant,app blocked by policy
+2025-08-23 00:20:22+00:00,D041,2744420822105255563,install,install,success,200,Android,14.8,com.company.mdm,185.202.192.177,-21.134302,172.416078,noncompliant,configuration updated
+2025-09-13 12:44:23+00:00,D047,1123988528374883894,config_change,config_change,fail,200,Android,16.1,com.company.mail,121.10.233.103,22.041421,112.023918,compliant,jailbreak/root detected
+2025-09-04 08:39:54+00:00,D039,7708823385517637179,update,update,fail,401,iOS,15.2,com.company.mdm,60.163.62.117,36.1454325,-137.725974,compliant,login success
+2025-08-30 22:51:08+00:00,D014,1980098992478343962,logout,logout,success,403,Android,13.0,com.company.vpn,83.156.53.210,31.822599,-7.571736,compliant,profile install fail
+2025-08-16 08:49:20+00:00,D032,-346676837817134233,update,update,success,401,iOS,16.1,com.company.mail,153.185.46.45,67.980801,117.743669,noncompliant,jailbreak/root detected
+2025-09-07 13:27:33+00:00,D013,-8300668899574944047,update,update,success,403,Android,16.1,com.company.mdm,50.125.144.204,-63.8987675,124.792873,compliant,app blocked by policy
+2025-08-15 12:35:31+00:00,D024,1337885444059538788,config_change,config_change,fail,403,iOS,14.8,com.company.chat,168.21.60.220,81.6226015,-113.952978,noncompliant,configuration updated
+2025-09-11 10:10:54+00:00,D015,-1743620030045438849,logout,logout,success,500,iOS,16.1,com.company.mdm,91.186.245.31,-51.775211,-26.749735,noncompliant,login success
+2025-08-16 22:48:17+00:00,D031,-2062820918368858706,install,install,fail,400,Android,15.2,com.company.mdm,142.42.88.254,0.493889,-45.556079,noncompliant,jailbreak/root detected
+2025-08-17 00:36:17+00:00,D004,8169675857689564093,config_change,config_change,fail,200,iOS,12.0,com.company.mdm,30.253.68.156,83.07231,19.190399,noncompliant,login success
+2025-08-17 09:18:39+00:00,D030,-3187453446795776767,config_change,config_change,success,401,Android,12.0,com.company.mail,19.54.72.122,-44.767358,-6.211569,compliant,login success
+2025-08-17 17:56:22+00:00,D048,6608037168456457033,update,update,fail,400,Android,14.8,com.company.mail,68.148.165.113,-13.8086625,59.936501,noncompliant,configuration updated
+2025-09-10 21:38:46+00:00,D020,9074140779456102798,install,install,success,403,Android,12.0,com.company.chat,97.36.19.110,14.523617,-176.89706,noncompliant,login failed
+2025-08-18 20:08:23+00:00,D014,-1076038155588047645,logout,logout,fail,500,Android,13.0,com.company.mail,77.20.43.227,-56.8913105,121.06178,noncompliant,jailbreak/root detected
+2025-09-04 17:17:35+00:00,D002,-9010995109888175307,login,login,success,200,iOS,13.0,com.company.mdm,206.117.210.84,60.350355,-6.77416,noncompliant,configuration updated
+2025-09-03 23:08:52+00:00,D026,3624067116736630586,config_change,config_change,success,401,Android,13.0,com.company.mdm,116.97.195.116,-60.756062,-97.115445,noncompliant,login success
+2025-09-06 12:18:41+00:00,D009,7777885075156678494,logout,logout,fail,200,iOS,13.0,com.company.vpn,80.21.103.66,53.8543045,-119.396193,compliant,login failed
+2025-09-02 18:14:15+00:00,D031,-4458133304841839802,logout,logout,success,403,iOS,14.8,com.company.chat,133.1.4.196,71.3511065,-16.378288,noncompliant,login failed
+2025-09-04 15:36:12+00:00,D031,5859187176521020398,update,update,fail,400,iOS,13.0,com.company.mdm,71.104.169.104,43.8404425,76.773904,noncompliant,app blocked by policy
+2025-08-31 04:07:58+00:00,D002,-8319585212104758256,update,update,success,400,Android,12.0,com.company.mdm,80.216.18.52,39.034835,-70.582206,compliant,profile install fail
+2025-09-09 07:34:03+00:00,D001,-8796722648693859789,login,login,success,403,Android,11.0,com.company.chat,80.64.171.16,-16.4918185,-26.725,compliant,app blocked by policy
+2025-08-29 06:20:42+00:00,D026,2485235431670699671,update,update,success,500,Android,15.2,com.company.mail,160.240.24.31,67.4240635,140.329704,compliant,app blocked by policy
+2025-08-22 01:08:14+00:00,D037,-5116005371554545013,install,install,success,401,Android,11.0,com.company.mail,96.156.147.189,-59.7594705,-57.042757,noncompliant,jailbreak/root detected
+2025-09-13 06:02:18+00:00,D042,-1088629843066140272,install,install,success,403,iOS,15.2,com.company.chat,148.251.186.31,33.083965,-82.62163,compliant,app blocked by policy
+2025-08-22 12:04:56+00:00,D023,-3982000751601597525,update,update,success,400,Android,12.0,com.company.mdm,163.9.145.81,-18.773104,23.572155,compliant,profile install fail
+2025-08-26 14:45:22+00:00,D047,-8732004024635277990,update,update,success,401,Android,15.2,com.company.vpn,143.235.136.19,20.471529,169.94276,noncompliant,configuration updated
+2025-08-20 01:31:51+00:00,D048,-7800649871030676606,login,login,success,400,iOS,15.2,com.company.vpn,28.227.98.192,0.3457935,-113.287428,noncompliant,login success
+2025-09-07 09:13:11+00:00,D027,5203018276924425925,update,update,success,400,iOS,14.8,com.company.chat,101.189.219.98,-38.149625,133.098459,noncompliant,profile install fail
+2025-08-25 04:46:19+00:00,D044,-8526669051480262518,logout,logout,fail,500,iOS,14.8,com.company.chat,213.220.16.251,-80.289874,83.6559,noncompliant,login success
+2025-09-03 23:50:00+00:00,D040,6934070586697866350,logout,logout,fail,400,Android,16.1,com.company.chat,148.225.152.244,46.0934395,-94.74773,noncompliant,login success
+2025-08-15 13:21:24+00:00,D050,-7614703499316846942,config_change,config_change,success,400,iOS,13.0,com.company.mail,22.223.58.19,-21.1156295,39.179298,noncompliant,app blocked by policy
+2025-08-29 01:35:36+00:00,D049,1734256155259810515,login,login,success,500,iOS,12.0,com.company.mail,21.48.140.102,-71.711976,-153.715445,compliant,login failed
+2025-09-06 08:16:59+00:00,D041,113510614827249055,login,login,success,401,iOS,13.0,com.company.chat,122.129.228.78,-59.5724465,-126.842714,noncompliant,jailbreak/root detected
+2025-08-23 21:14:11+00:00,D032,-648961328793476675,login,login,fail,401,Android,15.2,com.company.mail,52.103.140.210,69.908576,-10.66414,compliant,app blocked by policy
+2025-09-05 10:08:42+00:00,D027,-6033827512461230721,login,login,success,403,Android,16.1,com.company.vpn,42.199.81.40,-68.9791505,-179.823157,compliant,profile install fail
+2025-08-21 01:24:26+00:00,D024,-1153827402891246313,update,update,success,400,iOS,12.0,com.company.mdm,59.34.176.30,-45.550475,87.536219,compliant,login failed
+2025-09-12 05:46:37+00:00,D028,2473579082408441204,update,update,success,403,Android,14.8,com.company.mdm,75.205.236.43,-0.2852025,111.246684,compliant,login success
+2025-09-03 20:22:46+00:00,D046,3313123877843255087,config_change,config_change,success,200,Android,16.1,com.company.mdm,203.80.37.83,-73.9844245,-102.808258,compliant,app blocked by policy
+2025-08-22 12:06:01+00:00,D004,7453031849332858929,update,update,success,400,iOS,13.0,com.company.chat,128.66.5.214,-3.149611,-96.18191,noncompliant,app blocked by policy
+2025-08-15 11:58:04+00:00,D044,-2400221377988496646,config_change,config_change,success,401,Android,14.8,com.company.chat,100.238.214.11,26.064575,106.048797,compliant,configuration updated
+2025-08-23 18:54:16+00:00,D026,-5969659020809069688,update,update,success,500,Android,13.0,com.company.chat,118.82.135.77,-18.6827635,-178.223398,noncompliant,login failed
+2025-09-01 19:23:33+00:00,D020,-5339174442188839818,login,login,fail,401,Android,13.0,com.company.vpn,79.149.8.176,-61.5786845,-105.531961,noncompliant,login failed
+2025-08-30 08:53:46+00:00,D006,-9141111421596523214,config_change,config_change,success,500,Android,13.0,com.company.vpn,159.15.112.123,64.74556,30.24551,compliant,login success
+2025-08-26 08:53:32+00:00,D035,3685902023487321580,config_change,config_change,success,401,Android,12.0,com.company.mail,154.71.14.222,-14.76749,92.836034,compliant,profile install fail
+2025-08-29 01:04:35+00:00,D017,4298833423734419262,config_change,config_change,success,200,iOS,11.0,com.company.chat,200.49.103.188,-50.2200865,-74.57321,compliant,app blocked by policy
+2025-08-31 19:42:11+00:00,D022,-2194581289336600432,logout,logout,success,500,iOS,16.1,com.company.chat,178.184.242.57,-18.6869185,-65.697463,noncompliant,configuration updated
+2025-09-10 07:39:44+00:00,D046,5957898118155575796,config_change,config_change,success,403,iOS,14.8,com.company.chat,3.203.135.246,32.1553895,91.724689,compliant,profile install fail
+2025-08-25 01:02:34+00:00,D030,-4092526761423447474,login,login,fail,403,Android,14.8,com.company.mail,48.45.184.202,57.0971385,-14.932036,compliant,app blocked by policy
+2025-09-07 06:33:23+00:00,D009,6453633846600376199,update,update,success,200,Android,13.0,com.company.mdm,75.152.139.124,88.8846325,-53.996861,noncompliant,profile install fail
+2025-08-15 11:02:29+00:00,D038,-4862902781306351033,update,update,success,403,Android,13.0,com.company.mdm,47.26.85.204,-2.515029,141.357152,compliant,login failed
+2025-08-18 18:37:56+00:00,D033,-7478697374759808537,logout,logout,success,403,iOS,13.0,com.company.mail,157.94.208.228,33.515125,47.366409,compliant,app blocked by policy
+2025-08-25 08:15:43+00:00,D031,-6138557929517988267,login,login,success,500,Android,14.8,com.company.mdm,67.178.208.244,25.89471,47.66061,compliant,login success
+2025-08-30 19:45:16+00:00,D024,-462587775655602919,config_change,config_change,success,500,iOS,14.8,com.company.chat,2.70.51.138,-85.740053,-158.647065,noncompliant,profile install fail
+2025-08-27 20:45:39+00:00,D020,-2580125285057987351,install,install,success,400,iOS,12.0,com.company.mdm,145.133.189.255,85.694917,-67.850192,compliant,profile install fail
+2025-08-16 19:16:26+00:00,D019,5345843997041413457,logout,logout,fail,403,iOS,14.8,com.company.chat,8.37.160.65,79.438466,126.067696,compliant,login success
+2025-09-07 14:48:14+00:00,D027,-6710856665328464749,update,update,success,500,Android,16.1,com.company.mdm,145.51.22.167,23.189592,-59.674577,noncompliant,configuration updated
+2025-09-05 13:38:16+00:00,D039,-7716741303231046137,logout,logout,success,500,Android,11.0,com.company.mdm,34.184.227.171,47.3227275,75.755709,compliant,configuration updated
+2025-08-22 10:30:43+00:00,D021,6608966116348780093,login,login,success,500,Android,11.0,com.company.vpn,69.121.53.212,-52.6986585,-150.30739,noncompliant,profile install fail
+2025-08-19 08:15:07+00:00,D035,2828438003681402715,login,login,success,403,Android,13.0,com.company.mail,185.212.3.115,36.55321,-93.670757,compliant,configuration updated
+2025-08-26 17:03:14+00:00,D002,3896003412012628947,config_change,config_change,success,401,iOS,13.0,com.company.mail,40.108.175.218,24.006692,147.3885,compliant,jailbreak/root detected
+2025-08-22 22:11:25+00:00,D035,4315949821915265895,config_change,config_change,success,500,iOS,11.0,com.company.mail,51.52.82.157,-19.5782865,-94.016495,compliant,configuration updated
+2025-08-17 08:58:10+00:00,D035,-1584576268094004432,logout,logout,success,401,iOS,15.2,com.company.mdm,113.208.82.205,53.280459,127.894231,compliant,jailbreak/root detected
+2025-09-12 12:58:42+00:00,D039,1354085753111140540,install,install,success,200,Android,14.8,com.company.chat,42.3.48.81,-33.896025,-137.42021,noncompliant,login failed
+2025-08-20 12:12:03+00:00,D027,-857148609940133139,login,login,success,401,Android,16.1,com.company.mail,105.111.177.112,32.1091835,165.305909,compliant,login success
+2025-08-15 22:45:20+00:00,D035,3492993104721735691,logout,logout,success,400,Android,14.8,com.company.vpn,21.200.199.131,62.5770225,-49.490683,noncompliant,app blocked by policy
+2025-09-12 04:06:10+00:00,D044,-6192755086269911058,logout,logout,fail,401,iOS,14.8,com.company.mail,211.243.239.18,42.637907,112.037202,noncompliant,app blocked by policy
+2025-08-15 20:06:38+00:00,D007,-6902651865964151431,install,install,fail,401,Android,11.0,com.company.mail,163.16.11.216,-42.723771,51.047025,compliant,login failed
+2025-08-15 03:27:51+00:00,D016,8210115363297728085,config_change,config_change,success,403,Android,14.8,com.company.chat,122.101.16.224,46.94712,11.450796,compliant,profile install fail
+2025-08-21 09:34:19+00:00,D030,34622926015812702,config_change,config_change,success,403,iOS,11.0,com.company.vpn,42.83.2.255,-73.742027,-60.417719,compliant,profile install fail
+2025-08-21 23:07:02+00:00,D036,-3224806265882317944,config_change,config_change,success,400,iOS,16.1,com.company.mdm,7.160.250.102,-16.4226245,172.505003,noncompliant,login success
+2025-09-05 18:43:42+00:00,D041,-1205325571885574814,config_change,config_change,success,400,Android,12.0,com.company.vpn,76.30.62.212,-31.9727335,155.254341,compliant,jailbreak/root detected
+2025-08-25 13:21:49+00:00,D028,-3380838005619969887,config_change,config_change,success,200,Android,12.0,com.company.chat,112.254.10.236,38.5513915,81.31342,compliant,login success
+2025-09-08 12:11:20+00:00,D004,6567552830317726473,update,update,success,401,Android,16.1,com.company.vpn,179.32.166.148,32.835948,69.723352,noncompliant,login success
+2025-09-06 05:44:51+00:00,D011,5760203232210771506,config_change,config_change,success,401,iOS,11.0,com.company.mail,149.248.183.175,-17.423831,117.968521,compliant,configuration updated
+2025-08-29 02:24:10+00:00,D036,24672394254063065,install,install,success,400,Android,13.0,com.company.chat,41.55.85.242,72.1745455,-55.71613,noncompliant,configuration updated
+2025-08-23 11:40:12+00:00,D029,186306197377200810,install,install,success,401,Android,15.2,com.company.mdm,74.46.80.171,72.4567415,-14.506086,noncompliant,login success
+2025-08-29 08:36:49+00:00,D045,3797414224489201468,logout,logout,success,200,Android,14.8,com.company.mail,20.243.21.213,-33.885247,-6.498753,compliant,app blocked by policy
+2025-08-26 17:18:03+00:00,D036,1947129856965664556,update,update,success,500,iOS,13.0,com.company.mail,183.5.75.53,-37.571439,-173.188271,compliant,configuration updated
+2025-08-18 05:54:15+00:00,D029,8207122405497556441,login,login,success,403,Android,11.0,com.company.vpn,77.205.94.43,-51.889387,53.300292,compliant,login success
+2025-08-29 06:51:16+00:00,D030,8655142138699894907,install,install,success,403,iOS,15.2,com.company.mail,39.44.43.119,83.983566,73.331451,noncompliant,configuration updated
+2025-08-16 19:54:26+00:00,D046,5092419521341538957,install,install,fail,500,Android,13.0,com.company.vpn,67.219.51.235,-43.4777225,21.854406,compliant,app blocked by policy
+2025-08-19 16:41:23+00:00,D024,1737490850670915325,login,login,success,500,iOS,14.8,com.company.vpn,70.249.92.190,-82.141776,164.928455,noncompliant,login success
+2025-08-16 08:05:40+00:00,D018,8962091750709149235,config_change,config_change,success,400,iOS,13.0,com.company.vpn,51.244.156.114,19.661669,-81.668461,compliant,jailbreak/root detected
+2025-08-27 16:34:39+00:00,D009,-6811896608857414977,login,login,fail,500,iOS,12.0,com.company.chat,91.150.234.69,24.0879115,-134.100038,compliant,configuration updated
+2025-08-24 06:02:46+00:00,D002,958026268263932621,config_change,config_change,success,500,Android,14.8,com.company.mdm,129.211.247.206,28.751827,177.765722,compliant,profile install fail
+2025-08-14 23:28:12+00:00,D028,-25714654695363611,update,update,success,500,Android,11.0,com.company.chat,166.23.131.212,37.745972,-94.455685,compliant,configuration updated
+2025-08-29 06:30:38+00:00,D015,-1082933392621649587,login,login,success,403,Android,16.1,com.company.mail,95.116.139.156,-45.4671,72.893483,noncompliant,login failed
+2025-08-22 20:13:58+00:00,D022,55570151809429618,login,login,success,200,iOS,13.0,com.company.mdm,57.120.103.251,35.9995095,-129.299885,compliant,login failed
+2025-09-06 03:41:31+00:00,D013,8797774467971717853,logout,logout,success,200,iOS,14.8,com.company.mdm,159.206.78.140,37.221593,-95.567624,noncompliant,login success
+2025-08-26 01:07:28+00:00,D038,-2176254433760112982,install,install,success,400,iOS,11.0,com.company.vpn,41.10.79.194,78.8797445,-93.826115,noncompliant,login success
+2025-08-17 22:11:27+00:00,D022,-7920025467877213988,config_change,config_change,success,200,Android,14.8,com.company.mdm,202.130.164.67,18.0184005,110.957716,compliant,login success
+2025-09-02 11:49:33+00:00,D004,-5347734086339376219,login,login,success,200,iOS,14.8,com.company.mdm,112.99.237.139,-46.018206,2.053081,compliant,profile install fail
+2025-08-15 20:24:06+00:00,D040,1841993517973799622,update,update,fail,200,iOS,16.1,com.company.mdm,166.164.102.106,77.5307715,-88.448669,noncompliant,login success
+2025-08-27 13:06:46+00:00,D040,-8529256501889859700,update,update,success,500,iOS,11.0,com.company.mdm,92.227.244.237,77.237809,136.314989,noncompliant,app blocked by policy
+2025-08-26 14:57:48+00:00,D040,-6922274827242464033,config_change,config_change,fail,200,Android,12.0,com.company.chat,147.84.211.196,-38.6872935,-61.228383,compliant,login success
+2025-09-12 01:30:28+00:00,D007,-3606748437637328606,login,login,success,200,iOS,12.0,com.company.vpn,61.180.216.177,70.605535,-147.384776,noncompliant,profile install fail
+2025-09-04 07:39:01+00:00,D027,1379083632083861529,update,update,success,403,iOS,15.2,com.company.vpn,31.149.6.114,-40.548321,171.233265,compliant,login success
+2025-09-05 08:59:17+00:00,D009,-943375172478004225,install,install,success,500,Android,16.1,com.company.vpn,179.68.204.199,30.199289,-42.205355,compliant,app blocked by policy
+2025-08-23 10:11:03+00:00,D020,-1741081124212580461,config_change,config_change,success,401,iOS,12.0,com.company.vpn,199.156.151.97,-56.4991675,106.932153,compliant,login failed
+2025-09-13 17:46:52+00:00,D033,4181367584917632245,config_change,config_change,success,403,Android,15.2,com.company.vpn,38.203.111.73,56.9405005,-165.215041,compliant,login success
+2025-08-30 17:28:22+00:00,D022,-1153438748619730087,logout,logout,success,403,Android,12.0,com.company.chat,50.14.54.147,-72.698176,179.401411,noncompliant,app blocked by policy
+2025-09-11 02:19:27+00:00,D022,2589842727670260768,logout,logout,fail,200,Android,15.2,com.company.mail,137.168.228.17,-39.908145,46.493622,compliant,configuration updated
+2025-08-23 20:20:33+00:00,D015,-5747052536633650023,update,update,success,400,Android,13.0,com.company.chat,18.105.216.63,2.221808,33.371268,noncompliant,login failed
+2025-08-18 20:24:27+00:00,D026,-9093277780650635767,logout,logout,success,200,Android,14.8,com.company.mail,83.82.210.174,-56.4218615,-43.899571,noncompliant,login success
+2025-09-13 14:20:32+00:00,D036,8815957476607876010,login,login,fail,403,iOS,13.0,com.company.chat,4.66.96.50,44.4353185,-179.665963,compliant,login success
+2025-08-29 01:57:01+00:00,D013,-2669336465134413390,logout,logout,success,400,Android,13.0,com.company.vpn,49.173.213.191,76.3578485,40.194523,noncompliant,jailbreak/root detected
+2025-09-04 13:43:33+00:00,D016,-1634521315263576590,logout,logout,fail,400,Android,14.8,com.company.mail,25.41.93.53,-68.5699785,90.47264,compliant,app blocked by policy
+2025-09-07 10:35:23+00:00,D042,5564617099906330428,login,login,success,400,Android,11.0,com.company.vpn,87.35.34.96,72.1121945,-171.585221,noncompliant,profile install fail
+2025-08-30 04:55:40+00:00,D043,-4897419867360501881,logout,logout,success,500,Android,13.0,com.company.mail,116.255.45.176,4.8224375,-84.956135,compliant,login failed
+2025-09-05 10:35:11+00:00,D009,3978909839523910221,logout,logout,fail,403,Android,16.1,com.company.mdm,59.10.97.203,35.9482515,34.144434,compliant,login success
+2025-08-15 16:25:10+00:00,D049,-2479358158188527776,config_change,config_change,success,500,Android,15.2,com.company.chat,61.201.5.120,-25.5771945,166.926139,compliant,login success
+2025-09-12 00:39:52+00:00,D041,7174548361586767425,install,install,success,500,Android,15.2,com.company.mail,96.159.171.208,-22.7273345,132.886285,noncompliant,configuration updated
+2025-08-18 00:55:36+00:00,D040,5700275858196227117,login,login,fail,403,Android,11.0,com.company.mdm,2.201.136.86,60.4832605,-113.044274,compliant,profile install fail
+2025-08-27 16:24:36+00:00,D046,1657318071485871347,install,install,success,403,Android,11.0,com.company.chat,180.125.70.148,18.9368925,89.553728,noncompliant,configuration updated
+2025-09-04 23:42:14+00:00,D038,-5227445337551234098,login,login,success,400,Android,15.2,com.company.mdm,73.184.232.53,-9.557664,154.437964,compliant,profile install fail
+2025-08-29 05:52:54+00:00,D028,8791343690516723156,update,update,success,401,Android,12.0,com.company.mail,214.139.185.159,-13.0785565,110.411577,compliant,login success
+2025-08-18 13:06:50+00:00,D019,6907514209007430019,update,update,success,400,iOS,11.0,com.company.chat,134.7.132.70,54.524112,-170.112629,noncompliant,app blocked by policy
+2025-08-22 01:33:59+00:00,D030,4287306125712669377,update,update,success,403,Android,16.1,com.company.mdm,47.144.182.194,-22.582262,-26.2451,compliant,login failed
+2025-08-15 23:44:15+00:00,D029,627450601068371569,logout,logout,success,200,Android,14.8,com.company.chat,52.255.78.132,20.3079885,-123.052785,compliant,profile install fail
+2025-09-02 00:17:23+00:00,D015,-981513789510760638,login,login,fail,401,iOS,12.0,com.company.vpn,126.158.21.68,21.2325565,50.103304,noncompliant,login failed
+2025-08-16 05:41:48+00:00,D044,-8985271302417884839,install,install,success,401,iOS,13.0,com.company.vpn,21.199.88.33,-26.837384,-57.920863,noncompliant,login success
+2025-08-31 03:08:01+00:00,D050,8585982837737340391,install,install,success,401,Android,11.0,com.company.mail,2.46.39.175,66.908342,85.469948,noncompliant,configuration updated
+2025-08-22 05:25:24+00:00,D033,-3610962907600906553,logout,logout,success,400,iOS,13.0,com.company.vpn,170.84.36.108,19.593631,150.233027,noncompliant,login failed
+2025-09-02 08:10:38+00:00,D034,7941006062555233903,config_change,config_change,success,403,Android,16.1,com.company.mail,69.179.252.143,-62.91203,-162.109898,noncompliant,login failed
+2025-09-10 23:57:53+00:00,D028,7945263539164082574,update,update,success,403,iOS,16.1,com.company.vpn,208.183.255.90,51.5457585,-155.346938,compliant,profile install fail

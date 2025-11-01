@@ -1,0 +1,2 @@
+timestamp,device_id,user,event_type,action,result,status_code,os,os_version,app_id,ip,message,anomaly_score,is_anomaly
+2025-08-31 09:05:00+00:00,D003,emp33,Security,Integrity,Warn,300.0,iOS,18.0,,10.1.2.9,Jailbreak suspected,-0.020064501673380586,1
